@@ -2,8 +2,8 @@ const fetch = require('node-fetch');
 const jsdom = require('jsdom');
 const { JSDOM } = jsdom;
 const fs = require('fs');
-var table = require('markdown-table');
-var Papa = require('papaparse');
+const table = require('markdown-table');
+const Papa = require('papaparse');
 const path = require('path');
 const baseURL = 'https://support.microsoft.com';
 const URL =
@@ -204,15 +204,6 @@ ${cur.description}
     writeFile(ouputPath, outputString);
   });
 }
-
-// function exportDecronyms(data) {
-//   const obj = data.reduce((acc, cur) => {
-//     acc[cur.name + '('] = [cur.description, cur.link];
-//   }, {});
-//   const outputString = JSON.stringify(obj);
-//   const ouputPath = 'excelDecronyms.json';
-//   writeFile(ouputPath, outputString);
-// }
 
 fetch(URL)
   .then((res) => res.text())
