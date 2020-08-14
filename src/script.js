@@ -218,7 +218,7 @@ function createDecronyms(data) {
     }, csvData);
     const decronyms = combined.reduce((acc, cur) => {
       const key = cur.name;
-      const value = mdLink(cur.description, cur.link);
+      const value = [mdLink(cur.description, cur.link)];
       acc[key] = value;
       return acc;
     }, {});
