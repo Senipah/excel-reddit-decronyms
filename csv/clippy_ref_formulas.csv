@@ -1,4 +1,4 @@
-﻿﻿Formula,Address,Called,Contents
+﻿Formula,Address,Called,Contents
 FUNCTION_LIST,https://support.office.com/en-us/article/Excel-functions-by-category-5f91f4e9-7b42-46d2-9bd1-63f26a86c0eb,0,"**FUNCTION_LIST**:
 
 
@@ -164,7 +164,7 @@ Excel provides two types of array formulas: Array formulas that perform several 
 ARRAYFORMULA,https://support.office.com/en-gb/article/Create-an-array-formula-e43e12e0-afc6-4a12-bc7f-48361075954d,1,"**ARRAYFORMULA**:
 
 
-Array formulas are powerful formulas that enable you to perform complex calculations that often canâ€™t be done with standard worksheet functions. They are also referred to as ""Ctrl-Shift-Enter"" or ""CSE"" formulas, because you need to press Ctrl+Shift+Enter to enter them.  You can use array formulas to do the seemingly impossible, such as
+Array formulas are powerful formulas that enable you to perform complex calculations that often canâ€™t be done with standard worksheet functions. They are also referred to as """"Ctrl-Shift-Enter"""" or """"CSE"""" formulas, because you need to press Ctrl+Shift+Enter to enter them.  You can use array formulas to do the seemingly impossible, such as
 
 
 Count the number of characters in a range of cells.
@@ -181,7 +181,7 @@ Excel provides two types of array formulas: Array formulas that perform several 
 
 
 [Read more on Office Support.](https://support.office.com/en-gb/article/Create-an-array-formula-e43e12e0-afc6-4a12-bc7f-48361075954d)
-"
+"""
 ABS,https://support.microsoft.com/en-us/office/abs-function-3420200f-5628-4e8c-99da-c99d7c87713c,0,"**ABS**:
 
 Returns the absolute value of a number

@@ -191,18 +191,6 @@ function createCSV(data) {
   });
 }
 
-function formatDecronyms(newData, csvData) {
-  const combined = newData.reduce((acc, cur) => {
-    if (!acc.some((e) => e.name === cur.name)) {
-      acc.push(cur);
-    }
-    return acc;
-  }, csvData);
-  return combined.reduce((acc, cur) => {
-    acc[cur.name] = mdLink(acc.description, acc.link);
-  }, {});
-}
-
 function createDecronyms(data) {
   const manualAdditions = path.join(
     process.cwd(),
@@ -249,8 +237,8 @@ fetch(URL)
     const rows = table.querySelectorAll('tbody>tr');
     const rowArray = Array.from(rows);
     const data = extractData(rowArray);
-    // byCategory(data);
-    // alphabetical(data);
+    byCategory(data);
+    alphabetical(data);
     createDecronyms(data);
-    // createCSV(data);
+    createCSV(data);
   });
