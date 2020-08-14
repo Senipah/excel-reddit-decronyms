@@ -177,8 +177,8 @@ function createCSV(data) {
     if (err) {
       throw err;
     }
-    // clean surrounding quotes - important
-    const clean = csvString.slice(1, -1);
+    // clean first surrounding quote - important
+    const clean = csvString.slice(1);
     const parsed = Papa.parse(clean, {
       skipEmptyLines: true, // true is 'greedy', meaning skip delimiters, quotes, and whitespace.
     });
@@ -203,8 +203,8 @@ function createDecronyms(data) {
     if (err) {
       throw err;
     }
-    // clean surrounding quotes - important
-    const clean = csvString.slice(1, -1);
+    // clean first surrounding quote - important
+    const clean = csvString.slice(1);
     const parsed = Papa.parse(clean, {
       skipEmptyLines: true, // true is 'greedy', meaning skip delimiters, quotes, and whitespace.
       header: true, // converts to array of obj with column headers as prop names
