@@ -48,10 +48,12 @@ function getNavbar(arr, active, pageName) {
     const val =
       cur === active
         ? `**${cur}**`
-        : `[${cur}](/r/ExcelMod/wiki/${encodeURIComponent(
-            pageName
-          )}#wiki_${encodeURIComponent(cur.toLowerCase())})`;
-
+        : mdLink(
+            cur,
+            `/r/ExcelMod/wiki/${encodeURIComponent(
+              pageName
+            )}#wiki_${encodeURIComponent(cur.toLowerCase())}`
+          );
     return acc + val + '\n|\n';
   }, '');
 }
@@ -129,8 +131,12 @@ function alphabetical(data) {
 
 // eslint-disable-next-line no-unused-vars
 function createCSV(data) {
-  const csvPath = 'clippy_ref_formulas.csv';
-  const backupPath = 'old_csv/backup_clippy_ref-formulas.csv';
+  const csvPath = path.join(process.cwd(), 'clippy_ref_formulas.csv');
+  const backupPath = path.join(
+    process.cwd(),
+    'old_csv',
+    'backup_clippy_ref-formulas.csv'
+  );
   const formatCSVRow = (cur) => {
     const contents = `**${cur.name}**:
 
