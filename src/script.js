@@ -21,22 +21,37 @@ function writeFile(outputFile, outputString) {
 }
 
 function extractData(nodes) {
-  return nodes.map((e) => {
-    const linkText = e.children[0]
-      .querySelector('p>a')
-      .text.replace(' function', '');
-    const href = e.children[0].querySelector('p>a').href;
-    const blurb = e.children[1]
-      .querySelector('p')
-      .textContent.replace('\n              ', '');
-    const [cat, desc] = blurb.split(/:\s+/, 2);
-    return {
-      name: linkText.split(',', 1)[0], // in case of any commas in var names
-      link: baseURL + href,
-      category: cat,
-      description: desc,
-    };
-  });
+  return nodes
+    .map((e) => {
+      const linkText = e.children[0]
+        .querySelector('p>a')
+        .text.replace(/ function(?:s)?/, '');
+      const href = e.children[0].querySelector('p>a').href;
+      const blurb = e.children[1]
+        .querySelector('p')
+        .textContent.replace('\n              ', '');
+      const [cat, desc] = blurb.split(/:\s+/, 2);
+      if (linkText.includes(',')) {
+        // linkText contains two or more entries, e.g "MID,MIDB".
+        // return a separate obj for each with same desc and link
+        const titles = linkText.split(', ');
+        return titles.map((title) => {
+          return {
+            name: title,
+            link: baseURL + href,
+            category: cat,
+            description: desc,
+          };
+        });
+      }
+      return {
+        name: linkText,
+        link: baseURL + href,
+        category: cat,
+        description: desc,
+      };
+    })
+    .flat();
 }
 
 function mdLink(text, href) {
@@ -129,14 +144,7 @@ function alphabetical(data) {
   writeFile(outputFile, outputString);
 }
 
-// eslint-disable-next-line no-unused-vars
-function createCSV(data) {
-  const csvPath = path.join(process.cwd(), 'clippy_ref_formulas.csv');
-  const backupPath = path.join(
-    process.cwd(),
-    'old_csv',
-    'backup_clippy_ref-formulas.csv'
-  );
+function combineCSVDefinitions(newData, csvData) {
   const formatCSVRow = (cur) => {
     const contents = `**${cur.name}**:
 
@@ -146,66 +154,88 @@ ${cur.description}
     return [cur.name, cur.link, 0, contents];
   };
 
-  fs.readFile(csvPath, 'utf8', function read(err, csvString) {
+  const existingFN = csvData.map((e) => e[0]);
+  return newData.reduce((acc, cur) => {
+    if (existingFN.indexOf(cur.name) < 0) {
+      const newRow = formatCSVRow(cur);
+      acc.push(newRow);
+    }
+    return acc;
+  }, csvData);
+}
+
+// eslint-disable-next-line no-unused-vars
+function createCSV(data) {
+  const manualAdditions = path.join(
+    process.cwd(),
+    'csv',
+    'manual_additions',
+    'clippy_format.csv'
+  );
+  const outputPath = path.join(process.cwd(), 'csv', 'clippy_ref_formulas.csv');
+  fs.readFile(manualAdditions, 'utf8', function read(err, csvString) {
     if (err) {
       throw err;
     }
-    // create backup
-    writeFile(backupPath, csvString);
-    const parsed = Papa.parse(csvString, {
+    // clean surrounding quotes - important
+    const clean = csvString.slice(1, -1);
+    const parsed = Papa.parse(clean, {
       skipEmptyLines: true, // true is 'greedy', meaning skip delimiters, quotes, and whitespace.
     });
     const csvData = parsed.data;
-    const existingFN = csvData.map((e) => e[0]);
-    const combined = data.reduce((acc, cur) => {
-      if (existingFN.indexOf(cur.name) < 0) {
-        const newRow = formatCSVRow(cur);
-        acc.push(newRow);
-      }
-      return acc;
-    }, csvData);
+    const combined = combineCSVDefinitions(data, csvData);
     const BOM = '\ufeff';
     const outputString = BOM + Papa.unparse(combined);
 
-    writeFile(csvPath, outputString);
+    writeFile(outputPath, outputString);
   });
 }
 
+function formatDecronyms(newData, csvData) {
+  const combined = newData.reduce((acc, cur) => {
+    if (!acc.some((e) => e.name === cur.name)) {
+      acc.push(cur);
+    }
+    return acc;
+  }, csvData);
+  return combined.reduce((acc, cur) => {
+    acc[cur.name] = mdLink(acc.description, acc.link);
+  }, {});
+}
+
 function createDecronyms(data) {
-  const csvPath = 'clippy_ref_formulas.csv';
-  const formatCSVRow = (cur) => {
-    const contents = `**${cur.name}**:
+  const manualAdditions = path.join(
+    process.cwd(),
+    'csv',
+    'manual_additions',
+    'decronym_format.csv'
+  );
 
-${cur.description}
-
-[Read more on Office Support.](${cur.link})`;
-    return [cur.name, cur.link, 0, contents];
-  };
-
-  fs.readFile(csvPath, 'utf8', function read(err, csvString) {
+  fs.readFile(manualAdditions, 'utf8', function read(err, csvString) {
     if (err) {
       throw err;
     }
-    const parsed = Papa.parse(csvString, {
+    // clean surrounding quotes - important
+    const clean = csvString.slice(1, -1);
+    const parsed = Papa.parse(clean, {
       skipEmptyLines: true, // true is 'greedy', meaning skip delimiters, quotes, and whitespace.
+      header: true, // converts to array of obj with column headers as prop names
     });
     const csvData = parsed.data;
-    const existingFN = csvData.map((e) => e[0]);
     const combined = data.reduce((acc, cur) => {
-      if (existingFN.indexOf(cur.name) < 0) {
-        const newRow = formatCSVRow(cur);
-        acc.push(newRow);
+      if (!acc.some((e) => e.name === cur.name)) {
+        acc.push(cur);
       }
       return acc;
     }, csvData);
-    const obj = combined.reduce((acc, cur, idx) => {
-      // skip column headers
-      if (idx > 0) {
-        acc[cur[0]] = [cur[3]];
-      }
+    const decronyms = combined.reduce((acc, cur) => {
+      const key = cur.name;
+      const value = mdLink(cur.description, cur.link);
+      acc[key] = value;
       return acc;
     }, {});
-    const outputString = JSON.stringify(obj, null, 2);
+
+    const outputString = JSON.stringify(decronyms, null, 2);
     const ouputPath = path.join(process.cwd(), 'excelDecronyms.json');
     writeFile(ouputPath, outputString);
   });
@@ -219,8 +249,8 @@ fetch(URL)
     const rows = table.querySelectorAll('tbody>tr');
     const rowArray = Array.from(rows);
     const data = extractData(rowArray);
-    byCategory(data);
-    alphabetical(data);
+    // byCategory(data);
+    // alphabetical(data);
     createDecronyms(data);
     // createCSV(data);
   });
