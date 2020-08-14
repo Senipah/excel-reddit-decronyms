@@ -1,0 +1,184 @@
+﻿Formula,Address,Called,Contents
+FUNCTION_LIST,https://support.office.com/en-us/article/Excel-functions-by-category-5f91f4e9-7b42-46d2-9bd1-63f26a86c0eb,0,"**FUNCTION_LIST**:
+
+
+Worksheet functions are categorized by their functionality. Click a category to browse its functions. Or press Ctrl+F  to find a function by typing the first few letters or a descriptive word. To get detailed information about a function, click its name in the first column.
+
+
+[Read more on Office Support.](https://support.office.com/en-us/article/Excel-functions-by-category-5f91f4e9-7b42-46d2-9bd1-63f26a86c0eb)
+"
+Forecasting,https://support.office.com/en-us/article/Forecasting-functions-897a2fe9-6595-4680-a0b0-93e0308d5f6e,0,"**Forecasting**:
+
+
+The following time series forecasting functions can be used to predict future values based on historical data. 
+These functions  use advanced machine learning algorithms, such as Exponential Triple Smoothing (ETS).
+
+
+
+FORECAST.ETS function
+
+
+
+
+FORECAST.ETS.SEASONALITY function
+
+
+
+
+FORECAST.LINEAR function
+
+
+
+
+FORECAST.ETS.CONFINT function
+
+
+
+
+FORECAST.ETS.STAT function
+
+
+
+
+
+[Read more on Office Support.](https://support.office.com/en-us/article/Forecasting-functions-897a2fe9-6595-4680-a0b0-93e0308d5f6e)
+"
+AVOID_BROKEN,https://support.office.com/en-us/article/How-to-avoid-broken-formulas-8309381d-33e8-42f6-b889-84ef6df1d586,0,"**AVOID_BROKEN**:
+
+
+ 
+If Excel canâ€™t resolve a formula youâ€™re trying to create, you may get an error message like this one:  
+
+Unfortunately, this means that Excel canâ€™t understand what youâ€™re trying to do, so you might just want to get out of here and start over.
+
+Start by clicking OK or press ESC to close the error message.
+
+You'll return to the cell with the broken formula, which will be in edit mode, and Excel will highlight the spot where itâ€™s having a problem.  If you still donâ€™t know what to do from there and want to start over, you can press ESC again, or click the Cancel button in the formula bar, which will exit you out of edit mode.
+
+
+
+If youâ€™re not sure what to do at this point or what kind of help you need, you can search for similar questions in the Excel Community Forum, or post one of your own.
+
+
+
+
+If you want to move forward, then the following checklist provides troubleshooting steps to help you figure out what may have gone wrong in your formulas.
+
+
+[Read more on Office Support.](https://support.office.com/en-us/article/How-to-avoid-broken-formulas-8309381d-33e8-42f6-b889-84ef6df1d586)
+"
+FORMULA_OVERVIEW,https://support.office.com/en-us/article/Overview-of-formulas-in-Excel-ecfdc708-9162-49e8-b993-c311f47ca173,0,"**FORMULA_OVERVIEW**:
+
+
+ 
+If you're new to Excel, you'll soon find that it's more than just a grid in which you enter numbers in columns or rows. Sure, you can use Excel to find totals for a column or row of numbers, but you can also calculate a mortgage payment, solve math or engineering problems, or find a best case scenario based on variable numbers that you plug in. 
+Excel does this by using formulas in cells. A formula performs calculations or other actions on the data in your worksheet. A formula always starts with an equal sign (=), which can be followed by numbers, math operators (like a +  or - sign for addition or subtraction), and built-in Excel functions, which can really expand the power of a formula.
+For example, the following formula multiplies 2 by 3 and then adds 5 to that result to come up with the answer, 11.
+
+=2*3+5
+
+Here are some additional examples of formulas that you can enter in a worksheet.
+
+
+
+=A1+A2+A3Â Â Â Â Adds the values in cells A1, A2, and A3.
+
+
+
+=SUM(A1:A10)Â Â Â Â Uses the SUM function to return sum of the values in A1 through A10.
+
+
+
+=TODAY()Â Â Â Â Returns the current date.
+
+
+
+=UPPER(""hello"")Â Â Â Â  Converts the text ""hello"" to ""HELLO"" by using the UPPER function.
+
+
+
+=IF(A1&gt;0)Â Â Â Â Uses the IF function to test the cell A1 to determine if it contains a value greater than 0.
+
+
+
+
+[Read more on Office Support.](https://support.office.com/en-us/article/Overview-of-formulas-in-Excel-ecfdc708-9162-49e8-b993-c311f47ca173)
+"
+ERROR_CHECKING,https://support.office.com/en-us/article/Use-error-checking-to-detect-errors-in-formulas-4d4c160b-8d9a-45f1-bec7-75f4b90045f8,0,"**ERROR_CHECKING**:
+
+
+Formulas can sometimes result in error values in addition to returning unintended results. The following are some tools that you can use to find and investigate the causes of these errors and determine solutions. 
+
+
+Note:Â This topic contains techniques that can help you correct formula errors. It is not an exhaustive list of methods for correcting every possible formula error. For help on specific errors, you can search for questions like yours in the Excel Community Forum, or post one of your own. 
+
+
+
+
+
+
+[Read more on Office Support.](https://support.office.com/en-us/article/Use-error-checking-to-detect-errors-in-formulas-4d4c160b-8d9a-45f1-bec7-75f4b90045f8)
+"
+CSE,https://support.office.com/en-gb/article/Create-an-array-formula-e43e12e0-afc6-4a12-bc7f-48361075954d,1,"**CSE**:
+
+
+Array formulas are powerful formulas that enable you to perform complex calculations that often canâ€™t be done with standard worksheet functions. They are also referred to as ""Ctrl-Shift-Enter"" or ""CSE"" formulas, because you need to press Ctrl+Shift+Enter to enter them.Â  You can use array formulas to do the seemingly impossible, such as
+
+
+Count the number of characters in a range of cells.
+
+
+Sum numbers that meet certain conditions, such as the lowest values in a range or numbers that fall between an upper and lower boundary.
+
+
+Sum every nth value in a range of values.
+
+
+ 
+Excel provides two types of array formulas: Array formulas that perform several calculations to generate a single result and array formulas that calculate multiple results. Some worksheet functions return arrays of values, or require an array of values as an argument. For more information, see Guidelines and examples of array formulas.
+
+
+[Read more on Office Support.](https://support.office.com/en-gb/article/Create-an-array-formula-e43e12e0-afc6-4a12-bc7f-48361075954d)
+"
+ARRAY,https://support.office.com/en-gb/article/Create-an-array-formula-e43e12e0-afc6-4a12-bc7f-48361075954d,1,"**ARRAY**:
+
+
+Array formulas are powerful formulas that enable you to perform complex calculations that often canâ€™t be done with standard worksheet functions. They are also referred to as ""Ctrl-Shift-Enter"" or ""CSE"" formulas, because you need to press Ctrl+Shift+Enter to enter them.  You can use array formulas to do the seemingly impossible, such as
+
+
+Count the number of characters in a range of cells.
+
+
+Sum numbers that meet certain conditions, such as the lowest values in a range or numbers that fall between an upper and lower boundary.
+
+
+Sum every nth value in a range of values.
+
+
+ 
+Excel provides two types of array formulas: Array formulas that perform several calculations to generate a single result and array formulas that calculate multiple results. Some worksheet functions return arrays of values, or require an array of values as an argument. For more information, see Guidelines and examples of array formulas.
+
+
+[Read more on Office Support.](https://support.office.com/en-gb/article/Create-an-array-formula-e43e12e0-afc6-4a12-bc7f-48361075954d)
+"
+ARRAYFORMULA,https://support.office.com/en-gb/article/Create-an-array-formula-e43e12e0-afc6-4a12-bc7f-48361075954d,1,"**ARRAYFORMULA**:
+
+
+Array formulas are powerful formulas that enable you to perform complex calculations that often canâ€™t be done with standard worksheet functions. They are also referred to as ""Ctrl-Shift-Enter"" or ""CSE"" formulas, because you need to press Ctrl+Shift+Enter to enter them.  You can use array formulas to do the seemingly impossible, such as
+
+
+Count the number of characters in a range of cells.
+
+
+Sum numbers that meet certain conditions, such as the lowest values in a range or numbers that fall between an upper and lower boundary.
+
+
+Sum every nth value in a range of values.
+
+
+ 
+Excel provides two types of array formulas: Array formulas that perform several calculations to generate a single result and array formulas that calculate multiple results. Some worksheet functions return arrays of values, or require an array of values as an argument. For more information, see Guidelines and examples of array formulas.
+
+
+[Read more on Office Support.](https://support.office.com/en-gb/article/Create-an-array-formula-e43e12e0-afc6-4a12-bc7f-48361075954d)
+"
