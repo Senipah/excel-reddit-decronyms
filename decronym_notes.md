@@ -1,9 +1,19 @@
-http://www.decronym.xyz/
+# Decronym config info
 
-u/OrangeredStilton
-u/Decronym
+Website: http://www.decronym.xyz/
 
-min karma: (default: 10) 1 
-min age: (default: 1 hour) 0 
-min comments: (default: 10) 2
+Author: u/OrangeredStilton
 
+Bot: u/Decronym
+
+## Defaults: 
+
+| min karma | min age | min comments |
+|---|---|---|
+| 10 | 1 hour | 10 |
+
+## Config:
+
+| min karma | min age | min comments |
+|---|---|---|
+| 1 | 0 | 2 |
