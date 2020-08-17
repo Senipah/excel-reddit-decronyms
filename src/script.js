@@ -199,18 +199,33 @@ function createDecronyms(data) {
     'decronym_format.csv'
   );
 
+  const cleanseData = (d, addRegex) => {
+    // eslint-disable-next-line no-control-regex
+    const charSet = /[^\x00-\x7F]/g;
+    const optionalCapture = String.raw`(\(.*\))?`;
+    return d.map((e) => {
+      const rtn = { ...e };
+      rtn.description = rtn.description.replace(charSet, '');
+      if (addRegex) {
+        rtn.name += optionalCapture;
+      }
+      return rtn;
+    });
+  };
+
+  const cleanData = cleanseData(data, false);
   fs.readFile(manualAdditions, 'utf8', function read(err, csvString) {
     if (err) {
       throw err;
     }
     // clean first surrounding quote - important
-    const clean = csvString.slice(1);
-    const parsed = Papa.parse(clean, {
+    const cleanCSV = csvString.slice(1);
+    const parsedCSV = Papa.parse(cleanCSV, {
       skipEmptyLines: true, // true is 'greedy', meaning skip delimiters, quotes, and whitespace.
       header: true, // converts to array of obj with column headers as prop names
     });
-    const csvData = parsed.data;
-    const combined = data.reduce((acc, cur) => {
+    const csvData = parsedCSV.data;
+    const combined = cleanData.reduce((acc, cur) => {
       if (!acc.some((e) => e.name === cur.name)) {
         acc.push(cur);
       }
