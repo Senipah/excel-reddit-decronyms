@@ -103,6 +103,7 @@ function formatSection(header, navbar, dataTable) {
   return section;
 }
 
+// eslint-disable-next-line no-unused-vars
 function byCategory(data) {
   const uniqueCategories = [...new Set(data.map((e) => e.category))].sort();
   const pageHeader = '## Clippy Functions (By Category) \n\n';
@@ -123,6 +124,7 @@ function byCategory(data) {
   writeFile(outputFile, outputString);
 }
 
+// eslint-disable-next-line no-unused-vars
 function alphabetical(data) {
   const startingLetters = data.map((e) => {
     return e.name.substring(0, 1).toUpperCase();
@@ -200,13 +202,14 @@ function createDecronyms(data) {
   );
 
   // const addRegexCapture = (list) => {
-  //   const optionalCapture = String.raw`(\(.*\))?`;
   //   return list.map((e) => {
   //     const rtn = { ...e };
-  //     rtn.name += optionalCapture;
+  //     rtn.name = `/${e.name}/`;
   //     return rtn;
   //   });
   // };
+
+  // const funcsWithRegex = addRegexCapture(data);
 
   fs.readFile(manualAdditions, 'utf8', function read(err, csvString) {
     if (err) {
@@ -259,8 +262,8 @@ fetch(URL)
     const rows = table.querySelectorAll('tbody>tr');
     const rowArray = Array.from(rows);
     const data = extractData(rowArray);
-    byCategory(data);
-    alphabetical(data);
+    // byCategory(data);
+    // alphabetical(data);
+    // createCSV(data);
     createDecronyms(data);
-    createCSV(data);
   });
