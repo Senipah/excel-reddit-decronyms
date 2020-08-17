@@ -199,21 +199,15 @@ function createDecronyms(data) {
     'decronym_format.csv'
   );
 
-  const cleanseData = (d, addRegex) => {
-    // eslint-disable-next-line no-control-regex
-    const charSet = /[^\x00-\x7F]/g;
-    const optionalCapture = String.raw`(\(.*\))?`;
-    return d.map((e) => {
-      const rtn = { ...e };
-      rtn.description = rtn.description.replace(charSet, '');
-      if (addRegex) {
-        rtn.name += optionalCapture;
-      }
-      return rtn;
-    });
-  };
+  // const addRegexCapture = (list) => {
+  //   const optionalCapture = String.raw`(\(.*\))?`;
+  //   return list.map((e) => {
+  //     const rtn = { ...e };
+  //     rtn.name += optionalCapture;
+  //     return rtn;
+  //   });
+  // };
 
-  const cleanData = cleanseData(data, false);
   fs.readFile(manualAdditions, 'utf8', function read(err, csvString) {
     if (err) {
       throw err;
@@ -225,13 +219,26 @@ function createDecronyms(data) {
       header: true, // converts to array of obj with column headers as prop names
     });
     const csvData = parsedCSV.data;
-    const combined = cleanData.reduce((acc, cur) => {
+    const combined = data.reduce((acc, cur) => {
       if (!acc.some((e) => e.name === cur.name)) {
         acc.push(cur);
       }
       return acc;
     }, csvData);
-    const decronyms = combined.reduce((acc, cur) => {
+
+    const cleanseData = (d) => {
+      // eslint-disable-next-line no-control-regex
+      const charSet = /[^\x00-\x7F]/g;
+      return d.map((e) => {
+        const rtn = { ...e };
+        rtn.description = rtn.description.replace(charSet, '');
+        return rtn;
+      });
+    };
+
+    const cleansedCombined = cleanseData(combined);
+
+    const decronyms = cleansedCombined.reduce((acc, cur) => {
       const key = cur.name;
       const value = [mdLink(cur.description, cur.link)];
       acc[key] = value;
