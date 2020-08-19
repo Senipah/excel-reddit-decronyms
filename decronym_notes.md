@@ -16,4 +16,4 @@ Bot: u/Decronym
 
 | min karma | min age | min comments |
 |---|---|---|
-| 1 | 0 | 2 |
+| 0 | 0 | 2 |
