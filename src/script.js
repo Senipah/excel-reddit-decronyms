@@ -222,6 +222,9 @@ function createDecronyms(data) {
       header: true, // converts to array of obj with column headers as prop names
     });
     const csvData = parsedCSV.data;
+
+    // csvData.forEach((val) => console.log(encodeURIComponent(val.description)));
+
     const combined = data.reduce((acc, cur) => {
       if (!acc.some((e) => e.name === cur.name)) {
         acc.push(cur);
