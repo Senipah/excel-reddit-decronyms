@@ -1,35 +1,35 @@
-## Clippy Functions (By Category) 
+## Excel Functions (By Category) 
 
 ### Add-in and Automation
 ---
 
 **Add-in and Automation**
 |
-[Compatibility](/r/ExcelMod/wiki/bycategory_test#wiki_compatibility)
+[Compatibility](/r/ExcelMod/wiki/decronyms/excel_functions_categorical#wiki_compatibility)
 |
-[Cube](/r/ExcelMod/wiki/bycategory_test#wiki_cube)
+[Cube](/r/ExcelMod/wiki/decronyms/excel_functions_categorical#wiki_cube)
 |
-[Database](/r/ExcelMod/wiki/bycategory_test#wiki_database)
+[Database](/r/ExcelMod/wiki/decronyms/excel_functions_categorical#wiki_database)
 |
-[Date and time](/r/ExcelMod/wiki/bycategory_test#wiki_date%20and%20time)
+[Date and time](/r/ExcelMod/wiki/decronyms/excel_functions_categorical#wiki_date_and_time)
 |
-[Engineering](/r/ExcelMod/wiki/bycategory_test#wiki_engineering)
+[Engineering](/r/ExcelMod/wiki/decronyms/excel_functions_categorical#wiki_engineering)
 |
-[Financial](/r/ExcelMod/wiki/bycategory_test#wiki_financial)
+[Financial](/r/ExcelMod/wiki/decronyms/excel_functions_categorical#wiki_financial)
 |
-[Information](/r/ExcelMod/wiki/bycategory_test#wiki_information)
+[Information](/r/ExcelMod/wiki/decronyms/excel_functions_categorical#wiki_information)
 |
-[Logical](/r/ExcelMod/wiki/bycategory_test#wiki_logical)
+[Logical](/r/ExcelMod/wiki/decronyms/excel_functions_categorical#wiki_logical)
 |
-[Lookup and reference](/r/ExcelMod/wiki/bycategory_test#wiki_lookup%20and%20reference)
+[Lookup and reference](/r/ExcelMod/wiki/decronyms/excel_functions_categorical#wiki_lookup_and_reference)
 |
-[Math and trigonometry](/r/ExcelMod/wiki/bycategory_test#wiki_math%20and%20trigonometry)
+[Math and trigonometry](/r/ExcelMod/wiki/decronyms/excel_functions_categorical#wiki_math_and_trigonometry)
 |
-[Statistical](/r/ExcelMod/wiki/bycategory_test#wiki_statistical)
+[Statistical](/r/ExcelMod/wiki/decronyms/excel_functions_categorical#wiki_statistical)
 |
-[Text](/r/ExcelMod/wiki/bycategory_test#wiki_text)
+[Text](/r/ExcelMod/wiki/decronyms/excel_functions_categorical#wiki_text)
 |
-[Web](/r/ExcelMod/wiki/bycategory_test#wiki_web)
+[Web](/r/ExcelMod/wiki/decronyms/excel_functions_categorical#wiki_web)
 |
 
 
@@ -43,33 +43,33 @@
 ### Compatibility
 ---
 
-[Add-in and Automation](/r/ExcelMod/wiki/bycategory_test#wiki_add-in%20and%20automation)
+[Add-in and Automation](/r/ExcelMod/wiki/decronyms/excel_functions_categorical#wiki_add-in_and_automation)
 |
 **Compatibility**
 |
-[Cube](/r/ExcelMod/wiki/bycategory_test#wiki_cube)
+[Cube](/r/ExcelMod/wiki/decronyms/excel_functions_categorical#wiki_cube)
 |
-[Database](/r/ExcelMod/wiki/bycategory_test#wiki_database)
+[Database](/r/ExcelMod/wiki/decronyms/excel_functions_categorical#wiki_database)
 |
-[Date and time](/r/ExcelMod/wiki/bycategory_test#wiki_date%20and%20time)
+[Date and time](/r/ExcelMod/wiki/decronyms/excel_functions_categorical#wiki_date_and_time)
 |
-[Engineering](/r/ExcelMod/wiki/bycategory_test#wiki_engineering)
+[Engineering](/r/ExcelMod/wiki/decronyms/excel_functions_categorical#wiki_engineering)
 |
-[Financial](/r/ExcelMod/wiki/bycategory_test#wiki_financial)
+[Financial](/r/ExcelMod/wiki/decronyms/excel_functions_categorical#wiki_financial)
 |
-[Information](/r/ExcelMod/wiki/bycategory_test#wiki_information)
+[Information](/r/ExcelMod/wiki/decronyms/excel_functions_categorical#wiki_information)
 |
-[Logical](/r/ExcelMod/wiki/bycategory_test#wiki_logical)
+[Logical](/r/ExcelMod/wiki/decronyms/excel_functions_categorical#wiki_logical)
 |
-[Lookup and reference](/r/ExcelMod/wiki/bycategory_test#wiki_lookup%20and%20reference)
+[Lookup and reference](/r/ExcelMod/wiki/decronyms/excel_functions_categorical#wiki_lookup_and_reference)
 |
-[Math and trigonometry](/r/ExcelMod/wiki/bycategory_test#wiki_math%20and%20trigonometry)
+[Math and trigonometry](/r/ExcelMod/wiki/decronyms/excel_functions_categorical#wiki_math_and_trigonometry)
 |
-[Statistical](/r/ExcelMod/wiki/bycategory_test#wiki_statistical)
+[Statistical](/r/ExcelMod/wiki/decronyms/excel_functions_categorical#wiki_statistical)
 |
-[Text](/r/ExcelMod/wiki/bycategory_test#wiki_text)
+[Text](/r/ExcelMod/wiki/decronyms/excel_functions_categorical#wiki_text)
 |
-[Web](/r/ExcelMod/wiki/bycategory_test#wiki_web)
+[Web](/r/ExcelMod/wiki/decronyms/excel_functions_categorical#wiki_web)
 |
 
 
@@ -118,33 +118,33 @@
 ### Cube
 ---
 
-[Add-in and Automation](/r/ExcelMod/wiki/bycategory_test#wiki_add-in%20and%20automation)
+[Add-in and Automation](/r/ExcelMod/wiki/decronyms/excel_functions_categorical#wiki_add-in_and_automation)
 |
-[Compatibility](/r/ExcelMod/wiki/bycategory_test#wiki_compatibility)
+[Compatibility](/r/ExcelMod/wiki/decronyms/excel_functions_categorical#wiki_compatibility)
 |
 **Cube**
 |
-[Database](/r/ExcelMod/wiki/bycategory_test#wiki_database)
+[Database](/r/ExcelMod/wiki/decronyms/excel_functions_categorical#wiki_database)
 |
-[Date and time](/r/ExcelMod/wiki/bycategory_test#wiki_date%20and%20time)
+[Date and time](/r/ExcelMod/wiki/decronyms/excel_functions_categorical#wiki_date_and_time)
 |
-[Engineering](/r/ExcelMod/wiki/bycategory_test#wiki_engineering)
+[Engineering](/r/ExcelMod/wiki/decronyms/excel_functions_categorical#wiki_engineering)
 |
-[Financial](/r/ExcelMod/wiki/bycategory_test#wiki_financial)
+[Financial](/r/ExcelMod/wiki/decronyms/excel_functions_categorical#wiki_financial)
 |
-[Information](/r/ExcelMod/wiki/bycategory_test#wiki_information)
+[Information](/r/ExcelMod/wiki/decronyms/excel_functions_categorical#wiki_information)
 |
-[Logical](/r/ExcelMod/wiki/bycategory_test#wiki_logical)
+[Logical](/r/ExcelMod/wiki/decronyms/excel_functions_categorical#wiki_logical)
 |
-[Lookup and reference](/r/ExcelMod/wiki/bycategory_test#wiki_lookup%20and%20reference)
+[Lookup and reference](/r/ExcelMod/wiki/decronyms/excel_functions_categorical#wiki_lookup_and_reference)
 |
-[Math and trigonometry](/r/ExcelMod/wiki/bycategory_test#wiki_math%20and%20trigonometry)
+[Math and trigonometry](/r/ExcelMod/wiki/decronyms/excel_functions_categorical#wiki_math_and_trigonometry)
 |
-[Statistical](/r/ExcelMod/wiki/bycategory_test#wiki_statistical)
+[Statistical](/r/ExcelMod/wiki/decronyms/excel_functions_categorical#wiki_statistical)
 |
-[Text](/r/ExcelMod/wiki/bycategory_test#wiki_text)
+[Text](/r/ExcelMod/wiki/decronyms/excel_functions_categorical#wiki_text)
 |
-[Web](/r/ExcelMod/wiki/bycategory_test#wiki_web)
+[Web](/r/ExcelMod/wiki/decronyms/excel_functions_categorical#wiki_web)
 |
 
 
@@ -162,33 +162,33 @@
 ### Database
 ---
 
-[Add-in and Automation](/r/ExcelMod/wiki/bycategory_test#wiki_add-in%20and%20automation)
+[Add-in and Automation](/r/ExcelMod/wiki/decronyms/excel_functions_categorical#wiki_add-in_and_automation)
 |
-[Compatibility](/r/ExcelMod/wiki/bycategory_test#wiki_compatibility)
+[Compatibility](/r/ExcelMod/wiki/decronyms/excel_functions_categorical#wiki_compatibility)
 |
-[Cube](/r/ExcelMod/wiki/bycategory_test#wiki_cube)
+[Cube](/r/ExcelMod/wiki/decronyms/excel_functions_categorical#wiki_cube)
 |
 **Database**
 |
-[Date and time](/r/ExcelMod/wiki/bycategory_test#wiki_date%20and%20time)
+[Date and time](/r/ExcelMod/wiki/decronyms/excel_functions_categorical#wiki_date_and_time)
 |
-[Engineering](/r/ExcelMod/wiki/bycategory_test#wiki_engineering)
+[Engineering](/r/ExcelMod/wiki/decronyms/excel_functions_categorical#wiki_engineering)
 |
-[Financial](/r/ExcelMod/wiki/bycategory_test#wiki_financial)
+[Financial](/r/ExcelMod/wiki/decronyms/excel_functions_categorical#wiki_financial)
 |
-[Information](/r/ExcelMod/wiki/bycategory_test#wiki_information)
+[Information](/r/ExcelMod/wiki/decronyms/excel_functions_categorical#wiki_information)
 |
-[Logical](/r/ExcelMod/wiki/bycategory_test#wiki_logical)
+[Logical](/r/ExcelMod/wiki/decronyms/excel_functions_categorical#wiki_logical)
 |
-[Lookup and reference](/r/ExcelMod/wiki/bycategory_test#wiki_lookup%20and%20reference)
+[Lookup and reference](/r/ExcelMod/wiki/decronyms/excel_functions_categorical#wiki_lookup_and_reference)
 |
-[Math and trigonometry](/r/ExcelMod/wiki/bycategory_test#wiki_math%20and%20trigonometry)
+[Math and trigonometry](/r/ExcelMod/wiki/decronyms/excel_functions_categorical#wiki_math_and_trigonometry)
 |
-[Statistical](/r/ExcelMod/wiki/bycategory_test#wiki_statistical)
+[Statistical](/r/ExcelMod/wiki/decronyms/excel_functions_categorical#wiki_statistical)
 |
-[Text](/r/ExcelMod/wiki/bycategory_test#wiki_text)
+[Text](/r/ExcelMod/wiki/decronyms/excel_functions_categorical#wiki_text)
 |
-[Web](/r/ExcelMod/wiki/bycategory_test#wiki_web)
+[Web](/r/ExcelMod/wiki/decronyms/excel_functions_categorical#wiki_web)
 |
 
 
@@ -211,33 +211,33 @@
 ### Date and time
 ---
 
-[Add-in and Automation](/r/ExcelMod/wiki/bycategory_test#wiki_add-in%20and%20automation)
+[Add-in and Automation](/r/ExcelMod/wiki/decronyms/excel_functions_categorical#wiki_add-in_and_automation)
 |
-[Compatibility](/r/ExcelMod/wiki/bycategory_test#wiki_compatibility)
+[Compatibility](/r/ExcelMod/wiki/decronyms/excel_functions_categorical#wiki_compatibility)
 |
-[Cube](/r/ExcelMod/wiki/bycategory_test#wiki_cube)
+[Cube](/r/ExcelMod/wiki/decronyms/excel_functions_categorical#wiki_cube)
 |
-[Database](/r/ExcelMod/wiki/bycategory_test#wiki_database)
+[Database](/r/ExcelMod/wiki/decronyms/excel_functions_categorical#wiki_database)
 |
 **Date and time**
 |
-[Engineering](/r/ExcelMod/wiki/bycategory_test#wiki_engineering)
+[Engineering](/r/ExcelMod/wiki/decronyms/excel_functions_categorical#wiki_engineering)
 |
-[Financial](/r/ExcelMod/wiki/bycategory_test#wiki_financial)
+[Financial](/r/ExcelMod/wiki/decronyms/excel_functions_categorical#wiki_financial)
 |
-[Information](/r/ExcelMod/wiki/bycategory_test#wiki_information)
+[Information](/r/ExcelMod/wiki/decronyms/excel_functions_categorical#wiki_information)
 |
-[Logical](/r/ExcelMod/wiki/bycategory_test#wiki_logical)
+[Logical](/r/ExcelMod/wiki/decronyms/excel_functions_categorical#wiki_logical)
 |
-[Lookup and reference](/r/ExcelMod/wiki/bycategory_test#wiki_lookup%20and%20reference)
+[Lookup and reference](/r/ExcelMod/wiki/decronyms/excel_functions_categorical#wiki_lookup_and_reference)
 |
-[Math and trigonometry](/r/ExcelMod/wiki/bycategory_test#wiki_math%20and%20trigonometry)
+[Math and trigonometry](/r/ExcelMod/wiki/decronyms/excel_functions_categorical#wiki_math_and_trigonometry)
 |
-[Statistical](/r/ExcelMod/wiki/bycategory_test#wiki_statistical)
+[Statistical](/r/ExcelMod/wiki/decronyms/excel_functions_categorical#wiki_statistical)
 |
-[Text](/r/ExcelMod/wiki/bycategory_test#wiki_text)
+[Text](/r/ExcelMod/wiki/decronyms/excel_functions_categorical#wiki_text)
 |
-[Web](/r/ExcelMod/wiki/bycategory_test#wiki_web)
+[Web](/r/ExcelMod/wiki/decronyms/excel_functions_categorical#wiki_web)
 |
 
 
@@ -273,33 +273,33 @@
 ### Engineering
 ---
 
-[Add-in and Automation](/r/ExcelMod/wiki/bycategory_test#wiki_add-in%20and%20automation)
+[Add-in and Automation](/r/ExcelMod/wiki/decronyms/excel_functions_categorical#wiki_add-in_and_automation)
 |
-[Compatibility](/r/ExcelMod/wiki/bycategory_test#wiki_compatibility)
+[Compatibility](/r/ExcelMod/wiki/decronyms/excel_functions_categorical#wiki_compatibility)
 |
-[Cube](/r/ExcelMod/wiki/bycategory_test#wiki_cube)
+[Cube](/r/ExcelMod/wiki/decronyms/excel_functions_categorical#wiki_cube)
 |
-[Database](/r/ExcelMod/wiki/bycategory_test#wiki_database)
+[Database](/r/ExcelMod/wiki/decronyms/excel_functions_categorical#wiki_database)
 |
-[Date and time](/r/ExcelMod/wiki/bycategory_test#wiki_date%20and%20time)
+[Date and time](/r/ExcelMod/wiki/decronyms/excel_functions_categorical#wiki_date_and_time)
 |
 **Engineering**
 |
-[Financial](/r/ExcelMod/wiki/bycategory_test#wiki_financial)
+[Financial](/r/ExcelMod/wiki/decronyms/excel_functions_categorical#wiki_financial)
 |
-[Information](/r/ExcelMod/wiki/bycategory_test#wiki_information)
+[Information](/r/ExcelMod/wiki/decronyms/excel_functions_categorical#wiki_information)
 |
-[Logical](/r/ExcelMod/wiki/bycategory_test#wiki_logical)
+[Logical](/r/ExcelMod/wiki/decronyms/excel_functions_categorical#wiki_logical)
 |
-[Lookup and reference](/r/ExcelMod/wiki/bycategory_test#wiki_lookup%20and%20reference)
+[Lookup and reference](/r/ExcelMod/wiki/decronyms/excel_functions_categorical#wiki_lookup_and_reference)
 |
-[Math and trigonometry](/r/ExcelMod/wiki/bycategory_test#wiki_math%20and%20trigonometry)
+[Math and trigonometry](/r/ExcelMod/wiki/decronyms/excel_functions_categorical#wiki_math_and_trigonometry)
 |
-[Statistical](/r/ExcelMod/wiki/bycategory_test#wiki_statistical)
+[Statistical](/r/ExcelMod/wiki/decronyms/excel_functions_categorical#wiki_statistical)
 |
-[Text](/r/ExcelMod/wiki/bycategory_test#wiki_text)
+[Text](/r/ExcelMod/wiki/decronyms/excel_functions_categorical#wiki_text)
 |
-[Web](/r/ExcelMod/wiki/bycategory_test#wiki_web)
+[Web](/r/ExcelMod/wiki/decronyms/excel_functions_categorical#wiki_web)
 |
 
 
@@ -364,33 +364,33 @@
 ### Financial
 ---
 
-[Add-in and Automation](/r/ExcelMod/wiki/bycategory_test#wiki_add-in%20and%20automation)
+[Add-in and Automation](/r/ExcelMod/wiki/decronyms/excel_functions_categorical#wiki_add-in_and_automation)
 |
-[Compatibility](/r/ExcelMod/wiki/bycategory_test#wiki_compatibility)
+[Compatibility](/r/ExcelMod/wiki/decronyms/excel_functions_categorical#wiki_compatibility)
 |
-[Cube](/r/ExcelMod/wiki/bycategory_test#wiki_cube)
+[Cube](/r/ExcelMod/wiki/decronyms/excel_functions_categorical#wiki_cube)
 |
-[Database](/r/ExcelMod/wiki/bycategory_test#wiki_database)
+[Database](/r/ExcelMod/wiki/decronyms/excel_functions_categorical#wiki_database)
 |
-[Date and time](/r/ExcelMod/wiki/bycategory_test#wiki_date%20and%20time)
+[Date and time](/r/ExcelMod/wiki/decronyms/excel_functions_categorical#wiki_date_and_time)
 |
-[Engineering](/r/ExcelMod/wiki/bycategory_test#wiki_engineering)
+[Engineering](/r/ExcelMod/wiki/decronyms/excel_functions_categorical#wiki_engineering)
 |
 **Financial**
 |
-[Information](/r/ExcelMod/wiki/bycategory_test#wiki_information)
+[Information](/r/ExcelMod/wiki/decronyms/excel_functions_categorical#wiki_information)
 |
-[Logical](/r/ExcelMod/wiki/bycategory_test#wiki_logical)
+[Logical](/r/ExcelMod/wiki/decronyms/excel_functions_categorical#wiki_logical)
 |
-[Lookup and reference](/r/ExcelMod/wiki/bycategory_test#wiki_lookup%20and%20reference)
+[Lookup and reference](/r/ExcelMod/wiki/decronyms/excel_functions_categorical#wiki_lookup_and_reference)
 |
-[Math and trigonometry](/r/ExcelMod/wiki/bycategory_test#wiki_math%20and%20trigonometry)
+[Math and trigonometry](/r/ExcelMod/wiki/decronyms/excel_functions_categorical#wiki_math_and_trigonometry)
 |
-[Statistical](/r/ExcelMod/wiki/bycategory_test#wiki_statistical)
+[Statistical](/r/ExcelMod/wiki/decronyms/excel_functions_categorical#wiki_statistical)
 |
-[Text](/r/ExcelMod/wiki/bycategory_test#wiki_text)
+[Text](/r/ExcelMod/wiki/decronyms/excel_functions_categorical#wiki_text)
 |
-[Web](/r/ExcelMod/wiki/bycategory_test#wiki_web)
+[Web](/r/ExcelMod/wiki/decronyms/excel_functions_categorical#wiki_web)
 |
 
 
@@ -456,33 +456,33 @@
 ### Information
 ---
 
-[Add-in and Automation](/r/ExcelMod/wiki/bycategory_test#wiki_add-in%20and%20automation)
+[Add-in and Automation](/r/ExcelMod/wiki/decronyms/excel_functions_categorical#wiki_add-in_and_automation)
 |
-[Compatibility](/r/ExcelMod/wiki/bycategory_test#wiki_compatibility)
+[Compatibility](/r/ExcelMod/wiki/decronyms/excel_functions_categorical#wiki_compatibility)
 |
-[Cube](/r/ExcelMod/wiki/bycategory_test#wiki_cube)
+[Cube](/r/ExcelMod/wiki/decronyms/excel_functions_categorical#wiki_cube)
 |
-[Database](/r/ExcelMod/wiki/bycategory_test#wiki_database)
+[Database](/r/ExcelMod/wiki/decronyms/excel_functions_categorical#wiki_database)
 |
-[Date and time](/r/ExcelMod/wiki/bycategory_test#wiki_date%20and%20time)
+[Date and time](/r/ExcelMod/wiki/decronyms/excel_functions_categorical#wiki_date_and_time)
 |
-[Engineering](/r/ExcelMod/wiki/bycategory_test#wiki_engineering)
+[Engineering](/r/ExcelMod/wiki/decronyms/excel_functions_categorical#wiki_engineering)
 |
-[Financial](/r/ExcelMod/wiki/bycategory_test#wiki_financial)
+[Financial](/r/ExcelMod/wiki/decronyms/excel_functions_categorical#wiki_financial)
 |
 **Information**
 |
-[Logical](/r/ExcelMod/wiki/bycategory_test#wiki_logical)
+[Logical](/r/ExcelMod/wiki/decronyms/excel_functions_categorical#wiki_logical)
 |
-[Lookup and reference](/r/ExcelMod/wiki/bycategory_test#wiki_lookup%20and%20reference)
+[Lookup and reference](/r/ExcelMod/wiki/decronyms/excel_functions_categorical#wiki_lookup_and_reference)
 |
-[Math and trigonometry](/r/ExcelMod/wiki/bycategory_test#wiki_math%20and%20trigonometry)
+[Math and trigonometry](/r/ExcelMod/wiki/decronyms/excel_functions_categorical#wiki_math_and_trigonometry)
 |
-[Statistical](/r/ExcelMod/wiki/bycategory_test#wiki_statistical)
+[Statistical](/r/ExcelMod/wiki/decronyms/excel_functions_categorical#wiki_statistical)
 |
-[Text](/r/ExcelMod/wiki/bycategory_test#wiki_text)
+[Text](/r/ExcelMod/wiki/decronyms/excel_functions_categorical#wiki_text)
 |
-[Web](/r/ExcelMod/wiki/bycategory_test#wiki_web)
+[Web](/r/ExcelMod/wiki/decronyms/excel_functions_categorical#wiki_web)
 |
 
 
@@ -513,33 +513,33 @@
 ### Logical
 ---
 
-[Add-in and Automation](/r/ExcelMod/wiki/bycategory_test#wiki_add-in%20and%20automation)
+[Add-in and Automation](/r/ExcelMod/wiki/decronyms/excel_functions_categorical#wiki_add-in_and_automation)
 |
-[Compatibility](/r/ExcelMod/wiki/bycategory_test#wiki_compatibility)
+[Compatibility](/r/ExcelMod/wiki/decronyms/excel_functions_categorical#wiki_compatibility)
 |
-[Cube](/r/ExcelMod/wiki/bycategory_test#wiki_cube)
+[Cube](/r/ExcelMod/wiki/decronyms/excel_functions_categorical#wiki_cube)
 |
-[Database](/r/ExcelMod/wiki/bycategory_test#wiki_database)
+[Database](/r/ExcelMod/wiki/decronyms/excel_functions_categorical#wiki_database)
 |
-[Date and time](/r/ExcelMod/wiki/bycategory_test#wiki_date%20and%20time)
+[Date and time](/r/ExcelMod/wiki/decronyms/excel_functions_categorical#wiki_date_and_time)
 |
-[Engineering](/r/ExcelMod/wiki/bycategory_test#wiki_engineering)
+[Engineering](/r/ExcelMod/wiki/decronyms/excel_functions_categorical#wiki_engineering)
 |
-[Financial](/r/ExcelMod/wiki/bycategory_test#wiki_financial)
+[Financial](/r/ExcelMod/wiki/decronyms/excel_functions_categorical#wiki_financial)
 |
-[Information](/r/ExcelMod/wiki/bycategory_test#wiki_information)
+[Information](/r/ExcelMod/wiki/decronyms/excel_functions_categorical#wiki_information)
 |
 **Logical**
 |
-[Lookup and reference](/r/ExcelMod/wiki/bycategory_test#wiki_lookup%20and%20reference)
+[Lookup and reference](/r/ExcelMod/wiki/decronyms/excel_functions_categorical#wiki_lookup_and_reference)
 |
-[Math and trigonometry](/r/ExcelMod/wiki/bycategory_test#wiki_math%20and%20trigonometry)
+[Math and trigonometry](/r/ExcelMod/wiki/decronyms/excel_functions_categorical#wiki_math_and_trigonometry)
 |
-[Statistical](/r/ExcelMod/wiki/bycategory_test#wiki_statistical)
+[Statistical](/r/ExcelMod/wiki/decronyms/excel_functions_categorical#wiki_statistical)
 |
-[Text](/r/ExcelMod/wiki/bycategory_test#wiki_text)
+[Text](/r/ExcelMod/wiki/decronyms/excel_functions_categorical#wiki_text)
 |
-[Web](/r/ExcelMod/wiki/bycategory_test#wiki_web)
+[Web](/r/ExcelMod/wiki/decronyms/excel_functions_categorical#wiki_web)
 |
 
 
@@ -561,33 +561,33 @@
 ### Lookup and reference
 ---
 
-[Add-in and Automation](/r/ExcelMod/wiki/bycategory_test#wiki_add-in%20and%20automation)
+[Add-in and Automation](/r/ExcelMod/wiki/decronyms/excel_functions_categorical#wiki_add-in_and_automation)
 |
-[Compatibility](/r/ExcelMod/wiki/bycategory_test#wiki_compatibility)
+[Compatibility](/r/ExcelMod/wiki/decronyms/excel_functions_categorical#wiki_compatibility)
 |
-[Cube](/r/ExcelMod/wiki/bycategory_test#wiki_cube)
+[Cube](/r/ExcelMod/wiki/decronyms/excel_functions_categorical#wiki_cube)
 |
-[Database](/r/ExcelMod/wiki/bycategory_test#wiki_database)
+[Database](/r/ExcelMod/wiki/decronyms/excel_functions_categorical#wiki_database)
 |
-[Date and time](/r/ExcelMod/wiki/bycategory_test#wiki_date%20and%20time)
+[Date and time](/r/ExcelMod/wiki/decronyms/excel_functions_categorical#wiki_date_and_time)
 |
-[Engineering](/r/ExcelMod/wiki/bycategory_test#wiki_engineering)
+[Engineering](/r/ExcelMod/wiki/decronyms/excel_functions_categorical#wiki_engineering)
 |
-[Financial](/r/ExcelMod/wiki/bycategory_test#wiki_financial)
+[Financial](/r/ExcelMod/wiki/decronyms/excel_functions_categorical#wiki_financial)
 |
-[Information](/r/ExcelMod/wiki/bycategory_test#wiki_information)
+[Information](/r/ExcelMod/wiki/decronyms/excel_functions_categorical#wiki_information)
 |
-[Logical](/r/ExcelMod/wiki/bycategory_test#wiki_logical)
+[Logical](/r/ExcelMod/wiki/decronyms/excel_functions_categorical#wiki_logical)
 |
 **Lookup and reference**
 |
-[Math and trigonometry](/r/ExcelMod/wiki/bycategory_test#wiki_math%20and%20trigonometry)
+[Math and trigonometry](/r/ExcelMod/wiki/decronyms/excel_functions_categorical#wiki_math_and_trigonometry)
 |
-[Statistical](/r/ExcelMod/wiki/bycategory_test#wiki_statistical)
+[Statistical](/r/ExcelMod/wiki/decronyms/excel_functions_categorical#wiki_statistical)
 |
-[Text](/r/ExcelMod/wiki/bycategory_test#wiki_text)
+[Text](/r/ExcelMod/wiki/decronyms/excel_functions_categorical#wiki_text)
 |
-[Web](/r/ExcelMod/wiki/bycategory_test#wiki_web)
+[Web](/r/ExcelMod/wiki/decronyms/excel_functions_categorical#wiki_web)
 |
 
 
@@ -623,33 +623,33 @@
 ### Math and trigonometry
 ---
 
-[Add-in and Automation](/r/ExcelMod/wiki/bycategory_test#wiki_add-in%20and%20automation)
+[Add-in and Automation](/r/ExcelMod/wiki/decronyms/excel_functions_categorical#wiki_add-in_and_automation)
 |
-[Compatibility](/r/ExcelMod/wiki/bycategory_test#wiki_compatibility)
+[Compatibility](/r/ExcelMod/wiki/decronyms/excel_functions_categorical#wiki_compatibility)
 |
-[Cube](/r/ExcelMod/wiki/bycategory_test#wiki_cube)
+[Cube](/r/ExcelMod/wiki/decronyms/excel_functions_categorical#wiki_cube)
 |
-[Database](/r/ExcelMod/wiki/bycategory_test#wiki_database)
+[Database](/r/ExcelMod/wiki/decronyms/excel_functions_categorical#wiki_database)
 |
-[Date and time](/r/ExcelMod/wiki/bycategory_test#wiki_date%20and%20time)
+[Date and time](/r/ExcelMod/wiki/decronyms/excel_functions_categorical#wiki_date_and_time)
 |
-[Engineering](/r/ExcelMod/wiki/bycategory_test#wiki_engineering)
+[Engineering](/r/ExcelMod/wiki/decronyms/excel_functions_categorical#wiki_engineering)
 |
-[Financial](/r/ExcelMod/wiki/bycategory_test#wiki_financial)
+[Financial](/r/ExcelMod/wiki/decronyms/excel_functions_categorical#wiki_financial)
 |
-[Information](/r/ExcelMod/wiki/bycategory_test#wiki_information)
+[Information](/r/ExcelMod/wiki/decronyms/excel_functions_categorical#wiki_information)
 |
-[Logical](/r/ExcelMod/wiki/bycategory_test#wiki_logical)
+[Logical](/r/ExcelMod/wiki/decronyms/excel_functions_categorical#wiki_logical)
 |
-[Lookup and reference](/r/ExcelMod/wiki/bycategory_test#wiki_lookup%20and%20reference)
+[Lookup and reference](/r/ExcelMod/wiki/decronyms/excel_functions_categorical#wiki_lookup_and_reference)
 |
 **Math and trigonometry**
 |
-[Statistical](/r/ExcelMod/wiki/bycategory_test#wiki_statistical)
+[Statistical](/r/ExcelMod/wiki/decronyms/excel_functions_categorical#wiki_statistical)
 |
-[Text](/r/ExcelMod/wiki/bycategory_test#wiki_text)
+[Text](/r/ExcelMod/wiki/decronyms/excel_functions_categorical#wiki_text)
 |
-[Web](/r/ExcelMod/wiki/bycategory_test#wiki_web)
+[Web](/r/ExcelMod/wiki/decronyms/excel_functions_categorical#wiki_web)
 |
 
 
@@ -740,33 +740,33 @@
 ### Statistical
 ---
 
-[Add-in and Automation](/r/ExcelMod/wiki/bycategory_test#wiki_add-in%20and%20automation)
+[Add-in and Automation](/r/ExcelMod/wiki/decronyms/excel_functions_categorical#wiki_add-in_and_automation)
 |
-[Compatibility](/r/ExcelMod/wiki/bycategory_test#wiki_compatibility)
+[Compatibility](/r/ExcelMod/wiki/decronyms/excel_functions_categorical#wiki_compatibility)
 |
-[Cube](/r/ExcelMod/wiki/bycategory_test#wiki_cube)
+[Cube](/r/ExcelMod/wiki/decronyms/excel_functions_categorical#wiki_cube)
 |
-[Database](/r/ExcelMod/wiki/bycategory_test#wiki_database)
+[Database](/r/ExcelMod/wiki/decronyms/excel_functions_categorical#wiki_database)
 |
-[Date and time](/r/ExcelMod/wiki/bycategory_test#wiki_date%20and%20time)
+[Date and time](/r/ExcelMod/wiki/decronyms/excel_functions_categorical#wiki_date_and_time)
 |
-[Engineering](/r/ExcelMod/wiki/bycategory_test#wiki_engineering)
+[Engineering](/r/ExcelMod/wiki/decronyms/excel_functions_categorical#wiki_engineering)
 |
-[Financial](/r/ExcelMod/wiki/bycategory_test#wiki_financial)
+[Financial](/r/ExcelMod/wiki/decronyms/excel_functions_categorical#wiki_financial)
 |
-[Information](/r/ExcelMod/wiki/bycategory_test#wiki_information)
+[Information](/r/ExcelMod/wiki/decronyms/excel_functions_categorical#wiki_information)
 |
-[Logical](/r/ExcelMod/wiki/bycategory_test#wiki_logical)
+[Logical](/r/ExcelMod/wiki/decronyms/excel_functions_categorical#wiki_logical)
 |
-[Lookup and reference](/r/ExcelMod/wiki/bycategory_test#wiki_lookup%20and%20reference)
+[Lookup and reference](/r/ExcelMod/wiki/decronyms/excel_functions_categorical#wiki_lookup_and_reference)
 |
-[Math and trigonometry](/r/ExcelMod/wiki/bycategory_test#wiki_math%20and%20trigonometry)
+[Math and trigonometry](/r/ExcelMod/wiki/decronyms/excel_functions_categorical#wiki_math_and_trigonometry)
 |
 **Statistical**
 |
-[Text](/r/ExcelMod/wiki/bycategory_test#wiki_text)
+[Text](/r/ExcelMod/wiki/decronyms/excel_functions_categorical#wiki_text)
 |
-[Web](/r/ExcelMod/wiki/bycategory_test#wiki_web)
+[Web](/r/ExcelMod/wiki/decronyms/excel_functions_categorical#wiki_web)
 |
 
 
@@ -889,33 +889,33 @@
 ### Text
 ---
 
-[Add-in and Automation](/r/ExcelMod/wiki/bycategory_test#wiki_add-in%20and%20automation)
+[Add-in and Automation](/r/ExcelMod/wiki/decronyms/excel_functions_categorical#wiki_add-in_and_automation)
 |
-[Compatibility](/r/ExcelMod/wiki/bycategory_test#wiki_compatibility)
+[Compatibility](/r/ExcelMod/wiki/decronyms/excel_functions_categorical#wiki_compatibility)
 |
-[Cube](/r/ExcelMod/wiki/bycategory_test#wiki_cube)
+[Cube](/r/ExcelMod/wiki/decronyms/excel_functions_categorical#wiki_cube)
 |
-[Database](/r/ExcelMod/wiki/bycategory_test#wiki_database)
+[Database](/r/ExcelMod/wiki/decronyms/excel_functions_categorical#wiki_database)
 |
-[Date and time](/r/ExcelMod/wiki/bycategory_test#wiki_date%20and%20time)
+[Date and time](/r/ExcelMod/wiki/decronyms/excel_functions_categorical#wiki_date_and_time)
 |
-[Engineering](/r/ExcelMod/wiki/bycategory_test#wiki_engineering)
+[Engineering](/r/ExcelMod/wiki/decronyms/excel_functions_categorical#wiki_engineering)
 |
-[Financial](/r/ExcelMod/wiki/bycategory_test#wiki_financial)
+[Financial](/r/ExcelMod/wiki/decronyms/excel_functions_categorical#wiki_financial)
 |
-[Information](/r/ExcelMod/wiki/bycategory_test#wiki_information)
+[Information](/r/ExcelMod/wiki/decronyms/excel_functions_categorical#wiki_information)
 |
-[Logical](/r/ExcelMod/wiki/bycategory_test#wiki_logical)
+[Logical](/r/ExcelMod/wiki/decronyms/excel_functions_categorical#wiki_logical)
 |
-[Lookup and reference](/r/ExcelMod/wiki/bycategory_test#wiki_lookup%20and%20reference)
+[Lookup and reference](/r/ExcelMod/wiki/decronyms/excel_functions_categorical#wiki_lookup_and_reference)
 |
-[Math and trigonometry](/r/ExcelMod/wiki/bycategory_test#wiki_math%20and%20trigonometry)
+[Math and trigonometry](/r/ExcelMod/wiki/decronyms/excel_functions_categorical#wiki_math_and_trigonometry)
 |
-[Statistical](/r/ExcelMod/wiki/bycategory_test#wiki_statistical)
+[Statistical](/r/ExcelMod/wiki/decronyms/excel_functions_categorical#wiki_statistical)
 |
 **Text**
 |
-[Web](/r/ExcelMod/wiki/bycategory_test#wiki_web)
+[Web](/r/ExcelMod/wiki/decronyms/excel_functions_categorical#wiki_web)
 |
 
 
@@ -966,31 +966,31 @@
 ### Web
 ---
 
-[Add-in and Automation](/r/ExcelMod/wiki/bycategory_test#wiki_add-in%20and%20automation)
+[Add-in and Automation](/r/ExcelMod/wiki/decronyms/excel_functions_categorical#wiki_add-in_and_automation)
 |
-[Compatibility](/r/ExcelMod/wiki/bycategory_test#wiki_compatibility)
+[Compatibility](/r/ExcelMod/wiki/decronyms/excel_functions_categorical#wiki_compatibility)
 |
-[Cube](/r/ExcelMod/wiki/bycategory_test#wiki_cube)
+[Cube](/r/ExcelMod/wiki/decronyms/excel_functions_categorical#wiki_cube)
 |
-[Database](/r/ExcelMod/wiki/bycategory_test#wiki_database)
+[Database](/r/ExcelMod/wiki/decronyms/excel_functions_categorical#wiki_database)
 |
-[Date and time](/r/ExcelMod/wiki/bycategory_test#wiki_date%20and%20time)
+[Date and time](/r/ExcelMod/wiki/decronyms/excel_functions_categorical#wiki_date_and_time)
 |
-[Engineering](/r/ExcelMod/wiki/bycategory_test#wiki_engineering)
+[Engineering](/r/ExcelMod/wiki/decronyms/excel_functions_categorical#wiki_engineering)
 |
-[Financial](/r/ExcelMod/wiki/bycategory_test#wiki_financial)
+[Financial](/r/ExcelMod/wiki/decronyms/excel_functions_categorical#wiki_financial)
 |
-[Information](/r/ExcelMod/wiki/bycategory_test#wiki_information)
+[Information](/r/ExcelMod/wiki/decronyms/excel_functions_categorical#wiki_information)
 |
-[Logical](/r/ExcelMod/wiki/bycategory_test#wiki_logical)
+[Logical](/r/ExcelMod/wiki/decronyms/excel_functions_categorical#wiki_logical)
 |
-[Lookup and reference](/r/ExcelMod/wiki/bycategory_test#wiki_lookup%20and%20reference)
+[Lookup and reference](/r/ExcelMod/wiki/decronyms/excel_functions_categorical#wiki_lookup_and_reference)
 |
-[Math and trigonometry](/r/ExcelMod/wiki/bycategory_test#wiki_math%20and%20trigonometry)
+[Math and trigonometry](/r/ExcelMod/wiki/decronyms/excel_functions_categorical#wiki_math_and_trigonometry)
 |
-[Statistical](/r/ExcelMod/wiki/bycategory_test#wiki_statistical)
+[Statistical](/r/ExcelMod/wiki/decronyms/excel_functions_categorical#wiki_statistical)
 |
-[Text](/r/ExcelMod/wiki/bycategory_test#wiki_text)
+[Text](/r/ExcelMod/wiki/decronyms/excel_functions_categorical#wiki_text)
 |
 **Web**
 |
