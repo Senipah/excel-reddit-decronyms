@@ -314,9 +314,9 @@ function createDecronyms(data) {
 (async function main() {
   const customDefs = await getCustomDefinitions();
   const excelFuncs = await getExcelFunctions();
-  // const pqFuncs = await getPowerQueryFunctions();
-  // const combined = [...customDefs, ...excelFuncs, ...pqFuncs];
-  const combined = [...customDefs, ...excelFuncs];
+  const pqFuncs = await getPowerQueryFunctions();
+  const combined = [...customDefs, ...excelFuncs, ...pqFuncs];
+  // const combined = [...customDefs, ...excelFuncs];
   createDecronyms(combined);
   // createCSV(combined);
   createWikiPages(combined);
