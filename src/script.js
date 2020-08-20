@@ -297,21 +297,19 @@ async function getGoogleSheetsFunctions() {
   );
   const rows = dataTable.querySelectorAll('tbody>tr');
   const rowArray = Array.from(rows);
-  const gsFunctions = rowArray
-    .map((e) => {
-      const name = e.children[1].textContent;
-      const desc = e.children[3].textContent.replace(' Learn more', '');
-      const href = e.children[3].querySelector('a').href;
-      const cat = e.children[0].textContent;
-      return new FunctionDefinition(
-        PARENT_CATEGORY,
-        cat,
-        name,
-        desc,
-        GS_BASE + href
-      );
-    })
-    .flat();
+  const gsFunctions = rowArray.map((e) => {
+    const name = e.children[1].textContent;
+    const desc = e.children[3].textContent.replace(' Learn more', '');
+    const href = e.children[3].querySelector('a').href;
+    const cat = e.children[0].textContent;
+    return new FunctionDefinition(
+      PARENT_CATEGORY,
+      cat,
+      name,
+      desc,
+      GS_BASE + href
+    );
+  });
   return gsFunctions;
 }
 
