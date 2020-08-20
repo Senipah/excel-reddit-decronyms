@@ -130,6 +130,7 @@ function createAlphabeticalWiki(data, parentCategory) {
   writeFile(outputFile, outputString);
 }
 
+// eslint-disable-next-line no-unused-vars
 function createWikiPages(data) {
   const parentCategories = data.reduce((acc, cur) => {
     const curCat = cur.parentCategory;
@@ -187,15 +188,19 @@ async function getCustomDefinitions() {
   return customDefinitions;
 }
 
+async function getDOM(url) {
+  const resp = await fetch(url);
+  const respText = await resp.text();
+  return new JSDOM(respText).window.document;
+}
+
 async function getExcelFunctions() {
   const EX_BASE = 'https://support.microsoft.com';
   const PARENT_CATEGORY = 'Excel Function';
   const FUNC_URL_FRAGEMENT =
     '/en-us/office/excel-functions-alphabetical-b3944572-255d-4efb-bb96-c6d90033e188';
   const excelFuncsURL = EX_BASE + FUNC_URL_FRAGEMENT;
-  const excelFuncsResp = await fetch(excelFuncsURL);
-  const excelFuncsText = await excelFuncsResp.text();
-  const excelFuncsDocument = new JSDOM(excelFuncsText).window.document;
+  const excelFuncsDocument = await getDOM(excelFuncsURL);
   const dataTable = excelFuncsDocument.querySelector('#tblID0EBDAAA');
   const rows = dataTable.querySelectorAll('tbody>tr');
   const rowArray = Array.from(rows);
@@ -241,9 +246,7 @@ async function getPowerQueryFunctions() {
   const PARENT_CATEGORY = 'Power Query M';
   const CATEGORIES_URL_FRAGMENT = 'power-query-m-function-reference';
   const categoriesURL = PQ_BASE + CATEGORIES_URL_FRAGMENT;
-  const categoriesResponse = await fetch(categoriesURL);
-  const categoriesText = await categoriesResponse.text();
-  const categoriesDocument = new JSDOM(categoriesText).window.document;
+  const categoriesDocument = await getDOM(categoriesURL);
   const categoryNodes = categoriesDocument.querySelectorAll(
     'main#main.content ul li a'
   );
@@ -255,19 +258,11 @@ async function getPowerQueryFunctions() {
       };
     })
     .slice(1); // slice to remove header row
-
-  const functionPageResponses = await Promise.all(
-    categories.map((e) => fetch(e.href))
-  );
-  const functionPagesText = await Promise.all(
-    functionPageResponses.map((e) => e.text())
-  );
-  const functionsByCategory = functionPagesText.reduce((acc, cur, idx) => {
-    const funcList = new JSDOM(cur).window.document;
+  const funcList = await Promise.all(categories.map((e) => getDOM(e.href)));
+  const functionsByCategory = funcList.reduce((acc, cur, idx) => {
     const currentCategory = categories[idx].category;
-    const rows = funcList.querySelectorAll('table > tbody > tr');
+    const rows = cur.querySelectorAll('table > tbody > tr');
     const rowArray = Array.from(rows);
-
     rowArray.forEach((e, i) => {
       // not all tables are links.
       if (e.children[0].querySelector('a')) {
@@ -288,6 +283,36 @@ async function getPowerQueryFunctions() {
   }, []);
 
   return functionsByCategory;
+}
+
+// eslint-disable-next-line no-unused-vars
+async function getGoogleSheetsFunctions() {
+  const GS_BASE = 'https://support.google.com/docs';
+  const PARENT_CATEGORY = 'Google Sheets Function';
+  const URL_FRAGMENT = '/table/25273?hl=en-GB';
+  const gsFuncsURL = GS_BASE + URL_FRAGMENT;
+  const gsFuncsDocument = await getDOM(gsFuncsURL);
+  const dataTable = gsFuncsDocument.querySelector(
+    'section.table-section div.dyn-table table'
+  );
+  const rows = dataTable.querySelectorAll('tbody>tr');
+  const rowArray = Array.from(rows);
+  const gsFunctions = rowArray
+    .map((e) => {
+      const name = e.children[1].textContent;
+      const desc = e.children[3].textContent.replace(' Learn more', '');
+      const href = e.children[3].querySelector('a').href;
+      const cat = e.children[0].textContent;
+      return new FunctionDefinition(
+        PARENT_CATEGORY,
+        cat,
+        name,
+        desc,
+        GS_BASE + href
+      );
+    })
+    .flat();
+  return gsFunctions;
 }
 
 // eslint-disable-next-line no-unused-vars
@@ -315,9 +340,11 @@ function createDecronyms(data) {
   const customDefs = await getCustomDefinitions();
   const excelFuncs = await getExcelFunctions();
   const pqFuncs = await getPowerQueryFunctions();
+  // const gsFuncs = await getGoogleSheetsFunctions();
+  // const combined = [...customDefs, ...excelFuncs, ...pqFuncs, ...gsFuncs];
   const combined = [...customDefs, ...excelFuncs, ...pqFuncs];
   // const combined = [...customDefs, ...excelFuncs];
   createDecronyms(combined);
   // createCSV(combined);
-  createWikiPages(combined);
+  // createWikiPages(combined);
 })();
