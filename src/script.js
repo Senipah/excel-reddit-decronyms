@@ -5,10 +5,27 @@ const fs = require('fs');
 const table = require('markdown-table');
 const Papa = require('papaparse');
 const path = require('path');
-const baseURL = 'https://support.microsoft.com';
-const URL =
-  baseURL +
-  '/en-us/office/excel-functions-alphabetical-b3944572-255d-4efb-bb96-c6d90033e188';
+
+class FunctionDefinition {
+  constructor(parentCategory, category, name, description, link) {
+    const _missingDesc =
+      'No Description Provided. Click here to go to the documentation page.';
+    this.parentCategory = parentCategory;
+    this.category = category;
+    this.name = name;
+    this.description = description || _missingDesc;
+    this.link = link;
+  }
+
+  get decronymDescription() {
+    // eslint-disable-next-line no-control-regex
+    const charSet = /[^\x00-\x7F]/g;
+    const desc = this.description.replace(charSet, '');
+    return this.parentCategory !== 'CUSTOM'
+      ? `${this.parentCategory}: ${desc}`
+      : desc;
+  }
+}
 
 function writeFile(outputFile, outputString) {
   fs.writeFile(outputFile, outputString, (err) => {
@@ -20,42 +37,13 @@ function writeFile(outputFile, outputString) {
   });
 }
 
-function extractData(nodes) {
-  return nodes
-    .map((e) => {
-      const linkText = e.children[0]
-        .querySelector('p>a')
-        .text.replace(/ function(?:s)?/, '');
-      const href = e.children[0].querySelector('p>a').href;
-      const blurb = e.children[1]
-        .querySelector('p')
-        .textContent.replace('\n              ', '');
-      const [cat, desc] = blurb.split(/:\s+/, 2);
-      if (linkText.includes(',')) {
-        // linkText contains two or more entries, e.g "MID,MIDB".
-        // return a separate obj for each with same desc and link
-        const titles = linkText.split(', ');
-        return titles.map((title) => {
-          return {
-            name: title,
-            link: baseURL + href,
-            category: cat,
-            description: desc,
-          };
-        });
-      }
-      return {
-        name: linkText,
-        link: baseURL + href,
-        category: cat,
-        description: desc,
-      };
-    })
-    .flat();
-}
-
 function mdLink(text, href) {
   return `[${text}](${href})`;
+}
+
+function toURI(...args) {
+  const sep = '_';
+  return encodeURIComponent(args.join(sep).toLowerCase().split(' ').join(sep));
 }
 
 function getNavbar(arr, active, pageName) {
@@ -65,9 +53,7 @@ function getNavbar(arr, active, pageName) {
         ? `**${cur}**`
         : mdLink(
             cur,
-            `/r/ExcelMod/wiki/${encodeURIComponent(
-              pageName
-            )}#wiki_${encodeURIComponent(cur.toLowerCase())}`
+            `/r/ExcelMod/wiki/decronyms/${pageName}#wiki_${toURI(cur)}`
           );
     return acc + val + '\n|\n';
   }, '');
@@ -104,169 +90,234 @@ function formatSection(header, navbar, dataTable) {
 }
 
 // eslint-disable-next-line no-unused-vars
-function byCategory(data) {
+function createCategoricalWiki(data, parentCategory) {
   const uniqueCategories = [...new Set(data.map((e) => e.category))].sort();
-  const pageHeader = '## Clippy Functions (By Category) \n\n';
+  const pageHeader = `## ${parentCategory} (By Category) \n\n`;
+  const pageName = toURI(parentCategory, 'categorical');
   const createSection = (currentCategory) => {
     const funcsInCategory = data.filter((e) => e.category === currentCategory);
     const header = sectionHeader(currentCategory);
-    const navbar = getNavbar(
-      uniqueCategories,
-      currentCategory,
-      'bycategory_test'
-    );
+    const navbar = getNavbar(uniqueCategories, currentCategory, pageName);
     const dataTable = createTable(funcsInCategory);
     return formatSection(header, navbar, dataTable);
   };
   const sections = uniqueCategories.map((e) => createSection(e));
   const outputString = pageHeader + sections.join('');
-  const outputFile = path.join(process.cwd(), 'wiki_pages', 'ByCategory.md');
+  const outputFile = path.join(process.cwd(), 'wiki_pages', pageName + '.md');
   writeFile(outputFile, outputString);
 }
 
 // eslint-disable-next-line no-unused-vars
-function alphabetical(data) {
+function createAlphabeticalWiki(data, parentCategory) {
   const startingLetters = data.map((e) => {
     return e.name.substring(0, 1).toUpperCase();
   });
   const uniqueLetters = [...new Set(startingLetters)].sort();
-  const pageHeader = '## Clippy Functions (Alphabetical List) \n\n';
+  const pageHeader = `## ${parentCategory} (Alphabetical List) \n\n`;
+  const pageName = toURI(parentCategory, 'alphabetical');
   const createSection = (currentLetter) => {
     const funcsInCategory = data.filter(
       (e) => e.name.substring(0, 1).toUpperCase() === currentLetter
     );
     const header = sectionHeader(currentLetter);
-    const navbar = getNavbar(uniqueLetters, currentLetter, 'alphabetical_test');
+    const navbar = getNavbar(uniqueLetters, currentLetter, pageName);
     const dataTable = createTable(funcsInCategory);
     return formatSection(header, navbar, dataTable);
   };
   const sections = uniqueLetters.map((e) => createSection(e));
   const outputString = pageHeader + sections.join('');
-  const outputFile = path.join(process.cwd(), 'wiki_pages', 'Alphabetical.md');
+  const outputFile = path.join(process.cwd(), 'wiki_pages', pageName + '.md');
   writeFile(outputFile, outputString);
 }
 
-function combineCSVDefinitions(newData, csvData) {
-  const formatCSVRow = (cur) => {
-    const contents = `**${cur.name}**:
-
-${cur.description}
-
-[Read more on Office Support.](${cur.link})`;
-    return [cur.name, cur.link, 0, contents];
-  };
-
-  const existingFN = csvData.map((e) => e[0]);
-  return newData.reduce((acc, cur) => {
-    if (existingFN.indexOf(cur.name) < 0) {
-      const newRow = formatCSVRow(cur);
-      acc.push(newRow);
+function createWikiPages(data) {
+  const parentCategories = data.reduce((acc, cur) => {
+    const curCat = cur.parentCategory;
+    if (!acc.includes(curCat)) {
+      acc.push(curCat);
     }
     return acc;
-  }, csvData);
+  }, []);
+  parentCategories.forEach((cat) => {
+    const funcsInGroup = data.filter((e) => e.parentCategory === cat);
+    const maybePlural = cat.split(' ').pop() === 'Function' ? cat + 's' : cat;
+    createAlphabeticalWiki(funcsInGroup, maybePlural);
+    createCategoricalWiki(funcsInGroup, maybePlural);
+  });
 }
 
 // eslint-disable-next-line no-unused-vars
 function createCSV(data) {
-  const manualAdditions = path.join(
-    process.cwd(),
-    'csv',
-    'manual_additions',
-    'clippy_format.csv'
-  );
   const outputPath = path.join(process.cwd(), 'csv', 'clippy_ref_formulas.csv');
-  fs.readFile(manualAdditions, 'utf8', function read(err, csvString) {
-    if (err) {
-      throw err;
-    }
-    // clean first surrounding quote - important
-    const clean = csvString.slice(1);
-    const parsed = Papa.parse(clean, {
-      skipEmptyLines: true, // true is 'greedy', meaning skip delimiters, quotes, and whitespace.
-    });
-    const csvData = parsed.data;
-    const combined = combineCSVDefinitions(data, csvData);
-    const BOM = '\ufeff';
-    const outputString = BOM + Papa.unparse(combined);
-
-    writeFile(outputPath, outputString);
+  const headers = ['Formula', 'Address', 'Called', 'Contents'];
+  const body = data.map((cur) => {
+    const contents = [
+      `**${cur.name}**:`,
+      `${cur.description}`,
+      mdLink('Read more on Office Support.', cur.link),
+    ].join('\n\n');
+    return [cur.name, cur.link, 0, contents];
   });
+  const csvData = [headers, ...body];
+  const BOM = '\ufeff';
+  const outputString = BOM + Papa.unparse(csvData);
+  writeFile(outputPath, outputString);
 }
 
-function createDecronyms(data) {
+async function getCustomDefinitions() {
   const manualAdditions = path.join(
     process.cwd(),
     'csv',
     'manual_additions',
     'decronym_format.csv'
   );
-
-  // const addRegexCapture = (list) => {
-  //   return list.map((e) => {
-  //     const rtn = { ...e };
-  //     rtn.name = `/${e.name}/`;
-  //     return rtn;
-  //   });
-  // };
-
-  // const funcsWithRegex = addRegexCapture(data);
-
-  fs.readFile(manualAdditions, 'utf8', function read(err, csvString) {
-    if (err) {
-      throw err;
-    }
-    // clean first surrounding quote - important
-    const cleanCSV = csvString.slice(1);
-    const parsedCSV = Papa.parse(cleanCSV, {
-      skipEmptyLines: true, // true is 'greedy', meaning skip delimiters, quotes, and whitespace.
-      header: true, // converts to array of obj with column headers as prop names
-    });
-    const csvData = parsedCSV.data;
-
-    // csvData.forEach((val) => console.log(encodeURIComponent(val.description)));
-
-    const combined = data.reduce((acc, cur) => {
-      if (!acc.some((e) => e.name === cur.name)) {
-        acc.push(cur);
-      }
-      return acc;
-    }, csvData);
-
-    const cleanseData = (d) => {
-      // eslint-disable-next-line no-control-regex
-      const charSet = /[^\x00-\x7F]/g;
-      return d.map((e) => {
-        const rtn = { ...e };
-        rtn.description = rtn.description.replace(charSet, '');
-        return rtn;
-      });
-    };
-
-    const cleansedCombined = cleanseData(combined);
-
-    const decronyms = cleansedCombined.reduce((acc, cur) => {
-      const key = cur.name;
-      const value = [mdLink(cur.description, cur.link)];
-      acc[key] = value;
-      return acc;
-    }, {});
-
-    const outputString = JSON.stringify(decronyms, null, 2);
-    const ouputPath = path.join(process.cwd(), 'excelDecronyms.json');
-    writeFile(ouputPath, outputString);
+  const PARENT_CATEGORY = 'CUSTOM';
+  const CATEGORY = PARENT_CATEGORY;
+  const csvString = await fs.promises.readFile(manualAdditions, 'utf8');
+  // clean first surrounding quote - important
+  const cleanCSV = csvString.slice(1);
+  const parsedCSV = Papa.parse(cleanCSV, {
+    skipEmptyLines: true, // true is 'greedy', meaning skip delimiters, quotes, and whitespace.
+    header: true, // converts to array of obj with column headers as prop names
   });
+  const csvData = parsedCSV.data;
+  const customDefinitions = csvData.map((e) =>
+    Object.assign(new FunctionDefinition(PARENT_CATEGORY, CATEGORY), e)
+  );
+  return customDefinitions;
 }
 
-fetch(URL)
-  .then((res) => res.text())
-  .then((text) => {
-    const { document } = new JSDOM(text).window;
-    const table = document.querySelector('#tblID0EBDAAA');
-    const rows = table.querySelectorAll('tbody>tr');
+async function getExcelFunctions() {
+  const EX_BASE = 'https://support.microsoft.com';
+  const PARENT_CATEGORY = 'Excel Function';
+  const FUNC_URL_FRAGEMENT =
+    '/en-us/office/excel-functions-alphabetical-b3944572-255d-4efb-bb96-c6d90033e188';
+  const excelFuncsURL = EX_BASE + FUNC_URL_FRAGEMENT;
+  const excelFuncsResp = await fetch(excelFuncsURL);
+  const excelFuncsText = await excelFuncsResp.text();
+  const excelFuncsDocument = new JSDOM(excelFuncsText).window.document;
+  const dataTable = excelFuncsDocument.querySelector('#tblID0EBDAAA');
+  const rows = dataTable.querySelectorAll('tbody>tr');
+  const rowArray = Array.from(rows);
+  const excelFunctions = rowArray
+    .map((e) => {
+      const linkText = e.children[0]
+        .querySelector('p>a')
+        .text.replace(/ function(?:s)?/, '');
+      const href = e.children[0].querySelector('p>a').href;
+      const blurb = e.children[1]
+        .querySelector('p')
+        .textContent.replace('\n              ', '');
+      const [cat, desc] = blurb.split(/:\s+/, 2);
+      if (linkText.includes(',')) {
+        // linkText contains two or more entries, e.g "MID, MIDB".
+        // return a separate obj for each with same desc and link
+        const titles = linkText.split(', ');
+        return titles.map((title) => {
+          return new FunctionDefinition(
+            PARENT_CATEGORY,
+            cat,
+            title,
+            desc,
+            EX_BASE + href
+          );
+        });
+      }
+      return new FunctionDefinition(
+        PARENT_CATEGORY,
+        cat,
+        linkText,
+        desc,
+        EX_BASE + href
+      );
+    })
+    .flat();
+  return excelFunctions;
+}
+
+// eslint-disable-next-line no-unused-vars
+async function getPowerQueryFunctions() {
+  const PQ_BASE = 'https://docs.microsoft.com/en-us/powerquery-m/';
+  const PARENT_CATEGORY = 'Power Query M';
+  const CATEGORIES_URL_FRAGMENT = 'power-query-m-function-reference';
+  const categoriesURL = PQ_BASE + CATEGORIES_URL_FRAGMENT;
+  const categoriesResponse = await fetch(categoriesURL);
+  const categoriesText = await categoriesResponse.text();
+  const categoriesDocument = new JSDOM(categoriesText).window.document;
+  const categoryNodes = categoriesDocument.querySelectorAll(
+    'main#main.content ul li a'
+  );
+  const categories = Array.from(categoryNodes)
+    .map((e) => {
+      return {
+        category: e.innerHTML,
+        href: PQ_BASE + e.href,
+      };
+    })
+    .slice(1); // slice to remove header row
+
+  const functionPageResponses = await Promise.all(
+    categories.map((e) => fetch(e.href))
+  );
+  const functionPagesText = await Promise.all(
+    functionPageResponses.map((e) => e.text())
+  );
+  const functionsByCategory = functionPagesText.reduce((acc, cur, idx) => {
+    const funcList = new JSDOM(cur).window.document;
+    const currentCategory = categories[idx].category;
+    const rows = funcList.querySelectorAll('table > tbody > tr');
     const rowArray = Array.from(rows);
-    const data = extractData(rowArray);
-    // byCategory(data);
-    // alphabetical(data);
-    // createCSV(data);
-    createDecronyms(data);
-  });
+
+    rowArray.forEach((e, i) => {
+      // not all tables are links.
+      if (e.children[0].querySelector('a')) {
+        const linkText = e.children[0].querySelector('a').text;
+        const href = e.children[0].querySelector('a').href;
+        const desc = e.children[1].textContent;
+        const curFunc = new FunctionDefinition(
+          PARENT_CATEGORY,
+          currentCategory,
+          linkText,
+          desc,
+          PQ_BASE + href
+        );
+        acc.push(curFunc);
+      }
+    });
+    return acc;
+  }, []);
+
+  return functionsByCategory;
+}
+
+// eslint-disable-next-line no-unused-vars
+function createDecronyms(data) {
+  const decronyms = data.reduce((acc, cur) => {
+    const key = cur.name;
+    const value = mdLink(cur.decronymDescription, cur.link);
+    if (
+      Object.prototype.hasOwnProperty.call(acc, key) &&
+      acc[key].indexOf(value) < 0
+    ) {
+      acc[key].push(value);
+    } else {
+      acc[key] = [value];
+    }
+    return acc;
+  }, {});
+  console.log(`Found ${Object.keys(decronyms).length} decronyms`);
+  const outputString = JSON.stringify(decronyms, null, 2);
+  const ouputPath = path.join(process.cwd(), 'excelDecronyms.json');
+  writeFile(ouputPath, outputString);
+}
+
+(async function main() {
+  const customDefs = await getCustomDefinitions();
+  const excelFuncs = await getExcelFunctions();
+  // const pqFuncs = await getPowerQueryFunctions();
+  // const combined = [...customDefs, ...excelFuncs, ...pqFuncs];
+  const combined = [...customDefs, ...excelFuncs];
+  createDecronyms(combined);
+  // createCSV(combined);
+  createWikiPages(combined);
+})();
