@@ -1446,10 +1446,10 @@
     "[Returns the internal rate of return for a schedule of cash flows that is not necessarily periodic](https://support.microsoft.com/en-us/office/xirr-function-de1242ec-6477-445b-b11b-a303ad9adc9d)"
   ],
   "XLOOKUP": [
-    "[Searches a range or an array, and returnsan itemcorrespondingto thefirst match it finds. If a match doesn't exist,then XLOOKUP can return theclosest (approximate) match.](https://support.microsoft.com/en-us/office/xlookup-function-b7fd680e-6d10-43e6-84f9-88eae8bf5929)"
+    "[Searches a range or an array, and returns an item corresponding to the first match it finds. If a match doesn't exist, then XLOOKUP can return the closest (approximate) match. ](https://support.microsoft.com/en-us/office/xlookup-function-b7fd680e-6d10-43e6-84f9-88eae8bf5929)"
   ],
   "XMATCH": [
-    "[Returns therelativeposition of an item in an array or range of cells.](https://support.microsoft.com/en-us/office/xmatch-function-d966da31-7a6b-4a13-a1c6-5a33ed6a0312)"
+    "[Returns the relative position of an item in an array or range of cells. ](https://support.microsoft.com/en-us/office/xmatch-function-d966da31-7a6b-4a13-a1c6-5a33ed6a0312)"
   ],
   "XNPV": [
     "[Returns the net present value for a schedule of cash flows that is not necessarily periodic](https://support.microsoft.com/en-us/office/xnpv-function-1b42bbf6-370f-4532-a0eb-d67c16b664b7)"

@@ -18,9 +18,10 @@ class FunctionDefinition {
   }
 
   get decronymDescription() {
+    const nbsp = /[\xa0]/g;
     // eslint-disable-next-line no-control-regex
     const charSet = /[^\x00-\x7F]/g;
-    const desc = this.description.replace(charSet, '');
+    const desc = this.description.replace(nbsp, ' ').replace(charSet, '');
     return !['CUSTOM', 'Excel Function'].includes(this.parentCategory)
       ? `${this.parentCategory}: ${desc}`
       : desc;
