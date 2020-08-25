@@ -21,7 +21,7 @@ class FunctionDefinition {
     // eslint-disable-next-line no-control-regex
     const charSet = /[^\x00-\x7F]/g;
     const desc = this.description.replace(charSet, '');
-    return this.parentCategory !== 'CUSTOM'
+    return !['CUSTOM', 'Excel Function'].includes(this.parentCategory)
       ? `${this.parentCategory}: ${desc}`
       : desc;
   }
