@@ -330,7 +330,7 @@ function createDecronyms(data) {
   }, {});
   console.log(`Found ${Object.keys(decronyms).length} decronyms`);
   const outputString = JSON.stringify(decronyms, null, 2);
-  const ouputPath = path.join(process.cwd(), 'excelDecronyms.json');
+  const ouputPath = path.join(process.cwd(), 'decronyms', 'index.json');
   writeFile(ouputPath, outputString);
 }
 
@@ -343,6 +343,6 @@ function createDecronyms(data) {
   const combined = [...customDefs, ...excelFuncs, ...pqFuncs];
   // const combined = [...customDefs, ...excelFuncs];
   createDecronyms(combined);
-  // createCSV(combined);
-  // createWikiPages(combined);
+  createCSV(combined);
+  createWikiPages(combined);
 })();
