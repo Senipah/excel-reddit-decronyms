@@ -5,11 +5,11 @@
 
 **A**
 |
-[C](/r/ExcelMod/wiki/decronyms/custom_alphabetical#wiki_c)
+[C](/r/Excel/wiki/decronyms/custom_alphabetical#wiki_c)
 |
-[E](/r/ExcelMod/wiki/decronyms/custom_alphabetical#wiki_e)
+[E](/r/Excel/wiki/decronyms/custom_alphabetical#wiki_e)
 |
-[F](/r/ExcelMod/wiki/decronyms/custom_alphabetical#wiki_f)
+[F](/r/Excel/wiki/decronyms/custom_alphabetical#wiki_f)
 |
 
 
@@ -23,13 +23,13 @@
 ### C
 ---
 
-[A](/r/ExcelMod/wiki/decronyms/custom_alphabetical#wiki_a)
+[A](/r/Excel/wiki/decronyms/custom_alphabetical#wiki_a)
 |
 **C**
 |
-[E](/r/ExcelMod/wiki/decronyms/custom_alphabetical#wiki_e)
+[E](/r/Excel/wiki/decronyms/custom_alphabetical#wiki_e)
 |
-[F](/r/ExcelMod/wiki/decronyms/custom_alphabetical#wiki_f)
+[F](/r/Excel/wiki/decronyms/custom_alphabetical#wiki_f)
 |
 
 
@@ -41,13 +41,13 @@
 ### E
 ---
 
-[A](/r/ExcelMod/wiki/decronyms/custom_alphabetical#wiki_a)
+[A](/r/Excel/wiki/decronyms/custom_alphabetical#wiki_a)
 |
-[C](/r/ExcelMod/wiki/decronyms/custom_alphabetical#wiki_c)
+[C](/r/Excel/wiki/decronyms/custom_alphabetical#wiki_c)
 |
 **E**
 |
-[F](/r/ExcelMod/wiki/decronyms/custom_alphabetical#wiki_f)
+[F](/r/Excel/wiki/decronyms/custom_alphabetical#wiki_f)
 |
 
 
@@ -59,11 +59,11 @@
 ### F
 ---
 
-[A](/r/ExcelMod/wiki/decronyms/custom_alphabetical#wiki_a)
+[A](/r/Excel/wiki/decronyms/custom_alphabetical#wiki_a)
 |
-[C](/r/ExcelMod/wiki/decronyms/custom_alphabetical#wiki_c)
+[C](/r/Excel/wiki/decronyms/custom_alphabetical#wiki_c)
 |
-[E](/r/ExcelMod/wiki/decronyms/custom_alphabetical#wiki_e)
+[E](/r/Excel/wiki/decronyms/custom_alphabetical#wiki_e)
 |
 **F**
 |
