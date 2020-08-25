@@ -5,51 +5,51 @@
 
 **Accessing data functions**
 |
-[Binary functions](/r/Excel/wiki/decronyms/power_query_m_categorical#wiki_binary_functions)
+[Binary functions](/r/excel/wiki/decronym/power_query_m_categorical#wiki_binary_functions)
 |
-[Combiner functions](/r/Excel/wiki/decronyms/power_query_m_categorical#wiki_combiner_functions)
+[Combiner functions](/r/excel/wiki/decronym/power_query_m_categorical#wiki_combiner_functions)
 |
-[Comparer functions](/r/Excel/wiki/decronyms/power_query_m_categorical#wiki_comparer_functions)
+[Comparer functions](/r/excel/wiki/decronym/power_query_m_categorical#wiki_comparer_functions)
 |
-[Date functions](/r/Excel/wiki/decronyms/power_query_m_categorical#wiki_date_functions)
+[Date functions](/r/excel/wiki/decronym/power_query_m_categorical#wiki_date_functions)
 |
-[DateTime functions](/r/Excel/wiki/decronyms/power_query_m_categorical#wiki_datetime_functions)
+[DateTime functions](/r/excel/wiki/decronym/power_query_m_categorical#wiki_datetime_functions)
 |
-[DateTimeZone functions](/r/Excel/wiki/decronyms/power_query_m_categorical#wiki_datetimezone_functions)
+[DateTimeZone functions](/r/excel/wiki/decronym/power_query_m_categorical#wiki_datetimezone_functions)
 |
-[Duration functions](/r/Excel/wiki/decronyms/power_query_m_categorical#wiki_duration_functions)
+[Duration functions](/r/excel/wiki/decronym/power_query_m_categorical#wiki_duration_functions)
 |
-[Error handling](/r/Excel/wiki/decronyms/power_query_m_categorical#wiki_error_handling)
+[Error handling](/r/excel/wiki/decronym/power_query_m_categorical#wiki_error_handling)
 |
-[Expression functions](/r/Excel/wiki/decronyms/power_query_m_categorical#wiki_expression_functions)
+[Expression functions](/r/excel/wiki/decronym/power_query_m_categorical#wiki_expression_functions)
 |
-[Function values](/r/Excel/wiki/decronyms/power_query_m_categorical#wiki_function_values)
+[Function values](/r/excel/wiki/decronym/power_query_m_categorical#wiki_function_values)
 |
-[Lines functions](/r/Excel/wiki/decronyms/power_query_m_categorical#wiki_lines_functions)
+[Lines functions](/r/excel/wiki/decronym/power_query_m_categorical#wiki_lines_functions)
 |
-[List functions](/r/Excel/wiki/decronyms/power_query_m_categorical#wiki_list_functions)
+[List functions](/r/excel/wiki/decronym/power_query_m_categorical#wiki_list_functions)
 |
-[Logical functions](/r/Excel/wiki/decronyms/power_query_m_categorical#wiki_logical_functions)
+[Logical functions](/r/excel/wiki/decronym/power_query_m_categorical#wiki_logical_functions)
 |
-[Number functions](/r/Excel/wiki/decronyms/power_query_m_categorical#wiki_number_functions)
+[Number functions](/r/excel/wiki/decronym/power_query_m_categorical#wiki_number_functions)
 |
-[Record functions](/r/Excel/wiki/decronyms/power_query_m_categorical#wiki_record_functions)
+[Record functions](/r/excel/wiki/decronym/power_query_m_categorical#wiki_record_functions)
 |
-[Replacer functions](/r/Excel/wiki/decronyms/power_query_m_categorical#wiki_replacer_functions)
+[Replacer functions](/r/excel/wiki/decronym/power_query_m_categorical#wiki_replacer_functions)
 |
-[Splitter functions](/r/Excel/wiki/decronyms/power_query_m_categorical#wiki_splitter_functions)
+[Splitter functions](/r/excel/wiki/decronym/power_query_m_categorical#wiki_splitter_functions)
 |
-[Table functions](/r/Excel/wiki/decronyms/power_query_m_categorical#wiki_table_functions)
+[Table functions](/r/excel/wiki/decronym/power_query_m_categorical#wiki_table_functions)
 |
-[Text functions](/r/Excel/wiki/decronyms/power_query_m_categorical#wiki_text_functions)
+[Text functions](/r/excel/wiki/decronym/power_query_m_categorical#wiki_text_functions)
 |
-[Time functions](/r/Excel/wiki/decronyms/power_query_m_categorical#wiki_time_functions)
+[Time functions](/r/excel/wiki/decronym/power_query_m_categorical#wiki_time_functions)
 |
-[Type functions](/r/Excel/wiki/decronyms/power_query_m_categorical#wiki_type_functions)
+[Type functions](/r/excel/wiki/decronym/power_query_m_categorical#wiki_type_functions)
 |
-[Uri functions](/r/Excel/wiki/decronyms/power_query_m_categorical#wiki_uri_functions)
+[Uri functions](/r/excel/wiki/decronym/power_query_m_categorical#wiki_uri_functions)
 |
-[Value functions](/r/Excel/wiki/decronyms/power_query_m_categorical#wiki_value_functions)
+[Value functions](/r/excel/wiki/decronym/power_query_m_categorical#wiki_value_functions)
 |
 
 
@@ -167,53 +167,53 @@
 ### Binary functions
 ---
 
-[Accessing data functions](/r/Excel/wiki/decronyms/power_query_m_categorical#wiki_accessing_data_functions)
+[Accessing data functions](/r/excel/wiki/decronym/power_query_m_categorical#wiki_accessing_data_functions)
 |
 **Binary functions**
 |
-[Combiner functions](/r/Excel/wiki/decronyms/power_query_m_categorical#wiki_combiner_functions)
+[Combiner functions](/r/excel/wiki/decronym/power_query_m_categorical#wiki_combiner_functions)
 |
-[Comparer functions](/r/Excel/wiki/decronyms/power_query_m_categorical#wiki_comparer_functions)
+[Comparer functions](/r/excel/wiki/decronym/power_query_m_categorical#wiki_comparer_functions)
 |
-[Date functions](/r/Excel/wiki/decronyms/power_query_m_categorical#wiki_date_functions)
+[Date functions](/r/excel/wiki/decronym/power_query_m_categorical#wiki_date_functions)
 |
-[DateTime functions](/r/Excel/wiki/decronyms/power_query_m_categorical#wiki_datetime_functions)
+[DateTime functions](/r/excel/wiki/decronym/power_query_m_categorical#wiki_datetime_functions)
 |
-[DateTimeZone functions](/r/Excel/wiki/decronyms/power_query_m_categorical#wiki_datetimezone_functions)
+[DateTimeZone functions](/r/excel/wiki/decronym/power_query_m_categorical#wiki_datetimezone_functions)
 |
-[Duration functions](/r/Excel/wiki/decronyms/power_query_m_categorical#wiki_duration_functions)
+[Duration functions](/r/excel/wiki/decronym/power_query_m_categorical#wiki_duration_functions)
 |
-[Error handling](/r/Excel/wiki/decronyms/power_query_m_categorical#wiki_error_handling)
+[Error handling](/r/excel/wiki/decronym/power_query_m_categorical#wiki_error_handling)
 |
-[Expression functions](/r/Excel/wiki/decronyms/power_query_m_categorical#wiki_expression_functions)
+[Expression functions](/r/excel/wiki/decronym/power_query_m_categorical#wiki_expression_functions)
 |
-[Function values](/r/Excel/wiki/decronyms/power_query_m_categorical#wiki_function_values)
+[Function values](/r/excel/wiki/decronym/power_query_m_categorical#wiki_function_values)
 |
-[Lines functions](/r/Excel/wiki/decronyms/power_query_m_categorical#wiki_lines_functions)
+[Lines functions](/r/excel/wiki/decronym/power_query_m_categorical#wiki_lines_functions)
 |
-[List functions](/r/Excel/wiki/decronyms/power_query_m_categorical#wiki_list_functions)
+[List functions](/r/excel/wiki/decronym/power_query_m_categorical#wiki_list_functions)
 |
-[Logical functions](/r/Excel/wiki/decronyms/power_query_m_categorical#wiki_logical_functions)
+[Logical functions](/r/excel/wiki/decronym/power_query_m_categorical#wiki_logical_functions)
 |
-[Number functions](/r/Excel/wiki/decronyms/power_query_m_categorical#wiki_number_functions)
+[Number functions](/r/excel/wiki/decronym/power_query_m_categorical#wiki_number_functions)
 |
-[Record functions](/r/Excel/wiki/decronyms/power_query_m_categorical#wiki_record_functions)
+[Record functions](/r/excel/wiki/decronym/power_query_m_categorical#wiki_record_functions)
 |
-[Replacer functions](/r/Excel/wiki/decronyms/power_query_m_categorical#wiki_replacer_functions)
+[Replacer functions](/r/excel/wiki/decronym/power_query_m_categorical#wiki_replacer_functions)
 |
-[Splitter functions](/r/Excel/wiki/decronyms/power_query_m_categorical#wiki_splitter_functions)
+[Splitter functions](/r/excel/wiki/decronym/power_query_m_categorical#wiki_splitter_functions)
 |
-[Table functions](/r/Excel/wiki/decronyms/power_query_m_categorical#wiki_table_functions)
+[Table functions](/r/excel/wiki/decronym/power_query_m_categorical#wiki_table_functions)
 |
-[Text functions](/r/Excel/wiki/decronyms/power_query_m_categorical#wiki_text_functions)
+[Text functions](/r/excel/wiki/decronym/power_query_m_categorical#wiki_text_functions)
 |
-[Time functions](/r/Excel/wiki/decronyms/power_query_m_categorical#wiki_time_functions)
+[Time functions](/r/excel/wiki/decronym/power_query_m_categorical#wiki_time_functions)
 |
-[Type functions](/r/Excel/wiki/decronyms/power_query_m_categorical#wiki_type_functions)
+[Type functions](/r/excel/wiki/decronym/power_query_m_categorical#wiki_type_functions)
 |
-[Uri functions](/r/Excel/wiki/decronyms/power_query_m_categorical#wiki_uri_functions)
+[Uri functions](/r/excel/wiki/decronym/power_query_m_categorical#wiki_uri_functions)
 |
-[Value functions](/r/Excel/wiki/decronyms/power_query_m_categorical#wiki_value_functions)
+[Value functions](/r/excel/wiki/decronym/power_query_m_categorical#wiki_value_functions)
 |
 
 
@@ -276,53 +276,53 @@
 ### Combiner functions
 ---
 
-[Accessing data functions](/r/Excel/wiki/decronyms/power_query_m_categorical#wiki_accessing_data_functions)
+[Accessing data functions](/r/excel/wiki/decronym/power_query_m_categorical#wiki_accessing_data_functions)
 |
-[Binary functions](/r/Excel/wiki/decronyms/power_query_m_categorical#wiki_binary_functions)
+[Binary functions](/r/excel/wiki/decronym/power_query_m_categorical#wiki_binary_functions)
 |
 **Combiner functions**
 |
-[Comparer functions](/r/Excel/wiki/decronyms/power_query_m_categorical#wiki_comparer_functions)
+[Comparer functions](/r/excel/wiki/decronym/power_query_m_categorical#wiki_comparer_functions)
 |
-[Date functions](/r/Excel/wiki/decronyms/power_query_m_categorical#wiki_date_functions)
+[Date functions](/r/excel/wiki/decronym/power_query_m_categorical#wiki_date_functions)
 |
-[DateTime functions](/r/Excel/wiki/decronyms/power_query_m_categorical#wiki_datetime_functions)
+[DateTime functions](/r/excel/wiki/decronym/power_query_m_categorical#wiki_datetime_functions)
 |
-[DateTimeZone functions](/r/Excel/wiki/decronyms/power_query_m_categorical#wiki_datetimezone_functions)
+[DateTimeZone functions](/r/excel/wiki/decronym/power_query_m_categorical#wiki_datetimezone_functions)
 |
-[Duration functions](/r/Excel/wiki/decronyms/power_query_m_categorical#wiki_duration_functions)
+[Duration functions](/r/excel/wiki/decronym/power_query_m_categorical#wiki_duration_functions)
 |
-[Error handling](/r/Excel/wiki/decronyms/power_query_m_categorical#wiki_error_handling)
+[Error handling](/r/excel/wiki/decronym/power_query_m_categorical#wiki_error_handling)
 |
-[Expression functions](/r/Excel/wiki/decronyms/power_query_m_categorical#wiki_expression_functions)
+[Expression functions](/r/excel/wiki/decronym/power_query_m_categorical#wiki_expression_functions)
 |
-[Function values](/r/Excel/wiki/decronyms/power_query_m_categorical#wiki_function_values)
+[Function values](/r/excel/wiki/decronym/power_query_m_categorical#wiki_function_values)
 |
-[Lines functions](/r/Excel/wiki/decronyms/power_query_m_categorical#wiki_lines_functions)
+[Lines functions](/r/excel/wiki/decronym/power_query_m_categorical#wiki_lines_functions)
 |
-[List functions](/r/Excel/wiki/decronyms/power_query_m_categorical#wiki_list_functions)
+[List functions](/r/excel/wiki/decronym/power_query_m_categorical#wiki_list_functions)
 |
-[Logical functions](/r/Excel/wiki/decronyms/power_query_m_categorical#wiki_logical_functions)
+[Logical functions](/r/excel/wiki/decronym/power_query_m_categorical#wiki_logical_functions)
 |
-[Number functions](/r/Excel/wiki/decronyms/power_query_m_categorical#wiki_number_functions)
+[Number functions](/r/excel/wiki/decronym/power_query_m_categorical#wiki_number_functions)
 |
-[Record functions](/r/Excel/wiki/decronyms/power_query_m_categorical#wiki_record_functions)
+[Record functions](/r/excel/wiki/decronym/power_query_m_categorical#wiki_record_functions)
 |
-[Replacer functions](/r/Excel/wiki/decronyms/power_query_m_categorical#wiki_replacer_functions)
+[Replacer functions](/r/excel/wiki/decronym/power_query_m_categorical#wiki_replacer_functions)
 |
-[Splitter functions](/r/Excel/wiki/decronyms/power_query_m_categorical#wiki_splitter_functions)
+[Splitter functions](/r/excel/wiki/decronym/power_query_m_categorical#wiki_splitter_functions)
 |
-[Table functions](/r/Excel/wiki/decronyms/power_query_m_categorical#wiki_table_functions)
+[Table functions](/r/excel/wiki/decronym/power_query_m_categorical#wiki_table_functions)
 |
-[Text functions](/r/Excel/wiki/decronyms/power_query_m_categorical#wiki_text_functions)
+[Text functions](/r/excel/wiki/decronym/power_query_m_categorical#wiki_text_functions)
 |
-[Time functions](/r/Excel/wiki/decronyms/power_query_m_categorical#wiki_time_functions)
+[Time functions](/r/excel/wiki/decronym/power_query_m_categorical#wiki_time_functions)
 |
-[Type functions](/r/Excel/wiki/decronyms/power_query_m_categorical#wiki_type_functions)
+[Type functions](/r/excel/wiki/decronym/power_query_m_categorical#wiki_type_functions)
 |
-[Uri functions](/r/Excel/wiki/decronyms/power_query_m_categorical#wiki_uri_functions)
+[Uri functions](/r/excel/wiki/decronym/power_query_m_categorical#wiki_uri_functions)
 |
-[Value functions](/r/Excel/wiki/decronyms/power_query_m_categorical#wiki_value_functions)
+[Value functions](/r/excel/wiki/decronym/power_query_m_categorical#wiki_value_functions)
 |
 
 
@@ -338,53 +338,53 @@
 ### Comparer functions
 ---
 
-[Accessing data functions](/r/Excel/wiki/decronyms/power_query_m_categorical#wiki_accessing_data_functions)
+[Accessing data functions](/r/excel/wiki/decronym/power_query_m_categorical#wiki_accessing_data_functions)
 |
-[Binary functions](/r/Excel/wiki/decronyms/power_query_m_categorical#wiki_binary_functions)
+[Binary functions](/r/excel/wiki/decronym/power_query_m_categorical#wiki_binary_functions)
 |
-[Combiner functions](/r/Excel/wiki/decronyms/power_query_m_categorical#wiki_combiner_functions)
+[Combiner functions](/r/excel/wiki/decronym/power_query_m_categorical#wiki_combiner_functions)
 |
 **Comparer functions**
 |
-[Date functions](/r/Excel/wiki/decronyms/power_query_m_categorical#wiki_date_functions)
+[Date functions](/r/excel/wiki/decronym/power_query_m_categorical#wiki_date_functions)
 |
-[DateTime functions](/r/Excel/wiki/decronyms/power_query_m_categorical#wiki_datetime_functions)
+[DateTime functions](/r/excel/wiki/decronym/power_query_m_categorical#wiki_datetime_functions)
 |
-[DateTimeZone functions](/r/Excel/wiki/decronyms/power_query_m_categorical#wiki_datetimezone_functions)
+[DateTimeZone functions](/r/excel/wiki/decronym/power_query_m_categorical#wiki_datetimezone_functions)
 |
-[Duration functions](/r/Excel/wiki/decronyms/power_query_m_categorical#wiki_duration_functions)
+[Duration functions](/r/excel/wiki/decronym/power_query_m_categorical#wiki_duration_functions)
 |
-[Error handling](/r/Excel/wiki/decronyms/power_query_m_categorical#wiki_error_handling)
+[Error handling](/r/excel/wiki/decronym/power_query_m_categorical#wiki_error_handling)
 |
-[Expression functions](/r/Excel/wiki/decronyms/power_query_m_categorical#wiki_expression_functions)
+[Expression functions](/r/excel/wiki/decronym/power_query_m_categorical#wiki_expression_functions)
 |
-[Function values](/r/Excel/wiki/decronyms/power_query_m_categorical#wiki_function_values)
+[Function values](/r/excel/wiki/decronym/power_query_m_categorical#wiki_function_values)
 |
-[Lines functions](/r/Excel/wiki/decronyms/power_query_m_categorical#wiki_lines_functions)
+[Lines functions](/r/excel/wiki/decronym/power_query_m_categorical#wiki_lines_functions)
 |
-[List functions](/r/Excel/wiki/decronyms/power_query_m_categorical#wiki_list_functions)
+[List functions](/r/excel/wiki/decronym/power_query_m_categorical#wiki_list_functions)
 |
-[Logical functions](/r/Excel/wiki/decronyms/power_query_m_categorical#wiki_logical_functions)
+[Logical functions](/r/excel/wiki/decronym/power_query_m_categorical#wiki_logical_functions)
 |
-[Number functions](/r/Excel/wiki/decronyms/power_query_m_categorical#wiki_number_functions)
+[Number functions](/r/excel/wiki/decronym/power_query_m_categorical#wiki_number_functions)
 |
-[Record functions](/r/Excel/wiki/decronyms/power_query_m_categorical#wiki_record_functions)
+[Record functions](/r/excel/wiki/decronym/power_query_m_categorical#wiki_record_functions)
 |
-[Replacer functions](/r/Excel/wiki/decronyms/power_query_m_categorical#wiki_replacer_functions)
+[Replacer functions](/r/excel/wiki/decronym/power_query_m_categorical#wiki_replacer_functions)
 |
-[Splitter functions](/r/Excel/wiki/decronyms/power_query_m_categorical#wiki_splitter_functions)
+[Splitter functions](/r/excel/wiki/decronym/power_query_m_categorical#wiki_splitter_functions)
 |
-[Table functions](/r/Excel/wiki/decronyms/power_query_m_categorical#wiki_table_functions)
+[Table functions](/r/excel/wiki/decronym/power_query_m_categorical#wiki_table_functions)
 |
-[Text functions](/r/Excel/wiki/decronyms/power_query_m_categorical#wiki_text_functions)
+[Text functions](/r/excel/wiki/decronym/power_query_m_categorical#wiki_text_functions)
 |
-[Time functions](/r/Excel/wiki/decronyms/power_query_m_categorical#wiki_time_functions)
+[Time functions](/r/excel/wiki/decronym/power_query_m_categorical#wiki_time_functions)
 |
-[Type functions](/r/Excel/wiki/decronyms/power_query_m_categorical#wiki_type_functions)
+[Type functions](/r/excel/wiki/decronym/power_query_m_categorical#wiki_type_functions)
 |
-[Uri functions](/r/Excel/wiki/decronyms/power_query_m_categorical#wiki_uri_functions)
+[Uri functions](/r/excel/wiki/decronym/power_query_m_categorical#wiki_uri_functions)
 |
-[Value functions](/r/Excel/wiki/decronyms/power_query_m_categorical#wiki_value_functions)
+[Value functions](/r/excel/wiki/decronym/power_query_m_categorical#wiki_value_functions)
 |
 
 
@@ -400,53 +400,53 @@
 ### Date functions
 ---
 
-[Accessing data functions](/r/Excel/wiki/decronyms/power_query_m_categorical#wiki_accessing_data_functions)
+[Accessing data functions](/r/excel/wiki/decronym/power_query_m_categorical#wiki_accessing_data_functions)
 |
-[Binary functions](/r/Excel/wiki/decronyms/power_query_m_categorical#wiki_binary_functions)
+[Binary functions](/r/excel/wiki/decronym/power_query_m_categorical#wiki_binary_functions)
 |
-[Combiner functions](/r/Excel/wiki/decronyms/power_query_m_categorical#wiki_combiner_functions)
+[Combiner functions](/r/excel/wiki/decronym/power_query_m_categorical#wiki_combiner_functions)
 |
-[Comparer functions](/r/Excel/wiki/decronyms/power_query_m_categorical#wiki_comparer_functions)
+[Comparer functions](/r/excel/wiki/decronym/power_query_m_categorical#wiki_comparer_functions)
 |
 **Date functions**
 |
-[DateTime functions](/r/Excel/wiki/decronyms/power_query_m_categorical#wiki_datetime_functions)
+[DateTime functions](/r/excel/wiki/decronym/power_query_m_categorical#wiki_datetime_functions)
 |
-[DateTimeZone functions](/r/Excel/wiki/decronyms/power_query_m_categorical#wiki_datetimezone_functions)
+[DateTimeZone functions](/r/excel/wiki/decronym/power_query_m_categorical#wiki_datetimezone_functions)
 |
-[Duration functions](/r/Excel/wiki/decronyms/power_query_m_categorical#wiki_duration_functions)
+[Duration functions](/r/excel/wiki/decronym/power_query_m_categorical#wiki_duration_functions)
 |
-[Error handling](/r/Excel/wiki/decronyms/power_query_m_categorical#wiki_error_handling)
+[Error handling](/r/excel/wiki/decronym/power_query_m_categorical#wiki_error_handling)
 |
-[Expression functions](/r/Excel/wiki/decronyms/power_query_m_categorical#wiki_expression_functions)
+[Expression functions](/r/excel/wiki/decronym/power_query_m_categorical#wiki_expression_functions)
 |
-[Function values](/r/Excel/wiki/decronyms/power_query_m_categorical#wiki_function_values)
+[Function values](/r/excel/wiki/decronym/power_query_m_categorical#wiki_function_values)
 |
-[Lines functions](/r/Excel/wiki/decronyms/power_query_m_categorical#wiki_lines_functions)
+[Lines functions](/r/excel/wiki/decronym/power_query_m_categorical#wiki_lines_functions)
 |
-[List functions](/r/Excel/wiki/decronyms/power_query_m_categorical#wiki_list_functions)
+[List functions](/r/excel/wiki/decronym/power_query_m_categorical#wiki_list_functions)
 |
-[Logical functions](/r/Excel/wiki/decronyms/power_query_m_categorical#wiki_logical_functions)
+[Logical functions](/r/excel/wiki/decronym/power_query_m_categorical#wiki_logical_functions)
 |
-[Number functions](/r/Excel/wiki/decronyms/power_query_m_categorical#wiki_number_functions)
+[Number functions](/r/excel/wiki/decronym/power_query_m_categorical#wiki_number_functions)
 |
-[Record functions](/r/Excel/wiki/decronyms/power_query_m_categorical#wiki_record_functions)
+[Record functions](/r/excel/wiki/decronym/power_query_m_categorical#wiki_record_functions)
 |
-[Replacer functions](/r/Excel/wiki/decronyms/power_query_m_categorical#wiki_replacer_functions)
+[Replacer functions](/r/excel/wiki/decronym/power_query_m_categorical#wiki_replacer_functions)
 |
-[Splitter functions](/r/Excel/wiki/decronyms/power_query_m_categorical#wiki_splitter_functions)
+[Splitter functions](/r/excel/wiki/decronym/power_query_m_categorical#wiki_splitter_functions)
 |
-[Table functions](/r/Excel/wiki/decronyms/power_query_m_categorical#wiki_table_functions)
+[Table functions](/r/excel/wiki/decronym/power_query_m_categorical#wiki_table_functions)
 |
-[Text functions](/r/Excel/wiki/decronyms/power_query_m_categorical#wiki_text_functions)
+[Text functions](/r/excel/wiki/decronym/power_query_m_categorical#wiki_text_functions)
 |
-[Time functions](/r/Excel/wiki/decronyms/power_query_m_categorical#wiki_time_functions)
+[Time functions](/r/excel/wiki/decronym/power_query_m_categorical#wiki_time_functions)
 |
-[Type functions](/r/Excel/wiki/decronyms/power_query_m_categorical#wiki_type_functions)
+[Type functions](/r/excel/wiki/decronym/power_query_m_categorical#wiki_type_functions)
 |
-[Uri functions](/r/Excel/wiki/decronyms/power_query_m_categorical#wiki_uri_functions)
+[Uri functions](/r/excel/wiki/decronym/power_query_m_categorical#wiki_uri_functions)
 |
-[Value functions](/r/Excel/wiki/decronyms/power_query_m_categorical#wiki_value_functions)
+[Value functions](/r/excel/wiki/decronym/power_query_m_categorical#wiki_value_functions)
 |
 
 
@@ -522,53 +522,53 @@
 ### DateTime functions
 ---
 
-[Accessing data functions](/r/Excel/wiki/decronyms/power_query_m_categorical#wiki_accessing_data_functions)
+[Accessing data functions](/r/excel/wiki/decronym/power_query_m_categorical#wiki_accessing_data_functions)
 |
-[Binary functions](/r/Excel/wiki/decronyms/power_query_m_categorical#wiki_binary_functions)
+[Binary functions](/r/excel/wiki/decronym/power_query_m_categorical#wiki_binary_functions)
 |
-[Combiner functions](/r/Excel/wiki/decronyms/power_query_m_categorical#wiki_combiner_functions)
+[Combiner functions](/r/excel/wiki/decronym/power_query_m_categorical#wiki_combiner_functions)
 |
-[Comparer functions](/r/Excel/wiki/decronyms/power_query_m_categorical#wiki_comparer_functions)
+[Comparer functions](/r/excel/wiki/decronym/power_query_m_categorical#wiki_comparer_functions)
 |
-[Date functions](/r/Excel/wiki/decronyms/power_query_m_categorical#wiki_date_functions)
+[Date functions](/r/excel/wiki/decronym/power_query_m_categorical#wiki_date_functions)
 |
 **DateTime functions**
 |
-[DateTimeZone functions](/r/Excel/wiki/decronyms/power_query_m_categorical#wiki_datetimezone_functions)
+[DateTimeZone functions](/r/excel/wiki/decronym/power_query_m_categorical#wiki_datetimezone_functions)
 |
-[Duration functions](/r/Excel/wiki/decronyms/power_query_m_categorical#wiki_duration_functions)
+[Duration functions](/r/excel/wiki/decronym/power_query_m_categorical#wiki_duration_functions)
 |
-[Error handling](/r/Excel/wiki/decronyms/power_query_m_categorical#wiki_error_handling)
+[Error handling](/r/excel/wiki/decronym/power_query_m_categorical#wiki_error_handling)
 |
-[Expression functions](/r/Excel/wiki/decronyms/power_query_m_categorical#wiki_expression_functions)
+[Expression functions](/r/excel/wiki/decronym/power_query_m_categorical#wiki_expression_functions)
 |
-[Function values](/r/Excel/wiki/decronyms/power_query_m_categorical#wiki_function_values)
+[Function values](/r/excel/wiki/decronym/power_query_m_categorical#wiki_function_values)
 |
-[Lines functions](/r/Excel/wiki/decronyms/power_query_m_categorical#wiki_lines_functions)
+[Lines functions](/r/excel/wiki/decronym/power_query_m_categorical#wiki_lines_functions)
 |
-[List functions](/r/Excel/wiki/decronyms/power_query_m_categorical#wiki_list_functions)
+[List functions](/r/excel/wiki/decronym/power_query_m_categorical#wiki_list_functions)
 |
-[Logical functions](/r/Excel/wiki/decronyms/power_query_m_categorical#wiki_logical_functions)
+[Logical functions](/r/excel/wiki/decronym/power_query_m_categorical#wiki_logical_functions)
 |
-[Number functions](/r/Excel/wiki/decronyms/power_query_m_categorical#wiki_number_functions)
+[Number functions](/r/excel/wiki/decronym/power_query_m_categorical#wiki_number_functions)
 |
-[Record functions](/r/Excel/wiki/decronyms/power_query_m_categorical#wiki_record_functions)
+[Record functions](/r/excel/wiki/decronym/power_query_m_categorical#wiki_record_functions)
 |
-[Replacer functions](/r/Excel/wiki/decronyms/power_query_m_categorical#wiki_replacer_functions)
+[Replacer functions](/r/excel/wiki/decronym/power_query_m_categorical#wiki_replacer_functions)
 |
-[Splitter functions](/r/Excel/wiki/decronyms/power_query_m_categorical#wiki_splitter_functions)
+[Splitter functions](/r/excel/wiki/decronym/power_query_m_categorical#wiki_splitter_functions)
 |
-[Table functions](/r/Excel/wiki/decronyms/power_query_m_categorical#wiki_table_functions)
+[Table functions](/r/excel/wiki/decronym/power_query_m_categorical#wiki_table_functions)
 |
-[Text functions](/r/Excel/wiki/decronyms/power_query_m_categorical#wiki_text_functions)
+[Text functions](/r/excel/wiki/decronym/power_query_m_categorical#wiki_text_functions)
 |
-[Time functions](/r/Excel/wiki/decronyms/power_query_m_categorical#wiki_time_functions)
+[Time functions](/r/excel/wiki/decronym/power_query_m_categorical#wiki_time_functions)
 |
-[Type functions](/r/Excel/wiki/decronyms/power_query_m_categorical#wiki_type_functions)
+[Type functions](/r/excel/wiki/decronym/power_query_m_categorical#wiki_type_functions)
 |
-[Uri functions](/r/Excel/wiki/decronyms/power_query_m_categorical#wiki_uri_functions)
+[Uri functions](/r/excel/wiki/decronym/power_query_m_categorical#wiki_uri_functions)
 |
-[Value functions](/r/Excel/wiki/decronyms/power_query_m_categorical#wiki_value_functions)
+[Value functions](/r/excel/wiki/decronym/power_query_m_categorical#wiki_value_functions)
 |
 
 
@@ -605,53 +605,53 @@
 ### DateTimeZone functions
 ---
 
-[Accessing data functions](/r/Excel/wiki/decronyms/power_query_m_categorical#wiki_accessing_data_functions)
+[Accessing data functions](/r/excel/wiki/decronym/power_query_m_categorical#wiki_accessing_data_functions)
 |
-[Binary functions](/r/Excel/wiki/decronyms/power_query_m_categorical#wiki_binary_functions)
+[Binary functions](/r/excel/wiki/decronym/power_query_m_categorical#wiki_binary_functions)
 |
-[Combiner functions](/r/Excel/wiki/decronyms/power_query_m_categorical#wiki_combiner_functions)
+[Combiner functions](/r/excel/wiki/decronym/power_query_m_categorical#wiki_combiner_functions)
 |
-[Comparer functions](/r/Excel/wiki/decronyms/power_query_m_categorical#wiki_comparer_functions)
+[Comparer functions](/r/excel/wiki/decronym/power_query_m_categorical#wiki_comparer_functions)
 |
-[Date functions](/r/Excel/wiki/decronyms/power_query_m_categorical#wiki_date_functions)
+[Date functions](/r/excel/wiki/decronym/power_query_m_categorical#wiki_date_functions)
 |
-[DateTime functions](/r/Excel/wiki/decronyms/power_query_m_categorical#wiki_datetime_functions)
+[DateTime functions](/r/excel/wiki/decronym/power_query_m_categorical#wiki_datetime_functions)
 |
 **DateTimeZone functions**
 |
-[Duration functions](/r/Excel/wiki/decronyms/power_query_m_categorical#wiki_duration_functions)
+[Duration functions](/r/excel/wiki/decronym/power_query_m_categorical#wiki_duration_functions)
 |
-[Error handling](/r/Excel/wiki/decronyms/power_query_m_categorical#wiki_error_handling)
+[Error handling](/r/excel/wiki/decronym/power_query_m_categorical#wiki_error_handling)
 |
-[Expression functions](/r/Excel/wiki/decronyms/power_query_m_categorical#wiki_expression_functions)
+[Expression functions](/r/excel/wiki/decronym/power_query_m_categorical#wiki_expression_functions)
 |
-[Function values](/r/Excel/wiki/decronyms/power_query_m_categorical#wiki_function_values)
+[Function values](/r/excel/wiki/decronym/power_query_m_categorical#wiki_function_values)
 |
-[Lines functions](/r/Excel/wiki/decronyms/power_query_m_categorical#wiki_lines_functions)
+[Lines functions](/r/excel/wiki/decronym/power_query_m_categorical#wiki_lines_functions)
 |
-[List functions](/r/Excel/wiki/decronyms/power_query_m_categorical#wiki_list_functions)
+[List functions](/r/excel/wiki/decronym/power_query_m_categorical#wiki_list_functions)
 |
-[Logical functions](/r/Excel/wiki/decronyms/power_query_m_categorical#wiki_logical_functions)
+[Logical functions](/r/excel/wiki/decronym/power_query_m_categorical#wiki_logical_functions)
 |
-[Number functions](/r/Excel/wiki/decronyms/power_query_m_categorical#wiki_number_functions)
+[Number functions](/r/excel/wiki/decronym/power_query_m_categorical#wiki_number_functions)
 |
-[Record functions](/r/Excel/wiki/decronyms/power_query_m_categorical#wiki_record_functions)
+[Record functions](/r/excel/wiki/decronym/power_query_m_categorical#wiki_record_functions)
 |
-[Replacer functions](/r/Excel/wiki/decronyms/power_query_m_categorical#wiki_replacer_functions)
+[Replacer functions](/r/excel/wiki/decronym/power_query_m_categorical#wiki_replacer_functions)
 |
-[Splitter functions](/r/Excel/wiki/decronyms/power_query_m_categorical#wiki_splitter_functions)
+[Splitter functions](/r/excel/wiki/decronym/power_query_m_categorical#wiki_splitter_functions)
 |
-[Table functions](/r/Excel/wiki/decronyms/power_query_m_categorical#wiki_table_functions)
+[Table functions](/r/excel/wiki/decronym/power_query_m_categorical#wiki_table_functions)
 |
-[Text functions](/r/Excel/wiki/decronyms/power_query_m_categorical#wiki_text_functions)
+[Text functions](/r/excel/wiki/decronym/power_query_m_categorical#wiki_text_functions)
 |
-[Time functions](/r/Excel/wiki/decronyms/power_query_m_categorical#wiki_time_functions)
+[Time functions](/r/excel/wiki/decronym/power_query_m_categorical#wiki_time_functions)
 |
-[Type functions](/r/Excel/wiki/decronyms/power_query_m_categorical#wiki_type_functions)
+[Type functions](/r/excel/wiki/decronym/power_query_m_categorical#wiki_type_functions)
 |
-[Uri functions](/r/Excel/wiki/decronyms/power_query_m_categorical#wiki_uri_functions)
+[Uri functions](/r/excel/wiki/decronym/power_query_m_categorical#wiki_uri_functions)
 |
-[Value functions](/r/Excel/wiki/decronyms/power_query_m_categorical#wiki_value_functions)
+[Value functions](/r/excel/wiki/decronym/power_query_m_categorical#wiki_value_functions)
 |
 
 
@@ -678,53 +678,53 @@
 ### Duration functions
 ---
 
-[Accessing data functions](/r/Excel/wiki/decronyms/power_query_m_categorical#wiki_accessing_data_functions)
+[Accessing data functions](/r/excel/wiki/decronym/power_query_m_categorical#wiki_accessing_data_functions)
 |
-[Binary functions](/r/Excel/wiki/decronyms/power_query_m_categorical#wiki_binary_functions)
+[Binary functions](/r/excel/wiki/decronym/power_query_m_categorical#wiki_binary_functions)
 |
-[Combiner functions](/r/Excel/wiki/decronyms/power_query_m_categorical#wiki_combiner_functions)
+[Combiner functions](/r/excel/wiki/decronym/power_query_m_categorical#wiki_combiner_functions)
 |
-[Comparer functions](/r/Excel/wiki/decronyms/power_query_m_categorical#wiki_comparer_functions)
+[Comparer functions](/r/excel/wiki/decronym/power_query_m_categorical#wiki_comparer_functions)
 |
-[Date functions](/r/Excel/wiki/decronyms/power_query_m_categorical#wiki_date_functions)
+[Date functions](/r/excel/wiki/decronym/power_query_m_categorical#wiki_date_functions)
 |
-[DateTime functions](/r/Excel/wiki/decronyms/power_query_m_categorical#wiki_datetime_functions)
+[DateTime functions](/r/excel/wiki/decronym/power_query_m_categorical#wiki_datetime_functions)
 |
-[DateTimeZone functions](/r/Excel/wiki/decronyms/power_query_m_categorical#wiki_datetimezone_functions)
+[DateTimeZone functions](/r/excel/wiki/decronym/power_query_m_categorical#wiki_datetimezone_functions)
 |
 **Duration functions**
 |
-[Error handling](/r/Excel/wiki/decronyms/power_query_m_categorical#wiki_error_handling)
+[Error handling](/r/excel/wiki/decronym/power_query_m_categorical#wiki_error_handling)
 |
-[Expression functions](/r/Excel/wiki/decronyms/power_query_m_categorical#wiki_expression_functions)
+[Expression functions](/r/excel/wiki/decronym/power_query_m_categorical#wiki_expression_functions)
 |
-[Function values](/r/Excel/wiki/decronyms/power_query_m_categorical#wiki_function_values)
+[Function values](/r/excel/wiki/decronym/power_query_m_categorical#wiki_function_values)
 |
-[Lines functions](/r/Excel/wiki/decronyms/power_query_m_categorical#wiki_lines_functions)
+[Lines functions](/r/excel/wiki/decronym/power_query_m_categorical#wiki_lines_functions)
 |
-[List functions](/r/Excel/wiki/decronyms/power_query_m_categorical#wiki_list_functions)
+[List functions](/r/excel/wiki/decronym/power_query_m_categorical#wiki_list_functions)
 |
-[Logical functions](/r/Excel/wiki/decronyms/power_query_m_categorical#wiki_logical_functions)
+[Logical functions](/r/excel/wiki/decronym/power_query_m_categorical#wiki_logical_functions)
 |
-[Number functions](/r/Excel/wiki/decronyms/power_query_m_categorical#wiki_number_functions)
+[Number functions](/r/excel/wiki/decronym/power_query_m_categorical#wiki_number_functions)
 |
-[Record functions](/r/Excel/wiki/decronyms/power_query_m_categorical#wiki_record_functions)
+[Record functions](/r/excel/wiki/decronym/power_query_m_categorical#wiki_record_functions)
 |
-[Replacer functions](/r/Excel/wiki/decronyms/power_query_m_categorical#wiki_replacer_functions)
+[Replacer functions](/r/excel/wiki/decronym/power_query_m_categorical#wiki_replacer_functions)
 |
-[Splitter functions](/r/Excel/wiki/decronyms/power_query_m_categorical#wiki_splitter_functions)
+[Splitter functions](/r/excel/wiki/decronym/power_query_m_categorical#wiki_splitter_functions)
 |
-[Table functions](/r/Excel/wiki/decronyms/power_query_m_categorical#wiki_table_functions)
+[Table functions](/r/excel/wiki/decronym/power_query_m_categorical#wiki_table_functions)
 |
-[Text functions](/r/Excel/wiki/decronyms/power_query_m_categorical#wiki_text_functions)
+[Text functions](/r/excel/wiki/decronym/power_query_m_categorical#wiki_text_functions)
 |
-[Time functions](/r/Excel/wiki/decronyms/power_query_m_categorical#wiki_time_functions)
+[Time functions](/r/excel/wiki/decronym/power_query_m_categorical#wiki_time_functions)
 |
-[Type functions](/r/Excel/wiki/decronyms/power_query_m_categorical#wiki_type_functions)
+[Type functions](/r/excel/wiki/decronym/power_query_m_categorical#wiki_type_functions)
 |
-[Uri functions](/r/Excel/wiki/decronyms/power_query_m_categorical#wiki_uri_functions)
+[Uri functions](/r/excel/wiki/decronym/power_query_m_categorical#wiki_uri_functions)
 |
-[Value functions](/r/Excel/wiki/decronyms/power_query_m_categorical#wiki_value_functions)
+[Value functions](/r/excel/wiki/decronym/power_query_m_categorical#wiki_value_functions)
 |
 
 
@@ -748,53 +748,53 @@
 ### Error handling
 ---
 
-[Accessing data functions](/r/Excel/wiki/decronyms/power_query_m_categorical#wiki_accessing_data_functions)
+[Accessing data functions](/r/excel/wiki/decronym/power_query_m_categorical#wiki_accessing_data_functions)
 |
-[Binary functions](/r/Excel/wiki/decronyms/power_query_m_categorical#wiki_binary_functions)
+[Binary functions](/r/excel/wiki/decronym/power_query_m_categorical#wiki_binary_functions)
 |
-[Combiner functions](/r/Excel/wiki/decronyms/power_query_m_categorical#wiki_combiner_functions)
+[Combiner functions](/r/excel/wiki/decronym/power_query_m_categorical#wiki_combiner_functions)
 |
-[Comparer functions](/r/Excel/wiki/decronyms/power_query_m_categorical#wiki_comparer_functions)
+[Comparer functions](/r/excel/wiki/decronym/power_query_m_categorical#wiki_comparer_functions)
 |
-[Date functions](/r/Excel/wiki/decronyms/power_query_m_categorical#wiki_date_functions)
+[Date functions](/r/excel/wiki/decronym/power_query_m_categorical#wiki_date_functions)
 |
-[DateTime functions](/r/Excel/wiki/decronyms/power_query_m_categorical#wiki_datetime_functions)
+[DateTime functions](/r/excel/wiki/decronym/power_query_m_categorical#wiki_datetime_functions)
 |
-[DateTimeZone functions](/r/Excel/wiki/decronyms/power_query_m_categorical#wiki_datetimezone_functions)
+[DateTimeZone functions](/r/excel/wiki/decronym/power_query_m_categorical#wiki_datetimezone_functions)
 |
-[Duration functions](/r/Excel/wiki/decronyms/power_query_m_categorical#wiki_duration_functions)
+[Duration functions](/r/excel/wiki/decronym/power_query_m_categorical#wiki_duration_functions)
 |
 **Error handling**
 |
-[Expression functions](/r/Excel/wiki/decronyms/power_query_m_categorical#wiki_expression_functions)
+[Expression functions](/r/excel/wiki/decronym/power_query_m_categorical#wiki_expression_functions)
 |
-[Function values](/r/Excel/wiki/decronyms/power_query_m_categorical#wiki_function_values)
+[Function values](/r/excel/wiki/decronym/power_query_m_categorical#wiki_function_values)
 |
-[Lines functions](/r/Excel/wiki/decronyms/power_query_m_categorical#wiki_lines_functions)
+[Lines functions](/r/excel/wiki/decronym/power_query_m_categorical#wiki_lines_functions)
 |
-[List functions](/r/Excel/wiki/decronyms/power_query_m_categorical#wiki_list_functions)
+[List functions](/r/excel/wiki/decronym/power_query_m_categorical#wiki_list_functions)
 |
-[Logical functions](/r/Excel/wiki/decronyms/power_query_m_categorical#wiki_logical_functions)
+[Logical functions](/r/excel/wiki/decronym/power_query_m_categorical#wiki_logical_functions)
 |
-[Number functions](/r/Excel/wiki/decronyms/power_query_m_categorical#wiki_number_functions)
+[Number functions](/r/excel/wiki/decronym/power_query_m_categorical#wiki_number_functions)
 |
-[Record functions](/r/Excel/wiki/decronyms/power_query_m_categorical#wiki_record_functions)
+[Record functions](/r/excel/wiki/decronym/power_query_m_categorical#wiki_record_functions)
 |
-[Replacer functions](/r/Excel/wiki/decronyms/power_query_m_categorical#wiki_replacer_functions)
+[Replacer functions](/r/excel/wiki/decronym/power_query_m_categorical#wiki_replacer_functions)
 |
-[Splitter functions](/r/Excel/wiki/decronyms/power_query_m_categorical#wiki_splitter_functions)
+[Splitter functions](/r/excel/wiki/decronym/power_query_m_categorical#wiki_splitter_functions)
 |
-[Table functions](/r/Excel/wiki/decronyms/power_query_m_categorical#wiki_table_functions)
+[Table functions](/r/excel/wiki/decronym/power_query_m_categorical#wiki_table_functions)
 |
-[Text functions](/r/Excel/wiki/decronyms/power_query_m_categorical#wiki_text_functions)
+[Text functions](/r/excel/wiki/decronym/power_query_m_categorical#wiki_text_functions)
 |
-[Time functions](/r/Excel/wiki/decronyms/power_query_m_categorical#wiki_time_functions)
+[Time functions](/r/excel/wiki/decronym/power_query_m_categorical#wiki_time_functions)
 |
-[Type functions](/r/Excel/wiki/decronyms/power_query_m_categorical#wiki_type_functions)
+[Type functions](/r/excel/wiki/decronym/power_query_m_categorical#wiki_type_functions)
 |
-[Uri functions](/r/Excel/wiki/decronyms/power_query_m_categorical#wiki_uri_functions)
+[Uri functions](/r/excel/wiki/decronym/power_query_m_categorical#wiki_uri_functions)
 |
-[Value functions](/r/Excel/wiki/decronyms/power_query_m_categorical#wiki_value_functions)
+[Value functions](/r/excel/wiki/decronym/power_query_m_categorical#wiki_value_functions)
 |
 
 
@@ -813,53 +813,53 @@
 ### Expression functions
 ---
 
-[Accessing data functions](/r/Excel/wiki/decronyms/power_query_m_categorical#wiki_accessing_data_functions)
+[Accessing data functions](/r/excel/wiki/decronym/power_query_m_categorical#wiki_accessing_data_functions)
 |
-[Binary functions](/r/Excel/wiki/decronyms/power_query_m_categorical#wiki_binary_functions)
+[Binary functions](/r/excel/wiki/decronym/power_query_m_categorical#wiki_binary_functions)
 |
-[Combiner functions](/r/Excel/wiki/decronyms/power_query_m_categorical#wiki_combiner_functions)
+[Combiner functions](/r/excel/wiki/decronym/power_query_m_categorical#wiki_combiner_functions)
 |
-[Comparer functions](/r/Excel/wiki/decronyms/power_query_m_categorical#wiki_comparer_functions)
+[Comparer functions](/r/excel/wiki/decronym/power_query_m_categorical#wiki_comparer_functions)
 |
-[Date functions](/r/Excel/wiki/decronyms/power_query_m_categorical#wiki_date_functions)
+[Date functions](/r/excel/wiki/decronym/power_query_m_categorical#wiki_date_functions)
 |
-[DateTime functions](/r/Excel/wiki/decronyms/power_query_m_categorical#wiki_datetime_functions)
+[DateTime functions](/r/excel/wiki/decronym/power_query_m_categorical#wiki_datetime_functions)
 |
-[DateTimeZone functions](/r/Excel/wiki/decronyms/power_query_m_categorical#wiki_datetimezone_functions)
+[DateTimeZone functions](/r/excel/wiki/decronym/power_query_m_categorical#wiki_datetimezone_functions)
 |
-[Duration functions](/r/Excel/wiki/decronyms/power_query_m_categorical#wiki_duration_functions)
+[Duration functions](/r/excel/wiki/decronym/power_query_m_categorical#wiki_duration_functions)
 |
-[Error handling](/r/Excel/wiki/decronyms/power_query_m_categorical#wiki_error_handling)
+[Error handling](/r/excel/wiki/decronym/power_query_m_categorical#wiki_error_handling)
 |
 **Expression functions**
 |
-[Function values](/r/Excel/wiki/decronyms/power_query_m_categorical#wiki_function_values)
+[Function values](/r/excel/wiki/decronym/power_query_m_categorical#wiki_function_values)
 |
-[Lines functions](/r/Excel/wiki/decronyms/power_query_m_categorical#wiki_lines_functions)
+[Lines functions](/r/excel/wiki/decronym/power_query_m_categorical#wiki_lines_functions)
 |
-[List functions](/r/Excel/wiki/decronyms/power_query_m_categorical#wiki_list_functions)
+[List functions](/r/excel/wiki/decronym/power_query_m_categorical#wiki_list_functions)
 |
-[Logical functions](/r/Excel/wiki/decronyms/power_query_m_categorical#wiki_logical_functions)
+[Logical functions](/r/excel/wiki/decronym/power_query_m_categorical#wiki_logical_functions)
 |
-[Number functions](/r/Excel/wiki/decronyms/power_query_m_categorical#wiki_number_functions)
+[Number functions](/r/excel/wiki/decronym/power_query_m_categorical#wiki_number_functions)
 |
-[Record functions](/r/Excel/wiki/decronyms/power_query_m_categorical#wiki_record_functions)
+[Record functions](/r/excel/wiki/decronym/power_query_m_categorical#wiki_record_functions)
 |
-[Replacer functions](/r/Excel/wiki/decronyms/power_query_m_categorical#wiki_replacer_functions)
+[Replacer functions](/r/excel/wiki/decronym/power_query_m_categorical#wiki_replacer_functions)
 |
-[Splitter functions](/r/Excel/wiki/decronyms/power_query_m_categorical#wiki_splitter_functions)
+[Splitter functions](/r/excel/wiki/decronym/power_query_m_categorical#wiki_splitter_functions)
 |
-[Table functions](/r/Excel/wiki/decronyms/power_query_m_categorical#wiki_table_functions)
+[Table functions](/r/excel/wiki/decronym/power_query_m_categorical#wiki_table_functions)
 |
-[Text functions](/r/Excel/wiki/decronyms/power_query_m_categorical#wiki_text_functions)
+[Text functions](/r/excel/wiki/decronym/power_query_m_categorical#wiki_text_functions)
 |
-[Time functions](/r/Excel/wiki/decronyms/power_query_m_categorical#wiki_time_functions)
+[Time functions](/r/excel/wiki/decronym/power_query_m_categorical#wiki_time_functions)
 |
-[Type functions](/r/Excel/wiki/decronyms/power_query_m_categorical#wiki_type_functions)
+[Type functions](/r/excel/wiki/decronym/power_query_m_categorical#wiki_type_functions)
 |
-[Uri functions](/r/Excel/wiki/decronyms/power_query_m_categorical#wiki_uri_functions)
+[Uri functions](/r/excel/wiki/decronym/power_query_m_categorical#wiki_uri_functions)
 |
-[Value functions](/r/Excel/wiki/decronyms/power_query_m_categorical#wiki_value_functions)
+[Value functions](/r/excel/wiki/decronym/power_query_m_categorical#wiki_value_functions)
 |
 
 
@@ -873,53 +873,53 @@
 ### Function values
 ---
 
-[Accessing data functions](/r/Excel/wiki/decronyms/power_query_m_categorical#wiki_accessing_data_functions)
+[Accessing data functions](/r/excel/wiki/decronym/power_query_m_categorical#wiki_accessing_data_functions)
 |
-[Binary functions](/r/Excel/wiki/decronyms/power_query_m_categorical#wiki_binary_functions)
+[Binary functions](/r/excel/wiki/decronym/power_query_m_categorical#wiki_binary_functions)
 |
-[Combiner functions](/r/Excel/wiki/decronyms/power_query_m_categorical#wiki_combiner_functions)
+[Combiner functions](/r/excel/wiki/decronym/power_query_m_categorical#wiki_combiner_functions)
 |
-[Comparer functions](/r/Excel/wiki/decronyms/power_query_m_categorical#wiki_comparer_functions)
+[Comparer functions](/r/excel/wiki/decronym/power_query_m_categorical#wiki_comparer_functions)
 |
-[Date functions](/r/Excel/wiki/decronyms/power_query_m_categorical#wiki_date_functions)
+[Date functions](/r/excel/wiki/decronym/power_query_m_categorical#wiki_date_functions)
 |
-[DateTime functions](/r/Excel/wiki/decronyms/power_query_m_categorical#wiki_datetime_functions)
+[DateTime functions](/r/excel/wiki/decronym/power_query_m_categorical#wiki_datetime_functions)
 |
-[DateTimeZone functions](/r/Excel/wiki/decronyms/power_query_m_categorical#wiki_datetimezone_functions)
+[DateTimeZone functions](/r/excel/wiki/decronym/power_query_m_categorical#wiki_datetimezone_functions)
 |
-[Duration functions](/r/Excel/wiki/decronyms/power_query_m_categorical#wiki_duration_functions)
+[Duration functions](/r/excel/wiki/decronym/power_query_m_categorical#wiki_duration_functions)
 |
-[Error handling](/r/Excel/wiki/decronyms/power_query_m_categorical#wiki_error_handling)
+[Error handling](/r/excel/wiki/decronym/power_query_m_categorical#wiki_error_handling)
 |
-[Expression functions](/r/Excel/wiki/decronyms/power_query_m_categorical#wiki_expression_functions)
+[Expression functions](/r/excel/wiki/decronym/power_query_m_categorical#wiki_expression_functions)
 |
 **Function values**
 |
-[Lines functions](/r/Excel/wiki/decronyms/power_query_m_categorical#wiki_lines_functions)
+[Lines functions](/r/excel/wiki/decronym/power_query_m_categorical#wiki_lines_functions)
 |
-[List functions](/r/Excel/wiki/decronyms/power_query_m_categorical#wiki_list_functions)
+[List functions](/r/excel/wiki/decronym/power_query_m_categorical#wiki_list_functions)
 |
-[Logical functions](/r/Excel/wiki/decronyms/power_query_m_categorical#wiki_logical_functions)
+[Logical functions](/r/excel/wiki/decronym/power_query_m_categorical#wiki_logical_functions)
 |
-[Number functions](/r/Excel/wiki/decronyms/power_query_m_categorical#wiki_number_functions)
+[Number functions](/r/excel/wiki/decronym/power_query_m_categorical#wiki_number_functions)
 |
-[Record functions](/r/Excel/wiki/decronyms/power_query_m_categorical#wiki_record_functions)
+[Record functions](/r/excel/wiki/decronym/power_query_m_categorical#wiki_record_functions)
 |
-[Replacer functions](/r/Excel/wiki/decronyms/power_query_m_categorical#wiki_replacer_functions)
+[Replacer functions](/r/excel/wiki/decronym/power_query_m_categorical#wiki_replacer_functions)
 |
-[Splitter functions](/r/Excel/wiki/decronyms/power_query_m_categorical#wiki_splitter_functions)
+[Splitter functions](/r/excel/wiki/decronym/power_query_m_categorical#wiki_splitter_functions)
 |
-[Table functions](/r/Excel/wiki/decronyms/power_query_m_categorical#wiki_table_functions)
+[Table functions](/r/excel/wiki/decronym/power_query_m_categorical#wiki_table_functions)
 |
-[Text functions](/r/Excel/wiki/decronyms/power_query_m_categorical#wiki_text_functions)
+[Text functions](/r/excel/wiki/decronym/power_query_m_categorical#wiki_text_functions)
 |
-[Time functions](/r/Excel/wiki/decronyms/power_query_m_categorical#wiki_time_functions)
+[Time functions](/r/excel/wiki/decronym/power_query_m_categorical#wiki_time_functions)
 |
-[Type functions](/r/Excel/wiki/decronyms/power_query_m_categorical#wiki_type_functions)
+[Type functions](/r/excel/wiki/decronym/power_query_m_categorical#wiki_type_functions)
 |
-[Uri functions](/r/Excel/wiki/decronyms/power_query_m_categorical#wiki_uri_functions)
+[Uri functions](/r/excel/wiki/decronym/power_query_m_categorical#wiki_uri_functions)
 |
-[Value functions](/r/Excel/wiki/decronyms/power_query_m_categorical#wiki_value_functions)
+[Value functions](/r/excel/wiki/decronym/power_query_m_categorical#wiki_value_functions)
 |
 
 
@@ -935,53 +935,53 @@
 ### Lines functions
 ---
 
-[Accessing data functions](/r/Excel/wiki/decronyms/power_query_m_categorical#wiki_accessing_data_functions)
+[Accessing data functions](/r/excel/wiki/decronym/power_query_m_categorical#wiki_accessing_data_functions)
 |
-[Binary functions](/r/Excel/wiki/decronyms/power_query_m_categorical#wiki_binary_functions)
+[Binary functions](/r/excel/wiki/decronym/power_query_m_categorical#wiki_binary_functions)
 |
-[Combiner functions](/r/Excel/wiki/decronyms/power_query_m_categorical#wiki_combiner_functions)
+[Combiner functions](/r/excel/wiki/decronym/power_query_m_categorical#wiki_combiner_functions)
 |
-[Comparer functions](/r/Excel/wiki/decronyms/power_query_m_categorical#wiki_comparer_functions)
+[Comparer functions](/r/excel/wiki/decronym/power_query_m_categorical#wiki_comparer_functions)
 |
-[Date functions](/r/Excel/wiki/decronyms/power_query_m_categorical#wiki_date_functions)
+[Date functions](/r/excel/wiki/decronym/power_query_m_categorical#wiki_date_functions)
 |
-[DateTime functions](/r/Excel/wiki/decronyms/power_query_m_categorical#wiki_datetime_functions)
+[DateTime functions](/r/excel/wiki/decronym/power_query_m_categorical#wiki_datetime_functions)
 |
-[DateTimeZone functions](/r/Excel/wiki/decronyms/power_query_m_categorical#wiki_datetimezone_functions)
+[DateTimeZone functions](/r/excel/wiki/decronym/power_query_m_categorical#wiki_datetimezone_functions)
 |
-[Duration functions](/r/Excel/wiki/decronyms/power_query_m_categorical#wiki_duration_functions)
+[Duration functions](/r/excel/wiki/decronym/power_query_m_categorical#wiki_duration_functions)
 |
-[Error handling](/r/Excel/wiki/decronyms/power_query_m_categorical#wiki_error_handling)
+[Error handling](/r/excel/wiki/decronym/power_query_m_categorical#wiki_error_handling)
 |
-[Expression functions](/r/Excel/wiki/decronyms/power_query_m_categorical#wiki_expression_functions)
+[Expression functions](/r/excel/wiki/decronym/power_query_m_categorical#wiki_expression_functions)
 |
-[Function values](/r/Excel/wiki/decronyms/power_query_m_categorical#wiki_function_values)
+[Function values](/r/excel/wiki/decronym/power_query_m_categorical#wiki_function_values)
 |
 **Lines functions**
 |
-[List functions](/r/Excel/wiki/decronyms/power_query_m_categorical#wiki_list_functions)
+[List functions](/r/excel/wiki/decronym/power_query_m_categorical#wiki_list_functions)
 |
-[Logical functions](/r/Excel/wiki/decronyms/power_query_m_categorical#wiki_logical_functions)
+[Logical functions](/r/excel/wiki/decronym/power_query_m_categorical#wiki_logical_functions)
 |
-[Number functions](/r/Excel/wiki/decronyms/power_query_m_categorical#wiki_number_functions)
+[Number functions](/r/excel/wiki/decronym/power_query_m_categorical#wiki_number_functions)
 |
-[Record functions](/r/Excel/wiki/decronyms/power_query_m_categorical#wiki_record_functions)
+[Record functions](/r/excel/wiki/decronym/power_query_m_categorical#wiki_record_functions)
 |
-[Replacer functions](/r/Excel/wiki/decronyms/power_query_m_categorical#wiki_replacer_functions)
+[Replacer functions](/r/excel/wiki/decronym/power_query_m_categorical#wiki_replacer_functions)
 |
-[Splitter functions](/r/Excel/wiki/decronyms/power_query_m_categorical#wiki_splitter_functions)
+[Splitter functions](/r/excel/wiki/decronym/power_query_m_categorical#wiki_splitter_functions)
 |
-[Table functions](/r/Excel/wiki/decronyms/power_query_m_categorical#wiki_table_functions)
+[Table functions](/r/excel/wiki/decronym/power_query_m_categorical#wiki_table_functions)
 |
-[Text functions](/r/Excel/wiki/decronyms/power_query_m_categorical#wiki_text_functions)
+[Text functions](/r/excel/wiki/decronym/power_query_m_categorical#wiki_text_functions)
 |
-[Time functions](/r/Excel/wiki/decronyms/power_query_m_categorical#wiki_time_functions)
+[Time functions](/r/excel/wiki/decronym/power_query_m_categorical#wiki_time_functions)
 |
-[Type functions](/r/Excel/wiki/decronyms/power_query_m_categorical#wiki_type_functions)
+[Type functions](/r/excel/wiki/decronym/power_query_m_categorical#wiki_type_functions)
 |
-[Uri functions](/r/Excel/wiki/decronyms/power_query_m_categorical#wiki_uri_functions)
+[Uri functions](/r/excel/wiki/decronym/power_query_m_categorical#wiki_uri_functions)
 |
-[Value functions](/r/Excel/wiki/decronyms/power_query_m_categorical#wiki_value_functions)
+[Value functions](/r/excel/wiki/decronym/power_query_m_categorical#wiki_value_functions)
 |
 
 
@@ -996,53 +996,53 @@
 ### List functions
 ---
 
-[Accessing data functions](/r/Excel/wiki/decronyms/power_query_m_categorical#wiki_accessing_data_functions)
+[Accessing data functions](/r/excel/wiki/decronym/power_query_m_categorical#wiki_accessing_data_functions)
 |
-[Binary functions](/r/Excel/wiki/decronyms/power_query_m_categorical#wiki_binary_functions)
+[Binary functions](/r/excel/wiki/decronym/power_query_m_categorical#wiki_binary_functions)
 |
-[Combiner functions](/r/Excel/wiki/decronyms/power_query_m_categorical#wiki_combiner_functions)
+[Combiner functions](/r/excel/wiki/decronym/power_query_m_categorical#wiki_combiner_functions)
 |
-[Comparer functions](/r/Excel/wiki/decronyms/power_query_m_categorical#wiki_comparer_functions)
+[Comparer functions](/r/excel/wiki/decronym/power_query_m_categorical#wiki_comparer_functions)
 |
-[Date functions](/r/Excel/wiki/decronyms/power_query_m_categorical#wiki_date_functions)
+[Date functions](/r/excel/wiki/decronym/power_query_m_categorical#wiki_date_functions)
 |
-[DateTime functions](/r/Excel/wiki/decronyms/power_query_m_categorical#wiki_datetime_functions)
+[DateTime functions](/r/excel/wiki/decronym/power_query_m_categorical#wiki_datetime_functions)
 |
-[DateTimeZone functions](/r/Excel/wiki/decronyms/power_query_m_categorical#wiki_datetimezone_functions)
+[DateTimeZone functions](/r/excel/wiki/decronym/power_query_m_categorical#wiki_datetimezone_functions)
 |
-[Duration functions](/r/Excel/wiki/decronyms/power_query_m_categorical#wiki_duration_functions)
+[Duration functions](/r/excel/wiki/decronym/power_query_m_categorical#wiki_duration_functions)
 |
-[Error handling](/r/Excel/wiki/decronyms/power_query_m_categorical#wiki_error_handling)
+[Error handling](/r/excel/wiki/decronym/power_query_m_categorical#wiki_error_handling)
 |
-[Expression functions](/r/Excel/wiki/decronyms/power_query_m_categorical#wiki_expression_functions)
+[Expression functions](/r/excel/wiki/decronym/power_query_m_categorical#wiki_expression_functions)
 |
-[Function values](/r/Excel/wiki/decronyms/power_query_m_categorical#wiki_function_values)
+[Function values](/r/excel/wiki/decronym/power_query_m_categorical#wiki_function_values)
 |
-[Lines functions](/r/Excel/wiki/decronyms/power_query_m_categorical#wiki_lines_functions)
+[Lines functions](/r/excel/wiki/decronym/power_query_m_categorical#wiki_lines_functions)
 |
 **List functions**
 |
-[Logical functions](/r/Excel/wiki/decronyms/power_query_m_categorical#wiki_logical_functions)
+[Logical functions](/r/excel/wiki/decronym/power_query_m_categorical#wiki_logical_functions)
 |
-[Number functions](/r/Excel/wiki/decronyms/power_query_m_categorical#wiki_number_functions)
+[Number functions](/r/excel/wiki/decronym/power_query_m_categorical#wiki_number_functions)
 |
-[Record functions](/r/Excel/wiki/decronyms/power_query_m_categorical#wiki_record_functions)
+[Record functions](/r/excel/wiki/decronym/power_query_m_categorical#wiki_record_functions)
 |
-[Replacer functions](/r/Excel/wiki/decronyms/power_query_m_categorical#wiki_replacer_functions)
+[Replacer functions](/r/excel/wiki/decronym/power_query_m_categorical#wiki_replacer_functions)
 |
-[Splitter functions](/r/Excel/wiki/decronyms/power_query_m_categorical#wiki_splitter_functions)
+[Splitter functions](/r/excel/wiki/decronym/power_query_m_categorical#wiki_splitter_functions)
 |
-[Table functions](/r/Excel/wiki/decronyms/power_query_m_categorical#wiki_table_functions)
+[Table functions](/r/excel/wiki/decronym/power_query_m_categorical#wiki_table_functions)
 |
-[Text functions](/r/Excel/wiki/decronyms/power_query_m_categorical#wiki_text_functions)
+[Text functions](/r/excel/wiki/decronym/power_query_m_categorical#wiki_text_functions)
 |
-[Time functions](/r/Excel/wiki/decronyms/power_query_m_categorical#wiki_time_functions)
+[Time functions](/r/excel/wiki/decronym/power_query_m_categorical#wiki_time_functions)
 |
-[Type functions](/r/Excel/wiki/decronyms/power_query_m_categorical#wiki_type_functions)
+[Type functions](/r/excel/wiki/decronym/power_query_m_categorical#wiki_type_functions)
 |
-[Uri functions](/r/Excel/wiki/decronyms/power_query_m_categorical#wiki_uri_functions)
+[Uri functions](/r/excel/wiki/decronym/power_query_m_categorical#wiki_uri_functions)
 |
-[Value functions](/r/Excel/wiki/decronyms/power_query_m_categorical#wiki_value_functions)
+[Value functions](/r/excel/wiki/decronym/power_query_m_categorical#wiki_value_functions)
 |
 
 
@@ -1122,53 +1122,53 @@
 ### Logical functions
 ---
 
-[Accessing data functions](/r/Excel/wiki/decronyms/power_query_m_categorical#wiki_accessing_data_functions)
+[Accessing data functions](/r/excel/wiki/decronym/power_query_m_categorical#wiki_accessing_data_functions)
 |
-[Binary functions](/r/Excel/wiki/decronyms/power_query_m_categorical#wiki_binary_functions)
+[Binary functions](/r/excel/wiki/decronym/power_query_m_categorical#wiki_binary_functions)
 |
-[Combiner functions](/r/Excel/wiki/decronyms/power_query_m_categorical#wiki_combiner_functions)
+[Combiner functions](/r/excel/wiki/decronym/power_query_m_categorical#wiki_combiner_functions)
 |
-[Comparer functions](/r/Excel/wiki/decronyms/power_query_m_categorical#wiki_comparer_functions)
+[Comparer functions](/r/excel/wiki/decronym/power_query_m_categorical#wiki_comparer_functions)
 |
-[Date functions](/r/Excel/wiki/decronyms/power_query_m_categorical#wiki_date_functions)
+[Date functions](/r/excel/wiki/decronym/power_query_m_categorical#wiki_date_functions)
 |
-[DateTime functions](/r/Excel/wiki/decronyms/power_query_m_categorical#wiki_datetime_functions)
+[DateTime functions](/r/excel/wiki/decronym/power_query_m_categorical#wiki_datetime_functions)
 |
-[DateTimeZone functions](/r/Excel/wiki/decronyms/power_query_m_categorical#wiki_datetimezone_functions)
+[DateTimeZone functions](/r/excel/wiki/decronym/power_query_m_categorical#wiki_datetimezone_functions)
 |
-[Duration functions](/r/Excel/wiki/decronyms/power_query_m_categorical#wiki_duration_functions)
+[Duration functions](/r/excel/wiki/decronym/power_query_m_categorical#wiki_duration_functions)
 |
-[Error handling](/r/Excel/wiki/decronyms/power_query_m_categorical#wiki_error_handling)
+[Error handling](/r/excel/wiki/decronym/power_query_m_categorical#wiki_error_handling)
 |
-[Expression functions](/r/Excel/wiki/decronyms/power_query_m_categorical#wiki_expression_functions)
+[Expression functions](/r/excel/wiki/decronym/power_query_m_categorical#wiki_expression_functions)
 |
-[Function values](/r/Excel/wiki/decronyms/power_query_m_categorical#wiki_function_values)
+[Function values](/r/excel/wiki/decronym/power_query_m_categorical#wiki_function_values)
 |
-[Lines functions](/r/Excel/wiki/decronyms/power_query_m_categorical#wiki_lines_functions)
+[Lines functions](/r/excel/wiki/decronym/power_query_m_categorical#wiki_lines_functions)
 |
-[List functions](/r/Excel/wiki/decronyms/power_query_m_categorical#wiki_list_functions)
+[List functions](/r/excel/wiki/decronym/power_query_m_categorical#wiki_list_functions)
 |
 **Logical functions**
 |
-[Number functions](/r/Excel/wiki/decronyms/power_query_m_categorical#wiki_number_functions)
+[Number functions](/r/excel/wiki/decronym/power_query_m_categorical#wiki_number_functions)
 |
-[Record functions](/r/Excel/wiki/decronyms/power_query_m_categorical#wiki_record_functions)
+[Record functions](/r/excel/wiki/decronym/power_query_m_categorical#wiki_record_functions)
 |
-[Replacer functions](/r/Excel/wiki/decronyms/power_query_m_categorical#wiki_replacer_functions)
+[Replacer functions](/r/excel/wiki/decronym/power_query_m_categorical#wiki_replacer_functions)
 |
-[Splitter functions](/r/Excel/wiki/decronyms/power_query_m_categorical#wiki_splitter_functions)
+[Splitter functions](/r/excel/wiki/decronym/power_query_m_categorical#wiki_splitter_functions)
 |
-[Table functions](/r/Excel/wiki/decronyms/power_query_m_categorical#wiki_table_functions)
+[Table functions](/r/excel/wiki/decronym/power_query_m_categorical#wiki_table_functions)
 |
-[Text functions](/r/Excel/wiki/decronyms/power_query_m_categorical#wiki_text_functions)
+[Text functions](/r/excel/wiki/decronym/power_query_m_categorical#wiki_text_functions)
 |
-[Time functions](/r/Excel/wiki/decronyms/power_query_m_categorical#wiki_time_functions)
+[Time functions](/r/excel/wiki/decronym/power_query_m_categorical#wiki_time_functions)
 |
-[Type functions](/r/Excel/wiki/decronyms/power_query_m_categorical#wiki_type_functions)
+[Type functions](/r/excel/wiki/decronym/power_query_m_categorical#wiki_type_functions)
 |
-[Uri functions](/r/Excel/wiki/decronyms/power_query_m_categorical#wiki_uri_functions)
+[Uri functions](/r/excel/wiki/decronym/power_query_m_categorical#wiki_uri_functions)
 |
-[Value functions](/r/Excel/wiki/decronyms/power_query_m_categorical#wiki_value_functions)
+[Value functions](/r/excel/wiki/decronym/power_query_m_categorical#wiki_value_functions)
 |
 
 
@@ -1182,53 +1182,53 @@
 ### Number functions
 ---
 
-[Accessing data functions](/r/Excel/wiki/decronyms/power_query_m_categorical#wiki_accessing_data_functions)
+[Accessing data functions](/r/excel/wiki/decronym/power_query_m_categorical#wiki_accessing_data_functions)
 |
-[Binary functions](/r/Excel/wiki/decronyms/power_query_m_categorical#wiki_binary_functions)
+[Binary functions](/r/excel/wiki/decronym/power_query_m_categorical#wiki_binary_functions)
 |
-[Combiner functions](/r/Excel/wiki/decronyms/power_query_m_categorical#wiki_combiner_functions)
+[Combiner functions](/r/excel/wiki/decronym/power_query_m_categorical#wiki_combiner_functions)
 |
-[Comparer functions](/r/Excel/wiki/decronyms/power_query_m_categorical#wiki_comparer_functions)
+[Comparer functions](/r/excel/wiki/decronym/power_query_m_categorical#wiki_comparer_functions)
 |
-[Date functions](/r/Excel/wiki/decronyms/power_query_m_categorical#wiki_date_functions)
+[Date functions](/r/excel/wiki/decronym/power_query_m_categorical#wiki_date_functions)
 |
-[DateTime functions](/r/Excel/wiki/decronyms/power_query_m_categorical#wiki_datetime_functions)
+[DateTime functions](/r/excel/wiki/decronym/power_query_m_categorical#wiki_datetime_functions)
 |
-[DateTimeZone functions](/r/Excel/wiki/decronyms/power_query_m_categorical#wiki_datetimezone_functions)
+[DateTimeZone functions](/r/excel/wiki/decronym/power_query_m_categorical#wiki_datetimezone_functions)
 |
-[Duration functions](/r/Excel/wiki/decronyms/power_query_m_categorical#wiki_duration_functions)
+[Duration functions](/r/excel/wiki/decronym/power_query_m_categorical#wiki_duration_functions)
 |
-[Error handling](/r/Excel/wiki/decronyms/power_query_m_categorical#wiki_error_handling)
+[Error handling](/r/excel/wiki/decronym/power_query_m_categorical#wiki_error_handling)
 |
-[Expression functions](/r/Excel/wiki/decronyms/power_query_m_categorical#wiki_expression_functions)
+[Expression functions](/r/excel/wiki/decronym/power_query_m_categorical#wiki_expression_functions)
 |
-[Function values](/r/Excel/wiki/decronyms/power_query_m_categorical#wiki_function_values)
+[Function values](/r/excel/wiki/decronym/power_query_m_categorical#wiki_function_values)
 |
-[Lines functions](/r/Excel/wiki/decronyms/power_query_m_categorical#wiki_lines_functions)
+[Lines functions](/r/excel/wiki/decronym/power_query_m_categorical#wiki_lines_functions)
 |
-[List functions](/r/Excel/wiki/decronyms/power_query_m_categorical#wiki_list_functions)
+[List functions](/r/excel/wiki/decronym/power_query_m_categorical#wiki_list_functions)
 |
-[Logical functions](/r/Excel/wiki/decronyms/power_query_m_categorical#wiki_logical_functions)
+[Logical functions](/r/excel/wiki/decronym/power_query_m_categorical#wiki_logical_functions)
 |
 **Number functions**
 |
-[Record functions](/r/Excel/wiki/decronyms/power_query_m_categorical#wiki_record_functions)
+[Record functions](/r/excel/wiki/decronym/power_query_m_categorical#wiki_record_functions)
 |
-[Replacer functions](/r/Excel/wiki/decronyms/power_query_m_categorical#wiki_replacer_functions)
+[Replacer functions](/r/excel/wiki/decronym/power_query_m_categorical#wiki_replacer_functions)
 |
-[Splitter functions](/r/Excel/wiki/decronyms/power_query_m_categorical#wiki_splitter_functions)
+[Splitter functions](/r/excel/wiki/decronym/power_query_m_categorical#wiki_splitter_functions)
 |
-[Table functions](/r/Excel/wiki/decronyms/power_query_m_categorical#wiki_table_functions)
+[Table functions](/r/excel/wiki/decronym/power_query_m_categorical#wiki_table_functions)
 |
-[Text functions](/r/Excel/wiki/decronyms/power_query_m_categorical#wiki_text_functions)
+[Text functions](/r/excel/wiki/decronym/power_query_m_categorical#wiki_text_functions)
 |
-[Time functions](/r/Excel/wiki/decronyms/power_query_m_categorical#wiki_time_functions)
+[Time functions](/r/excel/wiki/decronym/power_query_m_categorical#wiki_time_functions)
 |
-[Type functions](/r/Excel/wiki/decronyms/power_query_m_categorical#wiki_type_functions)
+[Type functions](/r/excel/wiki/decronym/power_query_m_categorical#wiki_type_functions)
 |
-[Uri functions](/r/Excel/wiki/decronyms/power_query_m_categorical#wiki_uri_functions)
+[Uri functions](/r/excel/wiki/decronym/power_query_m_categorical#wiki_uri_functions)
 |
-[Value functions](/r/Excel/wiki/decronyms/power_query_m_categorical#wiki_value_functions)
+[Value functions](/r/excel/wiki/decronym/power_query_m_categorical#wiki_value_functions)
 |
 
 
@@ -1302,53 +1302,53 @@
 ### Record functions
 ---
 
-[Accessing data functions](/r/Excel/wiki/decronyms/power_query_m_categorical#wiki_accessing_data_functions)
+[Accessing data functions](/r/excel/wiki/decronym/power_query_m_categorical#wiki_accessing_data_functions)
 |
-[Binary functions](/r/Excel/wiki/decronyms/power_query_m_categorical#wiki_binary_functions)
+[Binary functions](/r/excel/wiki/decronym/power_query_m_categorical#wiki_binary_functions)
 |
-[Combiner functions](/r/Excel/wiki/decronyms/power_query_m_categorical#wiki_combiner_functions)
+[Combiner functions](/r/excel/wiki/decronym/power_query_m_categorical#wiki_combiner_functions)
 |
-[Comparer functions](/r/Excel/wiki/decronyms/power_query_m_categorical#wiki_comparer_functions)
+[Comparer functions](/r/excel/wiki/decronym/power_query_m_categorical#wiki_comparer_functions)
 |
-[Date functions](/r/Excel/wiki/decronyms/power_query_m_categorical#wiki_date_functions)
+[Date functions](/r/excel/wiki/decronym/power_query_m_categorical#wiki_date_functions)
 |
-[DateTime functions](/r/Excel/wiki/decronyms/power_query_m_categorical#wiki_datetime_functions)
+[DateTime functions](/r/excel/wiki/decronym/power_query_m_categorical#wiki_datetime_functions)
 |
-[DateTimeZone functions](/r/Excel/wiki/decronyms/power_query_m_categorical#wiki_datetimezone_functions)
+[DateTimeZone functions](/r/excel/wiki/decronym/power_query_m_categorical#wiki_datetimezone_functions)
 |
-[Duration functions](/r/Excel/wiki/decronyms/power_query_m_categorical#wiki_duration_functions)
+[Duration functions](/r/excel/wiki/decronym/power_query_m_categorical#wiki_duration_functions)
 |
-[Error handling](/r/Excel/wiki/decronyms/power_query_m_categorical#wiki_error_handling)
+[Error handling](/r/excel/wiki/decronym/power_query_m_categorical#wiki_error_handling)
 |
-[Expression functions](/r/Excel/wiki/decronyms/power_query_m_categorical#wiki_expression_functions)
+[Expression functions](/r/excel/wiki/decronym/power_query_m_categorical#wiki_expression_functions)
 |
-[Function values](/r/Excel/wiki/decronyms/power_query_m_categorical#wiki_function_values)
+[Function values](/r/excel/wiki/decronym/power_query_m_categorical#wiki_function_values)
 |
-[Lines functions](/r/Excel/wiki/decronyms/power_query_m_categorical#wiki_lines_functions)
+[Lines functions](/r/excel/wiki/decronym/power_query_m_categorical#wiki_lines_functions)
 |
-[List functions](/r/Excel/wiki/decronyms/power_query_m_categorical#wiki_list_functions)
+[List functions](/r/excel/wiki/decronym/power_query_m_categorical#wiki_list_functions)
 |
-[Logical functions](/r/Excel/wiki/decronyms/power_query_m_categorical#wiki_logical_functions)
+[Logical functions](/r/excel/wiki/decronym/power_query_m_categorical#wiki_logical_functions)
 |
-[Number functions](/r/Excel/wiki/decronyms/power_query_m_categorical#wiki_number_functions)
+[Number functions](/r/excel/wiki/decronym/power_query_m_categorical#wiki_number_functions)
 |
 **Record functions**
 |
-[Replacer functions](/r/Excel/wiki/decronyms/power_query_m_categorical#wiki_replacer_functions)
+[Replacer functions](/r/excel/wiki/decronym/power_query_m_categorical#wiki_replacer_functions)
 |
-[Splitter functions](/r/Excel/wiki/decronyms/power_query_m_categorical#wiki_splitter_functions)
+[Splitter functions](/r/excel/wiki/decronym/power_query_m_categorical#wiki_splitter_functions)
 |
-[Table functions](/r/Excel/wiki/decronyms/power_query_m_categorical#wiki_table_functions)
+[Table functions](/r/excel/wiki/decronym/power_query_m_categorical#wiki_table_functions)
 |
-[Text functions](/r/Excel/wiki/decronyms/power_query_m_categorical#wiki_text_functions)
+[Text functions](/r/excel/wiki/decronym/power_query_m_categorical#wiki_text_functions)
 |
-[Time functions](/r/Excel/wiki/decronyms/power_query_m_categorical#wiki_time_functions)
+[Time functions](/r/excel/wiki/decronym/power_query_m_categorical#wiki_time_functions)
 |
-[Type functions](/r/Excel/wiki/decronyms/power_query_m_categorical#wiki_type_functions)
+[Type functions](/r/excel/wiki/decronym/power_query_m_categorical#wiki_type_functions)
 |
-[Uri functions](/r/Excel/wiki/decronyms/power_query_m_categorical#wiki_uri_functions)
+[Uri functions](/r/excel/wiki/decronym/power_query_m_categorical#wiki_uri_functions)
 |
-[Value functions](/r/Excel/wiki/decronyms/power_query_m_categorical#wiki_value_functions)
+[Value functions](/r/excel/wiki/decronym/power_query_m_categorical#wiki_value_functions)
 |
 
 
@@ -1382,53 +1382,53 @@
 ### Replacer functions
 ---
 
-[Accessing data functions](/r/Excel/wiki/decronyms/power_query_m_categorical#wiki_accessing_data_functions)
+[Accessing data functions](/r/excel/wiki/decronym/power_query_m_categorical#wiki_accessing_data_functions)
 |
-[Binary functions](/r/Excel/wiki/decronyms/power_query_m_categorical#wiki_binary_functions)
+[Binary functions](/r/excel/wiki/decronym/power_query_m_categorical#wiki_binary_functions)
 |
-[Combiner functions](/r/Excel/wiki/decronyms/power_query_m_categorical#wiki_combiner_functions)
+[Combiner functions](/r/excel/wiki/decronym/power_query_m_categorical#wiki_combiner_functions)
 |
-[Comparer functions](/r/Excel/wiki/decronyms/power_query_m_categorical#wiki_comparer_functions)
+[Comparer functions](/r/excel/wiki/decronym/power_query_m_categorical#wiki_comparer_functions)
 |
-[Date functions](/r/Excel/wiki/decronyms/power_query_m_categorical#wiki_date_functions)
+[Date functions](/r/excel/wiki/decronym/power_query_m_categorical#wiki_date_functions)
 |
-[DateTime functions](/r/Excel/wiki/decronyms/power_query_m_categorical#wiki_datetime_functions)
+[DateTime functions](/r/excel/wiki/decronym/power_query_m_categorical#wiki_datetime_functions)
 |
-[DateTimeZone functions](/r/Excel/wiki/decronyms/power_query_m_categorical#wiki_datetimezone_functions)
+[DateTimeZone functions](/r/excel/wiki/decronym/power_query_m_categorical#wiki_datetimezone_functions)
 |
-[Duration functions](/r/Excel/wiki/decronyms/power_query_m_categorical#wiki_duration_functions)
+[Duration functions](/r/excel/wiki/decronym/power_query_m_categorical#wiki_duration_functions)
 |
-[Error handling](/r/Excel/wiki/decronyms/power_query_m_categorical#wiki_error_handling)
+[Error handling](/r/excel/wiki/decronym/power_query_m_categorical#wiki_error_handling)
 |
-[Expression functions](/r/Excel/wiki/decronyms/power_query_m_categorical#wiki_expression_functions)
+[Expression functions](/r/excel/wiki/decronym/power_query_m_categorical#wiki_expression_functions)
 |
-[Function values](/r/Excel/wiki/decronyms/power_query_m_categorical#wiki_function_values)
+[Function values](/r/excel/wiki/decronym/power_query_m_categorical#wiki_function_values)
 |
-[Lines functions](/r/Excel/wiki/decronyms/power_query_m_categorical#wiki_lines_functions)
+[Lines functions](/r/excel/wiki/decronym/power_query_m_categorical#wiki_lines_functions)
 |
-[List functions](/r/Excel/wiki/decronyms/power_query_m_categorical#wiki_list_functions)
+[List functions](/r/excel/wiki/decronym/power_query_m_categorical#wiki_list_functions)
 |
-[Logical functions](/r/Excel/wiki/decronyms/power_query_m_categorical#wiki_logical_functions)
+[Logical functions](/r/excel/wiki/decronym/power_query_m_categorical#wiki_logical_functions)
 |
-[Number functions](/r/Excel/wiki/decronyms/power_query_m_categorical#wiki_number_functions)
+[Number functions](/r/excel/wiki/decronym/power_query_m_categorical#wiki_number_functions)
 |
-[Record functions](/r/Excel/wiki/decronyms/power_query_m_categorical#wiki_record_functions)
+[Record functions](/r/excel/wiki/decronym/power_query_m_categorical#wiki_record_functions)
 |
 **Replacer functions**
 |
-[Splitter functions](/r/Excel/wiki/decronyms/power_query_m_categorical#wiki_splitter_functions)
+[Splitter functions](/r/excel/wiki/decronym/power_query_m_categorical#wiki_splitter_functions)
 |
-[Table functions](/r/Excel/wiki/decronyms/power_query_m_categorical#wiki_table_functions)
+[Table functions](/r/excel/wiki/decronym/power_query_m_categorical#wiki_table_functions)
 |
-[Text functions](/r/Excel/wiki/decronyms/power_query_m_categorical#wiki_text_functions)
+[Text functions](/r/excel/wiki/decronym/power_query_m_categorical#wiki_text_functions)
 |
-[Time functions](/r/Excel/wiki/decronyms/power_query_m_categorical#wiki_time_functions)
+[Time functions](/r/excel/wiki/decronym/power_query_m_categorical#wiki_time_functions)
 |
-[Type functions](/r/Excel/wiki/decronyms/power_query_m_categorical#wiki_type_functions)
+[Type functions](/r/excel/wiki/decronym/power_query_m_categorical#wiki_type_functions)
 |
-[Uri functions](/r/Excel/wiki/decronyms/power_query_m_categorical#wiki_uri_functions)
+[Uri functions](/r/excel/wiki/decronym/power_query_m_categorical#wiki_uri_functions)
 |
-[Value functions](/r/Excel/wiki/decronyms/power_query_m_categorical#wiki_value_functions)
+[Value functions](/r/excel/wiki/decronym/power_query_m_categorical#wiki_value_functions)
 |
 
 
@@ -1441,53 +1441,53 @@
 ### Splitter functions
 ---
 
-[Accessing data functions](/r/Excel/wiki/decronyms/power_query_m_categorical#wiki_accessing_data_functions)
+[Accessing data functions](/r/excel/wiki/decronym/power_query_m_categorical#wiki_accessing_data_functions)
 |
-[Binary functions](/r/Excel/wiki/decronyms/power_query_m_categorical#wiki_binary_functions)
+[Binary functions](/r/excel/wiki/decronym/power_query_m_categorical#wiki_binary_functions)
 |
-[Combiner functions](/r/Excel/wiki/decronyms/power_query_m_categorical#wiki_combiner_functions)
+[Combiner functions](/r/excel/wiki/decronym/power_query_m_categorical#wiki_combiner_functions)
 |
-[Comparer functions](/r/Excel/wiki/decronyms/power_query_m_categorical#wiki_comparer_functions)
+[Comparer functions](/r/excel/wiki/decronym/power_query_m_categorical#wiki_comparer_functions)
 |
-[Date functions](/r/Excel/wiki/decronyms/power_query_m_categorical#wiki_date_functions)
+[Date functions](/r/excel/wiki/decronym/power_query_m_categorical#wiki_date_functions)
 |
-[DateTime functions](/r/Excel/wiki/decronyms/power_query_m_categorical#wiki_datetime_functions)
+[DateTime functions](/r/excel/wiki/decronym/power_query_m_categorical#wiki_datetime_functions)
 |
-[DateTimeZone functions](/r/Excel/wiki/decronyms/power_query_m_categorical#wiki_datetimezone_functions)
+[DateTimeZone functions](/r/excel/wiki/decronym/power_query_m_categorical#wiki_datetimezone_functions)
 |
-[Duration functions](/r/Excel/wiki/decronyms/power_query_m_categorical#wiki_duration_functions)
+[Duration functions](/r/excel/wiki/decronym/power_query_m_categorical#wiki_duration_functions)
 |
-[Error handling](/r/Excel/wiki/decronyms/power_query_m_categorical#wiki_error_handling)
+[Error handling](/r/excel/wiki/decronym/power_query_m_categorical#wiki_error_handling)
 |
-[Expression functions](/r/Excel/wiki/decronyms/power_query_m_categorical#wiki_expression_functions)
+[Expression functions](/r/excel/wiki/decronym/power_query_m_categorical#wiki_expression_functions)
 |
-[Function values](/r/Excel/wiki/decronyms/power_query_m_categorical#wiki_function_values)
+[Function values](/r/excel/wiki/decronym/power_query_m_categorical#wiki_function_values)
 |
-[Lines functions](/r/Excel/wiki/decronyms/power_query_m_categorical#wiki_lines_functions)
+[Lines functions](/r/excel/wiki/decronym/power_query_m_categorical#wiki_lines_functions)
 |
-[List functions](/r/Excel/wiki/decronyms/power_query_m_categorical#wiki_list_functions)
+[List functions](/r/excel/wiki/decronym/power_query_m_categorical#wiki_list_functions)
 |
-[Logical functions](/r/Excel/wiki/decronyms/power_query_m_categorical#wiki_logical_functions)
+[Logical functions](/r/excel/wiki/decronym/power_query_m_categorical#wiki_logical_functions)
 |
-[Number functions](/r/Excel/wiki/decronyms/power_query_m_categorical#wiki_number_functions)
+[Number functions](/r/excel/wiki/decronym/power_query_m_categorical#wiki_number_functions)
 |
-[Record functions](/r/Excel/wiki/decronyms/power_query_m_categorical#wiki_record_functions)
+[Record functions](/r/excel/wiki/decronym/power_query_m_categorical#wiki_record_functions)
 |
-[Replacer functions](/r/Excel/wiki/decronyms/power_query_m_categorical#wiki_replacer_functions)
+[Replacer functions](/r/excel/wiki/decronym/power_query_m_categorical#wiki_replacer_functions)
 |
 **Splitter functions**
 |
-[Table functions](/r/Excel/wiki/decronyms/power_query_m_categorical#wiki_table_functions)
+[Table functions](/r/excel/wiki/decronym/power_query_m_categorical#wiki_table_functions)
 |
-[Text functions](/r/Excel/wiki/decronyms/power_query_m_categorical#wiki_text_functions)
+[Text functions](/r/excel/wiki/decronym/power_query_m_categorical#wiki_text_functions)
 |
-[Time functions](/r/Excel/wiki/decronyms/power_query_m_categorical#wiki_time_functions)
+[Time functions](/r/excel/wiki/decronym/power_query_m_categorical#wiki_time_functions)
 |
-[Type functions](/r/Excel/wiki/decronyms/power_query_m_categorical#wiki_type_functions)
+[Type functions](/r/excel/wiki/decronym/power_query_m_categorical#wiki_type_functions)
 |
-[Uri functions](/r/Excel/wiki/decronyms/power_query_m_categorical#wiki_uri_functions)
+[Uri functions](/r/excel/wiki/decronym/power_query_m_categorical#wiki_uri_functions)
 |
-[Value functions](/r/Excel/wiki/decronyms/power_query_m_categorical#wiki_value_functions)
+[Value functions](/r/excel/wiki/decronym/power_query_m_categorical#wiki_value_functions)
 |
 
 
@@ -1510,53 +1510,53 @@
 ### Table functions
 ---
 
-[Accessing data functions](/r/Excel/wiki/decronyms/power_query_m_categorical#wiki_accessing_data_functions)
+[Accessing data functions](/r/excel/wiki/decronym/power_query_m_categorical#wiki_accessing_data_functions)
 |
-[Binary functions](/r/Excel/wiki/decronyms/power_query_m_categorical#wiki_binary_functions)
+[Binary functions](/r/excel/wiki/decronym/power_query_m_categorical#wiki_binary_functions)
 |
-[Combiner functions](/r/Excel/wiki/decronyms/power_query_m_categorical#wiki_combiner_functions)
+[Combiner functions](/r/excel/wiki/decronym/power_query_m_categorical#wiki_combiner_functions)
 |
-[Comparer functions](/r/Excel/wiki/decronyms/power_query_m_categorical#wiki_comparer_functions)
+[Comparer functions](/r/excel/wiki/decronym/power_query_m_categorical#wiki_comparer_functions)
 |
-[Date functions](/r/Excel/wiki/decronyms/power_query_m_categorical#wiki_date_functions)
+[Date functions](/r/excel/wiki/decronym/power_query_m_categorical#wiki_date_functions)
 |
-[DateTime functions](/r/Excel/wiki/decronyms/power_query_m_categorical#wiki_datetime_functions)
+[DateTime functions](/r/excel/wiki/decronym/power_query_m_categorical#wiki_datetime_functions)
 |
-[DateTimeZone functions](/r/Excel/wiki/decronyms/power_query_m_categorical#wiki_datetimezone_functions)
+[DateTimeZone functions](/r/excel/wiki/decronym/power_query_m_categorical#wiki_datetimezone_functions)
 |
-[Duration functions](/r/Excel/wiki/decronyms/power_query_m_categorical#wiki_duration_functions)
+[Duration functions](/r/excel/wiki/decronym/power_query_m_categorical#wiki_duration_functions)
 |
-[Error handling](/r/Excel/wiki/decronyms/power_query_m_categorical#wiki_error_handling)
+[Error handling](/r/excel/wiki/decronym/power_query_m_categorical#wiki_error_handling)
 |
-[Expression functions](/r/Excel/wiki/decronyms/power_query_m_categorical#wiki_expression_functions)
+[Expression functions](/r/excel/wiki/decronym/power_query_m_categorical#wiki_expression_functions)
 |
-[Function values](/r/Excel/wiki/decronyms/power_query_m_categorical#wiki_function_values)
+[Function values](/r/excel/wiki/decronym/power_query_m_categorical#wiki_function_values)
 |
-[Lines functions](/r/Excel/wiki/decronyms/power_query_m_categorical#wiki_lines_functions)
+[Lines functions](/r/excel/wiki/decronym/power_query_m_categorical#wiki_lines_functions)
 |
-[List functions](/r/Excel/wiki/decronyms/power_query_m_categorical#wiki_list_functions)
+[List functions](/r/excel/wiki/decronym/power_query_m_categorical#wiki_list_functions)
 |
-[Logical functions](/r/Excel/wiki/decronyms/power_query_m_categorical#wiki_logical_functions)
+[Logical functions](/r/excel/wiki/decronym/power_query_m_categorical#wiki_logical_functions)
 |
-[Number functions](/r/Excel/wiki/decronyms/power_query_m_categorical#wiki_number_functions)
+[Number functions](/r/excel/wiki/decronym/power_query_m_categorical#wiki_number_functions)
 |
-[Record functions](/r/Excel/wiki/decronyms/power_query_m_categorical#wiki_record_functions)
+[Record functions](/r/excel/wiki/decronym/power_query_m_categorical#wiki_record_functions)
 |
-[Replacer functions](/r/Excel/wiki/decronyms/power_query_m_categorical#wiki_replacer_functions)
+[Replacer functions](/r/excel/wiki/decronym/power_query_m_categorical#wiki_replacer_functions)
 |
-[Splitter functions](/r/Excel/wiki/decronyms/power_query_m_categorical#wiki_splitter_functions)
+[Splitter functions](/r/excel/wiki/decronym/power_query_m_categorical#wiki_splitter_functions)
 |
 **Table functions**
 |
-[Text functions](/r/Excel/wiki/decronyms/power_query_m_categorical#wiki_text_functions)
+[Text functions](/r/excel/wiki/decronym/power_query_m_categorical#wiki_text_functions)
 |
-[Time functions](/r/Excel/wiki/decronyms/power_query_m_categorical#wiki_time_functions)
+[Time functions](/r/excel/wiki/decronym/power_query_m_categorical#wiki_time_functions)
 |
-[Type functions](/r/Excel/wiki/decronyms/power_query_m_categorical#wiki_type_functions)
+[Type functions](/r/excel/wiki/decronym/power_query_m_categorical#wiki_type_functions)
 |
-[Uri functions](/r/Excel/wiki/decronyms/power_query_m_categorical#wiki_uri_functions)
+[Uri functions](/r/excel/wiki/decronym/power_query_m_categorical#wiki_uri_functions)
 |
-[Value functions](/r/Excel/wiki/decronyms/power_query_m_categorical#wiki_value_functions)
+[Value functions](/r/excel/wiki/decronym/power_query_m_categorical#wiki_value_functions)
 |
 
 
@@ -1701,53 +1701,53 @@
 ### Text functions
 ---
 
-[Accessing data functions](/r/Excel/wiki/decronyms/power_query_m_categorical#wiki_accessing_data_functions)
+[Accessing data functions](/r/excel/wiki/decronym/power_query_m_categorical#wiki_accessing_data_functions)
 |
-[Binary functions](/r/Excel/wiki/decronyms/power_query_m_categorical#wiki_binary_functions)
+[Binary functions](/r/excel/wiki/decronym/power_query_m_categorical#wiki_binary_functions)
 |
-[Combiner functions](/r/Excel/wiki/decronyms/power_query_m_categorical#wiki_combiner_functions)
+[Combiner functions](/r/excel/wiki/decronym/power_query_m_categorical#wiki_combiner_functions)
 |
-[Comparer functions](/r/Excel/wiki/decronyms/power_query_m_categorical#wiki_comparer_functions)
+[Comparer functions](/r/excel/wiki/decronym/power_query_m_categorical#wiki_comparer_functions)
 |
-[Date functions](/r/Excel/wiki/decronyms/power_query_m_categorical#wiki_date_functions)
+[Date functions](/r/excel/wiki/decronym/power_query_m_categorical#wiki_date_functions)
 |
-[DateTime functions](/r/Excel/wiki/decronyms/power_query_m_categorical#wiki_datetime_functions)
+[DateTime functions](/r/excel/wiki/decronym/power_query_m_categorical#wiki_datetime_functions)
 |
-[DateTimeZone functions](/r/Excel/wiki/decronyms/power_query_m_categorical#wiki_datetimezone_functions)
+[DateTimeZone functions](/r/excel/wiki/decronym/power_query_m_categorical#wiki_datetimezone_functions)
 |
-[Duration functions](/r/Excel/wiki/decronyms/power_query_m_categorical#wiki_duration_functions)
+[Duration functions](/r/excel/wiki/decronym/power_query_m_categorical#wiki_duration_functions)
 |
-[Error handling](/r/Excel/wiki/decronyms/power_query_m_categorical#wiki_error_handling)
+[Error handling](/r/excel/wiki/decronym/power_query_m_categorical#wiki_error_handling)
 |
-[Expression functions](/r/Excel/wiki/decronyms/power_query_m_categorical#wiki_expression_functions)
+[Expression functions](/r/excel/wiki/decronym/power_query_m_categorical#wiki_expression_functions)
 |
-[Function values](/r/Excel/wiki/decronyms/power_query_m_categorical#wiki_function_values)
+[Function values](/r/excel/wiki/decronym/power_query_m_categorical#wiki_function_values)
 |
-[Lines functions](/r/Excel/wiki/decronyms/power_query_m_categorical#wiki_lines_functions)
+[Lines functions](/r/excel/wiki/decronym/power_query_m_categorical#wiki_lines_functions)
 |
-[List functions](/r/Excel/wiki/decronyms/power_query_m_categorical#wiki_list_functions)
+[List functions](/r/excel/wiki/decronym/power_query_m_categorical#wiki_list_functions)
 |
-[Logical functions](/r/Excel/wiki/decronyms/power_query_m_categorical#wiki_logical_functions)
+[Logical functions](/r/excel/wiki/decronym/power_query_m_categorical#wiki_logical_functions)
 |
-[Number functions](/r/Excel/wiki/decronyms/power_query_m_categorical#wiki_number_functions)
+[Number functions](/r/excel/wiki/decronym/power_query_m_categorical#wiki_number_functions)
 |
-[Record functions](/r/Excel/wiki/decronyms/power_query_m_categorical#wiki_record_functions)
+[Record functions](/r/excel/wiki/decronym/power_query_m_categorical#wiki_record_functions)
 |
-[Replacer functions](/r/Excel/wiki/decronyms/power_query_m_categorical#wiki_replacer_functions)
+[Replacer functions](/r/excel/wiki/decronym/power_query_m_categorical#wiki_replacer_functions)
 |
-[Splitter functions](/r/Excel/wiki/decronyms/power_query_m_categorical#wiki_splitter_functions)
+[Splitter functions](/r/excel/wiki/decronym/power_query_m_categorical#wiki_splitter_functions)
 |
-[Table functions](/r/Excel/wiki/decronyms/power_query_m_categorical#wiki_table_functions)
+[Table functions](/r/excel/wiki/decronym/power_query_m_categorical#wiki_table_functions)
 |
 **Text functions**
 |
-[Time functions](/r/Excel/wiki/decronyms/power_query_m_categorical#wiki_time_functions)
+[Time functions](/r/excel/wiki/decronym/power_query_m_categorical#wiki_time_functions)
 |
-[Type functions](/r/Excel/wiki/decronyms/power_query_m_categorical#wiki_type_functions)
+[Type functions](/r/excel/wiki/decronym/power_query_m_categorical#wiki_type_functions)
 |
-[Uri functions](/r/Excel/wiki/decronyms/power_query_m_categorical#wiki_uri_functions)
+[Uri functions](/r/excel/wiki/decronym/power_query_m_categorical#wiki_uri_functions)
 |
-[Value functions](/r/Excel/wiki/decronyms/power_query_m_categorical#wiki_value_functions)
+[Value functions](/r/excel/wiki/decronym/power_query_m_categorical#wiki_value_functions)
 |
 
 
@@ -1814,53 +1814,53 @@
 ### Time functions
 ---
 
-[Accessing data functions](/r/Excel/wiki/decronyms/power_query_m_categorical#wiki_accessing_data_functions)
+[Accessing data functions](/r/excel/wiki/decronym/power_query_m_categorical#wiki_accessing_data_functions)
 |
-[Binary functions](/r/Excel/wiki/decronyms/power_query_m_categorical#wiki_binary_functions)
+[Binary functions](/r/excel/wiki/decronym/power_query_m_categorical#wiki_binary_functions)
 |
-[Combiner functions](/r/Excel/wiki/decronyms/power_query_m_categorical#wiki_combiner_functions)
+[Combiner functions](/r/excel/wiki/decronym/power_query_m_categorical#wiki_combiner_functions)
 |
-[Comparer functions](/r/Excel/wiki/decronyms/power_query_m_categorical#wiki_comparer_functions)
+[Comparer functions](/r/excel/wiki/decronym/power_query_m_categorical#wiki_comparer_functions)
 |
-[Date functions](/r/Excel/wiki/decronyms/power_query_m_categorical#wiki_date_functions)
+[Date functions](/r/excel/wiki/decronym/power_query_m_categorical#wiki_date_functions)
 |
-[DateTime functions](/r/Excel/wiki/decronyms/power_query_m_categorical#wiki_datetime_functions)
+[DateTime functions](/r/excel/wiki/decronym/power_query_m_categorical#wiki_datetime_functions)
 |
-[DateTimeZone functions](/r/Excel/wiki/decronyms/power_query_m_categorical#wiki_datetimezone_functions)
+[DateTimeZone functions](/r/excel/wiki/decronym/power_query_m_categorical#wiki_datetimezone_functions)
 |
-[Duration functions](/r/Excel/wiki/decronyms/power_query_m_categorical#wiki_duration_functions)
+[Duration functions](/r/excel/wiki/decronym/power_query_m_categorical#wiki_duration_functions)
 |
-[Error handling](/r/Excel/wiki/decronyms/power_query_m_categorical#wiki_error_handling)
+[Error handling](/r/excel/wiki/decronym/power_query_m_categorical#wiki_error_handling)
 |
-[Expression functions](/r/Excel/wiki/decronyms/power_query_m_categorical#wiki_expression_functions)
+[Expression functions](/r/excel/wiki/decronym/power_query_m_categorical#wiki_expression_functions)
 |
-[Function values](/r/Excel/wiki/decronyms/power_query_m_categorical#wiki_function_values)
+[Function values](/r/excel/wiki/decronym/power_query_m_categorical#wiki_function_values)
 |
-[Lines functions](/r/Excel/wiki/decronyms/power_query_m_categorical#wiki_lines_functions)
+[Lines functions](/r/excel/wiki/decronym/power_query_m_categorical#wiki_lines_functions)
 |
-[List functions](/r/Excel/wiki/decronyms/power_query_m_categorical#wiki_list_functions)
+[List functions](/r/excel/wiki/decronym/power_query_m_categorical#wiki_list_functions)
 |
-[Logical functions](/r/Excel/wiki/decronyms/power_query_m_categorical#wiki_logical_functions)
+[Logical functions](/r/excel/wiki/decronym/power_query_m_categorical#wiki_logical_functions)
 |
-[Number functions](/r/Excel/wiki/decronyms/power_query_m_categorical#wiki_number_functions)
+[Number functions](/r/excel/wiki/decronym/power_query_m_categorical#wiki_number_functions)
 |
-[Record functions](/r/Excel/wiki/decronyms/power_query_m_categorical#wiki_record_functions)
+[Record functions](/r/excel/wiki/decronym/power_query_m_categorical#wiki_record_functions)
 |
-[Replacer functions](/r/Excel/wiki/decronyms/power_query_m_categorical#wiki_replacer_functions)
+[Replacer functions](/r/excel/wiki/decronym/power_query_m_categorical#wiki_replacer_functions)
 |
-[Splitter functions](/r/Excel/wiki/decronyms/power_query_m_categorical#wiki_splitter_functions)
+[Splitter functions](/r/excel/wiki/decronym/power_query_m_categorical#wiki_splitter_functions)
 |
-[Table functions](/r/Excel/wiki/decronyms/power_query_m_categorical#wiki_table_functions)
+[Table functions](/r/excel/wiki/decronym/power_query_m_categorical#wiki_table_functions)
 |
-[Text functions](/r/Excel/wiki/decronyms/power_query_m_categorical#wiki_text_functions)
+[Text functions](/r/excel/wiki/decronym/power_query_m_categorical#wiki_text_functions)
 |
 **Time functions**
 |
-[Type functions](/r/Excel/wiki/decronyms/power_query_m_categorical#wiki_type_functions)
+[Type functions](/r/excel/wiki/decronym/power_query_m_categorical#wiki_type_functions)
 |
-[Uri functions](/r/Excel/wiki/decronyms/power_query_m_categorical#wiki_uri_functions)
+[Uri functions](/r/excel/wiki/decronym/power_query_m_categorical#wiki_uri_functions)
 |
-[Value functions](/r/Excel/wiki/decronyms/power_query_m_categorical#wiki_value_functions)
+[Value functions](/r/excel/wiki/decronym/power_query_m_categorical#wiki_value_functions)
 |
 
 
@@ -1881,53 +1881,53 @@
 ### Type functions
 ---
 
-[Accessing data functions](/r/Excel/wiki/decronyms/power_query_m_categorical#wiki_accessing_data_functions)
+[Accessing data functions](/r/excel/wiki/decronym/power_query_m_categorical#wiki_accessing_data_functions)
 |
-[Binary functions](/r/Excel/wiki/decronyms/power_query_m_categorical#wiki_binary_functions)
+[Binary functions](/r/excel/wiki/decronym/power_query_m_categorical#wiki_binary_functions)
 |
-[Combiner functions](/r/Excel/wiki/decronyms/power_query_m_categorical#wiki_combiner_functions)
+[Combiner functions](/r/excel/wiki/decronym/power_query_m_categorical#wiki_combiner_functions)
 |
-[Comparer functions](/r/Excel/wiki/decronyms/power_query_m_categorical#wiki_comparer_functions)
+[Comparer functions](/r/excel/wiki/decronym/power_query_m_categorical#wiki_comparer_functions)
 |
-[Date functions](/r/Excel/wiki/decronyms/power_query_m_categorical#wiki_date_functions)
+[Date functions](/r/excel/wiki/decronym/power_query_m_categorical#wiki_date_functions)
 |
-[DateTime functions](/r/Excel/wiki/decronyms/power_query_m_categorical#wiki_datetime_functions)
+[DateTime functions](/r/excel/wiki/decronym/power_query_m_categorical#wiki_datetime_functions)
 |
-[DateTimeZone functions](/r/Excel/wiki/decronyms/power_query_m_categorical#wiki_datetimezone_functions)
+[DateTimeZone functions](/r/excel/wiki/decronym/power_query_m_categorical#wiki_datetimezone_functions)
 |
-[Duration functions](/r/Excel/wiki/decronyms/power_query_m_categorical#wiki_duration_functions)
+[Duration functions](/r/excel/wiki/decronym/power_query_m_categorical#wiki_duration_functions)
 |
-[Error handling](/r/Excel/wiki/decronyms/power_query_m_categorical#wiki_error_handling)
+[Error handling](/r/excel/wiki/decronym/power_query_m_categorical#wiki_error_handling)
 |
-[Expression functions](/r/Excel/wiki/decronyms/power_query_m_categorical#wiki_expression_functions)
+[Expression functions](/r/excel/wiki/decronym/power_query_m_categorical#wiki_expression_functions)
 |
-[Function values](/r/Excel/wiki/decronyms/power_query_m_categorical#wiki_function_values)
+[Function values](/r/excel/wiki/decronym/power_query_m_categorical#wiki_function_values)
 |
-[Lines functions](/r/Excel/wiki/decronyms/power_query_m_categorical#wiki_lines_functions)
+[Lines functions](/r/excel/wiki/decronym/power_query_m_categorical#wiki_lines_functions)
 |
-[List functions](/r/Excel/wiki/decronyms/power_query_m_categorical#wiki_list_functions)
+[List functions](/r/excel/wiki/decronym/power_query_m_categorical#wiki_list_functions)
 |
-[Logical functions](/r/Excel/wiki/decronyms/power_query_m_categorical#wiki_logical_functions)
+[Logical functions](/r/excel/wiki/decronym/power_query_m_categorical#wiki_logical_functions)
 |
-[Number functions](/r/Excel/wiki/decronyms/power_query_m_categorical#wiki_number_functions)
+[Number functions](/r/excel/wiki/decronym/power_query_m_categorical#wiki_number_functions)
 |
-[Record functions](/r/Excel/wiki/decronyms/power_query_m_categorical#wiki_record_functions)
+[Record functions](/r/excel/wiki/decronym/power_query_m_categorical#wiki_record_functions)
 |
-[Replacer functions](/r/Excel/wiki/decronyms/power_query_m_categorical#wiki_replacer_functions)
+[Replacer functions](/r/excel/wiki/decronym/power_query_m_categorical#wiki_replacer_functions)
 |
-[Splitter functions](/r/Excel/wiki/decronyms/power_query_m_categorical#wiki_splitter_functions)
+[Splitter functions](/r/excel/wiki/decronym/power_query_m_categorical#wiki_splitter_functions)
 |
-[Table functions](/r/Excel/wiki/decronyms/power_query_m_categorical#wiki_table_functions)
+[Table functions](/r/excel/wiki/decronym/power_query_m_categorical#wiki_table_functions)
 |
-[Text functions](/r/Excel/wiki/decronyms/power_query_m_categorical#wiki_text_functions)
+[Text functions](/r/excel/wiki/decronym/power_query_m_categorical#wiki_text_functions)
 |
-[Time functions](/r/Excel/wiki/decronyms/power_query_m_categorical#wiki_time_functions)
+[Time functions](/r/excel/wiki/decronym/power_query_m_categorical#wiki_time_functions)
 |
 **Type functions**
 |
-[Uri functions](/r/Excel/wiki/decronyms/power_query_m_categorical#wiki_uri_functions)
+[Uri functions](/r/excel/wiki/decronym/power_query_m_categorical#wiki_uri_functions)
 |
-[Value functions](/r/Excel/wiki/decronyms/power_query_m_categorical#wiki_value_functions)
+[Value functions](/r/excel/wiki/decronym/power_query_m_categorical#wiki_value_functions)
 |
 
 
@@ -1960,53 +1960,53 @@
 ### Uri functions
 ---
 
-[Accessing data functions](/r/Excel/wiki/decronyms/power_query_m_categorical#wiki_accessing_data_functions)
+[Accessing data functions](/r/excel/wiki/decronym/power_query_m_categorical#wiki_accessing_data_functions)
 |
-[Binary functions](/r/Excel/wiki/decronyms/power_query_m_categorical#wiki_binary_functions)
+[Binary functions](/r/excel/wiki/decronym/power_query_m_categorical#wiki_binary_functions)
 |
-[Combiner functions](/r/Excel/wiki/decronyms/power_query_m_categorical#wiki_combiner_functions)
+[Combiner functions](/r/excel/wiki/decronym/power_query_m_categorical#wiki_combiner_functions)
 |
-[Comparer functions](/r/Excel/wiki/decronyms/power_query_m_categorical#wiki_comparer_functions)
+[Comparer functions](/r/excel/wiki/decronym/power_query_m_categorical#wiki_comparer_functions)
 |
-[Date functions](/r/Excel/wiki/decronyms/power_query_m_categorical#wiki_date_functions)
+[Date functions](/r/excel/wiki/decronym/power_query_m_categorical#wiki_date_functions)
 |
-[DateTime functions](/r/Excel/wiki/decronyms/power_query_m_categorical#wiki_datetime_functions)
+[DateTime functions](/r/excel/wiki/decronym/power_query_m_categorical#wiki_datetime_functions)
 |
-[DateTimeZone functions](/r/Excel/wiki/decronyms/power_query_m_categorical#wiki_datetimezone_functions)
+[DateTimeZone functions](/r/excel/wiki/decronym/power_query_m_categorical#wiki_datetimezone_functions)
 |
-[Duration functions](/r/Excel/wiki/decronyms/power_query_m_categorical#wiki_duration_functions)
+[Duration functions](/r/excel/wiki/decronym/power_query_m_categorical#wiki_duration_functions)
 |
-[Error handling](/r/Excel/wiki/decronyms/power_query_m_categorical#wiki_error_handling)
+[Error handling](/r/excel/wiki/decronym/power_query_m_categorical#wiki_error_handling)
 |
-[Expression functions](/r/Excel/wiki/decronyms/power_query_m_categorical#wiki_expression_functions)
+[Expression functions](/r/excel/wiki/decronym/power_query_m_categorical#wiki_expression_functions)
 |
-[Function values](/r/Excel/wiki/decronyms/power_query_m_categorical#wiki_function_values)
+[Function values](/r/excel/wiki/decronym/power_query_m_categorical#wiki_function_values)
 |
-[Lines functions](/r/Excel/wiki/decronyms/power_query_m_categorical#wiki_lines_functions)
+[Lines functions](/r/excel/wiki/decronym/power_query_m_categorical#wiki_lines_functions)
 |
-[List functions](/r/Excel/wiki/decronyms/power_query_m_categorical#wiki_list_functions)
+[List functions](/r/excel/wiki/decronym/power_query_m_categorical#wiki_list_functions)
 |
-[Logical functions](/r/Excel/wiki/decronyms/power_query_m_categorical#wiki_logical_functions)
+[Logical functions](/r/excel/wiki/decronym/power_query_m_categorical#wiki_logical_functions)
 |
-[Number functions](/r/Excel/wiki/decronyms/power_query_m_categorical#wiki_number_functions)
+[Number functions](/r/excel/wiki/decronym/power_query_m_categorical#wiki_number_functions)
 |
-[Record functions](/r/Excel/wiki/decronyms/power_query_m_categorical#wiki_record_functions)
+[Record functions](/r/excel/wiki/decronym/power_query_m_categorical#wiki_record_functions)
 |
-[Replacer functions](/r/Excel/wiki/decronyms/power_query_m_categorical#wiki_replacer_functions)
+[Replacer functions](/r/excel/wiki/decronym/power_query_m_categorical#wiki_replacer_functions)
 |
-[Splitter functions](/r/Excel/wiki/decronyms/power_query_m_categorical#wiki_splitter_functions)
+[Splitter functions](/r/excel/wiki/decronym/power_query_m_categorical#wiki_splitter_functions)
 |
-[Table functions](/r/Excel/wiki/decronyms/power_query_m_categorical#wiki_table_functions)
+[Table functions](/r/excel/wiki/decronym/power_query_m_categorical#wiki_table_functions)
 |
-[Text functions](/r/Excel/wiki/decronyms/power_query_m_categorical#wiki_text_functions)
+[Text functions](/r/excel/wiki/decronym/power_query_m_categorical#wiki_text_functions)
 |
-[Time functions](/r/Excel/wiki/decronyms/power_query_m_categorical#wiki_time_functions)
+[Time functions](/r/excel/wiki/decronym/power_query_m_categorical#wiki_time_functions)
 |
-[Type functions](/r/Excel/wiki/decronyms/power_query_m_categorical#wiki_type_functions)
+[Type functions](/r/excel/wiki/decronym/power_query_m_categorical#wiki_type_functions)
 |
 **Uri functions**
 |
-[Value functions](/r/Excel/wiki/decronyms/power_query_m_categorical#wiki_value_functions)
+[Value functions](/r/excel/wiki/decronym/power_query_m_categorical#wiki_value_functions)
 |
 
 
@@ -2021,51 +2021,51 @@
 ### Value functions
 ---
 
-[Accessing data functions](/r/Excel/wiki/decronyms/power_query_m_categorical#wiki_accessing_data_functions)
+[Accessing data functions](/r/excel/wiki/decronym/power_query_m_categorical#wiki_accessing_data_functions)
 |
-[Binary functions](/r/Excel/wiki/decronyms/power_query_m_categorical#wiki_binary_functions)
+[Binary functions](/r/excel/wiki/decronym/power_query_m_categorical#wiki_binary_functions)
 |
-[Combiner functions](/r/Excel/wiki/decronyms/power_query_m_categorical#wiki_combiner_functions)
+[Combiner functions](/r/excel/wiki/decronym/power_query_m_categorical#wiki_combiner_functions)
 |
-[Comparer functions](/r/Excel/wiki/decronyms/power_query_m_categorical#wiki_comparer_functions)
+[Comparer functions](/r/excel/wiki/decronym/power_query_m_categorical#wiki_comparer_functions)
 |
-[Date functions](/r/Excel/wiki/decronyms/power_query_m_categorical#wiki_date_functions)
+[Date functions](/r/excel/wiki/decronym/power_query_m_categorical#wiki_date_functions)
 |
-[DateTime functions](/r/Excel/wiki/decronyms/power_query_m_categorical#wiki_datetime_functions)
+[DateTime functions](/r/excel/wiki/decronym/power_query_m_categorical#wiki_datetime_functions)
 |
-[DateTimeZone functions](/r/Excel/wiki/decronyms/power_query_m_categorical#wiki_datetimezone_functions)
+[DateTimeZone functions](/r/excel/wiki/decronym/power_query_m_categorical#wiki_datetimezone_functions)
 |
-[Duration functions](/r/Excel/wiki/decronyms/power_query_m_categorical#wiki_duration_functions)
+[Duration functions](/r/excel/wiki/decronym/power_query_m_categorical#wiki_duration_functions)
 |
-[Error handling](/r/Excel/wiki/decronyms/power_query_m_categorical#wiki_error_handling)
+[Error handling](/r/excel/wiki/decronym/power_query_m_categorical#wiki_error_handling)
 |
-[Expression functions](/r/Excel/wiki/decronyms/power_query_m_categorical#wiki_expression_functions)
+[Expression functions](/r/excel/wiki/decronym/power_query_m_categorical#wiki_expression_functions)
 |
-[Function values](/r/Excel/wiki/decronyms/power_query_m_categorical#wiki_function_values)
+[Function values](/r/excel/wiki/decronym/power_query_m_categorical#wiki_function_values)
 |
-[Lines functions](/r/Excel/wiki/decronyms/power_query_m_categorical#wiki_lines_functions)
+[Lines functions](/r/excel/wiki/decronym/power_query_m_categorical#wiki_lines_functions)
 |
-[List functions](/r/Excel/wiki/decronyms/power_query_m_categorical#wiki_list_functions)
+[List functions](/r/excel/wiki/decronym/power_query_m_categorical#wiki_list_functions)
 |
-[Logical functions](/r/Excel/wiki/decronyms/power_query_m_categorical#wiki_logical_functions)
+[Logical functions](/r/excel/wiki/decronym/power_query_m_categorical#wiki_logical_functions)
 |
-[Number functions](/r/Excel/wiki/decronyms/power_query_m_categorical#wiki_number_functions)
+[Number functions](/r/excel/wiki/decronym/power_query_m_categorical#wiki_number_functions)
 |
-[Record functions](/r/Excel/wiki/decronyms/power_query_m_categorical#wiki_record_functions)
+[Record functions](/r/excel/wiki/decronym/power_query_m_categorical#wiki_record_functions)
 |
-[Replacer functions](/r/Excel/wiki/decronyms/power_query_m_categorical#wiki_replacer_functions)
+[Replacer functions](/r/excel/wiki/decronym/power_query_m_categorical#wiki_replacer_functions)
 |
-[Splitter functions](/r/Excel/wiki/decronyms/power_query_m_categorical#wiki_splitter_functions)
+[Splitter functions](/r/excel/wiki/decronym/power_query_m_categorical#wiki_splitter_functions)
 |
-[Table functions](/r/Excel/wiki/decronyms/power_query_m_categorical#wiki_table_functions)
+[Table functions](/r/excel/wiki/decronym/power_query_m_categorical#wiki_table_functions)
 |
-[Text functions](/r/Excel/wiki/decronyms/power_query_m_categorical#wiki_text_functions)
+[Text functions](/r/excel/wiki/decronym/power_query_m_categorical#wiki_text_functions)
 |
-[Time functions](/r/Excel/wiki/decronyms/power_query_m_categorical#wiki_time_functions)
+[Time functions](/r/excel/wiki/decronym/power_query_m_categorical#wiki_time_functions)
 |
-[Type functions](/r/Excel/wiki/decronyms/power_query_m_categorical#wiki_type_functions)
+[Type functions](/r/excel/wiki/decronym/power_query_m_categorical#wiki_type_functions)
 |
-[Uri functions](/r/Excel/wiki/decronyms/power_query_m_categorical#wiki_uri_functions)
+[Uri functions](/r/excel/wiki/decronym/power_query_m_categorical#wiki_uri_functions)
 |
 **Value functions**
 |

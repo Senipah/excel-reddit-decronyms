@@ -51,7 +51,7 @@ function getNavbar(arr, active, pageName) {
     const val =
       cur === active
         ? `**${cur}**`
-        : mdLink(cur, `/r/Excel/wiki/decronyms/${pageName}#wiki_${toURI(cur)}`);
+        : mdLink(cur, `/r/excel/wiki/decronym/${pageName}#wiki_${toURI(cur)}`);
     return acc + val + '\n|\n';
   }, '');
 }

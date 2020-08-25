@@ -5,31 +5,31 @@
 
 **Add-in and Automation**
 |
-[Compatibility](/r/Excel/wiki/decronyms/excel_functions_categorical#wiki_compatibility)
+[Compatibility](/r/excel/wiki/decronym/excel_functions_categorical#wiki_compatibility)
 |
-[Cube](/r/Excel/wiki/decronyms/excel_functions_categorical#wiki_cube)
+[Cube](/r/excel/wiki/decronym/excel_functions_categorical#wiki_cube)
 |
-[Database](/r/Excel/wiki/decronyms/excel_functions_categorical#wiki_database)
+[Database](/r/excel/wiki/decronym/excel_functions_categorical#wiki_database)
 |
-[Date and time](/r/Excel/wiki/decronyms/excel_functions_categorical#wiki_date_and_time)
+[Date and time](/r/excel/wiki/decronym/excel_functions_categorical#wiki_date_and_time)
 |
-[Engineering](/r/Excel/wiki/decronyms/excel_functions_categorical#wiki_engineering)
+[Engineering](/r/excel/wiki/decronym/excel_functions_categorical#wiki_engineering)
 |
-[Financial](/r/Excel/wiki/decronyms/excel_functions_categorical#wiki_financial)
+[Financial](/r/excel/wiki/decronym/excel_functions_categorical#wiki_financial)
 |
-[Information](/r/Excel/wiki/decronyms/excel_functions_categorical#wiki_information)
+[Information](/r/excel/wiki/decronym/excel_functions_categorical#wiki_information)
 |
-[Logical](/r/Excel/wiki/decronyms/excel_functions_categorical#wiki_logical)
+[Logical](/r/excel/wiki/decronym/excel_functions_categorical#wiki_logical)
 |
-[Lookup and reference](/r/Excel/wiki/decronyms/excel_functions_categorical#wiki_lookup_and_reference)
+[Lookup and reference](/r/excel/wiki/decronym/excel_functions_categorical#wiki_lookup_and_reference)
 |
-[Math and trigonometry](/r/Excel/wiki/decronyms/excel_functions_categorical#wiki_math_and_trigonometry)
+[Math and trigonometry](/r/excel/wiki/decronym/excel_functions_categorical#wiki_math_and_trigonometry)
 |
-[Statistical](/r/Excel/wiki/decronyms/excel_functions_categorical#wiki_statistical)
+[Statistical](/r/excel/wiki/decronym/excel_functions_categorical#wiki_statistical)
 |
-[Text](/r/Excel/wiki/decronyms/excel_functions_categorical#wiki_text)
+[Text](/r/excel/wiki/decronym/excel_functions_categorical#wiki_text)
 |
-[Web](/r/Excel/wiki/decronyms/excel_functions_categorical#wiki_web)
+[Web](/r/excel/wiki/decronym/excel_functions_categorical#wiki_web)
 |
 
 
@@ -43,33 +43,33 @@
 ### Compatibility
 ---
 
-[Add-in and Automation](/r/Excel/wiki/decronyms/excel_functions_categorical#wiki_add-in_and_automation)
+[Add-in and Automation](/r/excel/wiki/decronym/excel_functions_categorical#wiki_add-in_and_automation)
 |
 **Compatibility**
 |
-[Cube](/r/Excel/wiki/decronyms/excel_functions_categorical#wiki_cube)
+[Cube](/r/excel/wiki/decronym/excel_functions_categorical#wiki_cube)
 |
-[Database](/r/Excel/wiki/decronyms/excel_functions_categorical#wiki_database)
+[Database](/r/excel/wiki/decronym/excel_functions_categorical#wiki_database)
 |
-[Date and time](/r/Excel/wiki/decronyms/excel_functions_categorical#wiki_date_and_time)
+[Date and time](/r/excel/wiki/decronym/excel_functions_categorical#wiki_date_and_time)
 |
-[Engineering](/r/Excel/wiki/decronyms/excel_functions_categorical#wiki_engineering)
+[Engineering](/r/excel/wiki/decronym/excel_functions_categorical#wiki_engineering)
 |
-[Financial](/r/Excel/wiki/decronyms/excel_functions_categorical#wiki_financial)
+[Financial](/r/excel/wiki/decronym/excel_functions_categorical#wiki_financial)
 |
-[Information](/r/Excel/wiki/decronyms/excel_functions_categorical#wiki_information)
+[Information](/r/excel/wiki/decronym/excel_functions_categorical#wiki_information)
 |
-[Logical](/r/Excel/wiki/decronyms/excel_functions_categorical#wiki_logical)
+[Logical](/r/excel/wiki/decronym/excel_functions_categorical#wiki_logical)
 |
-[Lookup and reference](/r/Excel/wiki/decronyms/excel_functions_categorical#wiki_lookup_and_reference)
+[Lookup and reference](/r/excel/wiki/decronym/excel_functions_categorical#wiki_lookup_and_reference)
 |
-[Math and trigonometry](/r/Excel/wiki/decronyms/excel_functions_categorical#wiki_math_and_trigonometry)
+[Math and trigonometry](/r/excel/wiki/decronym/excel_functions_categorical#wiki_math_and_trigonometry)
 |
-[Statistical](/r/Excel/wiki/decronyms/excel_functions_categorical#wiki_statistical)
+[Statistical](/r/excel/wiki/decronym/excel_functions_categorical#wiki_statistical)
 |
-[Text](/r/Excel/wiki/decronyms/excel_functions_categorical#wiki_text)
+[Text](/r/excel/wiki/decronym/excel_functions_categorical#wiki_text)
 |
-[Web](/r/Excel/wiki/decronyms/excel_functions_categorical#wiki_web)
+[Web](/r/excel/wiki/decronym/excel_functions_categorical#wiki_web)
 |
 
 
@@ -118,33 +118,33 @@
 ### Cube
 ---
 
-[Add-in and Automation](/r/Excel/wiki/decronyms/excel_functions_categorical#wiki_add-in_and_automation)
+[Add-in and Automation](/r/excel/wiki/decronym/excel_functions_categorical#wiki_add-in_and_automation)
 |
-[Compatibility](/r/Excel/wiki/decronyms/excel_functions_categorical#wiki_compatibility)
+[Compatibility](/r/excel/wiki/decronym/excel_functions_categorical#wiki_compatibility)
 |
 **Cube**
 |
-[Database](/r/Excel/wiki/decronyms/excel_functions_categorical#wiki_database)
+[Database](/r/excel/wiki/decronym/excel_functions_categorical#wiki_database)
 |
-[Date and time](/r/Excel/wiki/decronyms/excel_functions_categorical#wiki_date_and_time)
+[Date and time](/r/excel/wiki/decronym/excel_functions_categorical#wiki_date_and_time)
 |
-[Engineering](/r/Excel/wiki/decronyms/excel_functions_categorical#wiki_engineering)
+[Engineering](/r/excel/wiki/decronym/excel_functions_categorical#wiki_engineering)
 |
-[Financial](/r/Excel/wiki/decronyms/excel_functions_categorical#wiki_financial)
+[Financial](/r/excel/wiki/decronym/excel_functions_categorical#wiki_financial)
 |
-[Information](/r/Excel/wiki/decronyms/excel_functions_categorical#wiki_information)
+[Information](/r/excel/wiki/decronym/excel_functions_categorical#wiki_information)
 |
-[Logical](/r/Excel/wiki/decronyms/excel_functions_categorical#wiki_logical)
+[Logical](/r/excel/wiki/decronym/excel_functions_categorical#wiki_logical)
 |
-[Lookup and reference](/r/Excel/wiki/decronyms/excel_functions_categorical#wiki_lookup_and_reference)
+[Lookup and reference](/r/excel/wiki/decronym/excel_functions_categorical#wiki_lookup_and_reference)
 |
-[Math and trigonometry](/r/Excel/wiki/decronyms/excel_functions_categorical#wiki_math_and_trigonometry)
+[Math and trigonometry](/r/excel/wiki/decronym/excel_functions_categorical#wiki_math_and_trigonometry)
 |
-[Statistical](/r/Excel/wiki/decronyms/excel_functions_categorical#wiki_statistical)
+[Statistical](/r/excel/wiki/decronym/excel_functions_categorical#wiki_statistical)
 |
-[Text](/r/Excel/wiki/decronyms/excel_functions_categorical#wiki_text)
+[Text](/r/excel/wiki/decronym/excel_functions_categorical#wiki_text)
 |
-[Web](/r/Excel/wiki/decronyms/excel_functions_categorical#wiki_web)
+[Web](/r/excel/wiki/decronym/excel_functions_categorical#wiki_web)
 |
 
 
@@ -162,33 +162,33 @@
 ### Database
 ---
 
-[Add-in and Automation](/r/Excel/wiki/decronyms/excel_functions_categorical#wiki_add-in_and_automation)
+[Add-in and Automation](/r/excel/wiki/decronym/excel_functions_categorical#wiki_add-in_and_automation)
 |
-[Compatibility](/r/Excel/wiki/decronyms/excel_functions_categorical#wiki_compatibility)
+[Compatibility](/r/excel/wiki/decronym/excel_functions_categorical#wiki_compatibility)
 |
-[Cube](/r/Excel/wiki/decronyms/excel_functions_categorical#wiki_cube)
+[Cube](/r/excel/wiki/decronym/excel_functions_categorical#wiki_cube)
 |
 **Database**
 |
-[Date and time](/r/Excel/wiki/decronyms/excel_functions_categorical#wiki_date_and_time)
+[Date and time](/r/excel/wiki/decronym/excel_functions_categorical#wiki_date_and_time)
 |
-[Engineering](/r/Excel/wiki/decronyms/excel_functions_categorical#wiki_engineering)
+[Engineering](/r/excel/wiki/decronym/excel_functions_categorical#wiki_engineering)
 |
-[Financial](/r/Excel/wiki/decronyms/excel_functions_categorical#wiki_financial)
+[Financial](/r/excel/wiki/decronym/excel_functions_categorical#wiki_financial)
 |
-[Information](/r/Excel/wiki/decronyms/excel_functions_categorical#wiki_information)
+[Information](/r/excel/wiki/decronym/excel_functions_categorical#wiki_information)
 |
-[Logical](/r/Excel/wiki/decronyms/excel_functions_categorical#wiki_logical)
+[Logical](/r/excel/wiki/decronym/excel_functions_categorical#wiki_logical)
 |
-[Lookup and reference](/r/Excel/wiki/decronyms/excel_functions_categorical#wiki_lookup_and_reference)
+[Lookup and reference](/r/excel/wiki/decronym/excel_functions_categorical#wiki_lookup_and_reference)
 |
-[Math and trigonometry](/r/Excel/wiki/decronyms/excel_functions_categorical#wiki_math_and_trigonometry)
+[Math and trigonometry](/r/excel/wiki/decronym/excel_functions_categorical#wiki_math_and_trigonometry)
 |
-[Statistical](/r/Excel/wiki/decronyms/excel_functions_categorical#wiki_statistical)
+[Statistical](/r/excel/wiki/decronym/excel_functions_categorical#wiki_statistical)
 |
-[Text](/r/Excel/wiki/decronyms/excel_functions_categorical#wiki_text)
+[Text](/r/excel/wiki/decronym/excel_functions_categorical#wiki_text)
 |
-[Web](/r/Excel/wiki/decronyms/excel_functions_categorical#wiki_web)
+[Web](/r/excel/wiki/decronym/excel_functions_categorical#wiki_web)
 |
 
 
@@ -211,33 +211,33 @@
 ### Date and time
 ---
 
-[Add-in and Automation](/r/Excel/wiki/decronyms/excel_functions_categorical#wiki_add-in_and_automation)
+[Add-in and Automation](/r/excel/wiki/decronym/excel_functions_categorical#wiki_add-in_and_automation)
 |
-[Compatibility](/r/Excel/wiki/decronyms/excel_functions_categorical#wiki_compatibility)
+[Compatibility](/r/excel/wiki/decronym/excel_functions_categorical#wiki_compatibility)
 |
-[Cube](/r/Excel/wiki/decronyms/excel_functions_categorical#wiki_cube)
+[Cube](/r/excel/wiki/decronym/excel_functions_categorical#wiki_cube)
 |
-[Database](/r/Excel/wiki/decronyms/excel_functions_categorical#wiki_database)
+[Database](/r/excel/wiki/decronym/excel_functions_categorical#wiki_database)
 |
 **Date and time**
 |
-[Engineering](/r/Excel/wiki/decronyms/excel_functions_categorical#wiki_engineering)
+[Engineering](/r/excel/wiki/decronym/excel_functions_categorical#wiki_engineering)
 |
-[Financial](/r/Excel/wiki/decronyms/excel_functions_categorical#wiki_financial)
+[Financial](/r/excel/wiki/decronym/excel_functions_categorical#wiki_financial)
 |
-[Information](/r/Excel/wiki/decronyms/excel_functions_categorical#wiki_information)
+[Information](/r/excel/wiki/decronym/excel_functions_categorical#wiki_information)
 |
-[Logical](/r/Excel/wiki/decronyms/excel_functions_categorical#wiki_logical)
+[Logical](/r/excel/wiki/decronym/excel_functions_categorical#wiki_logical)
 |
-[Lookup and reference](/r/Excel/wiki/decronyms/excel_functions_categorical#wiki_lookup_and_reference)
+[Lookup and reference](/r/excel/wiki/decronym/excel_functions_categorical#wiki_lookup_and_reference)
 |
-[Math and trigonometry](/r/Excel/wiki/decronyms/excel_functions_categorical#wiki_math_and_trigonometry)
+[Math and trigonometry](/r/excel/wiki/decronym/excel_functions_categorical#wiki_math_and_trigonometry)
 |
-[Statistical](/r/Excel/wiki/decronyms/excel_functions_categorical#wiki_statistical)
+[Statistical](/r/excel/wiki/decronym/excel_functions_categorical#wiki_statistical)
 |
-[Text](/r/Excel/wiki/decronyms/excel_functions_categorical#wiki_text)
+[Text](/r/excel/wiki/decronym/excel_functions_categorical#wiki_text)
 |
-[Web](/r/Excel/wiki/decronyms/excel_functions_categorical#wiki_web)
+[Web](/r/excel/wiki/decronym/excel_functions_categorical#wiki_web)
 |
 
 
@@ -273,33 +273,33 @@
 ### Engineering
 ---
 
-[Add-in and Automation](/r/Excel/wiki/decronyms/excel_functions_categorical#wiki_add-in_and_automation)
+[Add-in and Automation](/r/excel/wiki/decronym/excel_functions_categorical#wiki_add-in_and_automation)
 |
-[Compatibility](/r/Excel/wiki/decronyms/excel_functions_categorical#wiki_compatibility)
+[Compatibility](/r/excel/wiki/decronym/excel_functions_categorical#wiki_compatibility)
 |
-[Cube](/r/Excel/wiki/decronyms/excel_functions_categorical#wiki_cube)
+[Cube](/r/excel/wiki/decronym/excel_functions_categorical#wiki_cube)
 |
-[Database](/r/Excel/wiki/decronyms/excel_functions_categorical#wiki_database)
+[Database](/r/excel/wiki/decronym/excel_functions_categorical#wiki_database)
 |
-[Date and time](/r/Excel/wiki/decronyms/excel_functions_categorical#wiki_date_and_time)
+[Date and time](/r/excel/wiki/decronym/excel_functions_categorical#wiki_date_and_time)
 |
 **Engineering**
 |
-[Financial](/r/Excel/wiki/decronyms/excel_functions_categorical#wiki_financial)
+[Financial](/r/excel/wiki/decronym/excel_functions_categorical#wiki_financial)
 |
-[Information](/r/Excel/wiki/decronyms/excel_functions_categorical#wiki_information)
+[Information](/r/excel/wiki/decronym/excel_functions_categorical#wiki_information)
 |
-[Logical](/r/Excel/wiki/decronyms/excel_functions_categorical#wiki_logical)
+[Logical](/r/excel/wiki/decronym/excel_functions_categorical#wiki_logical)
 |
-[Lookup and reference](/r/Excel/wiki/decronyms/excel_functions_categorical#wiki_lookup_and_reference)
+[Lookup and reference](/r/excel/wiki/decronym/excel_functions_categorical#wiki_lookup_and_reference)
 |
-[Math and trigonometry](/r/Excel/wiki/decronyms/excel_functions_categorical#wiki_math_and_trigonometry)
+[Math and trigonometry](/r/excel/wiki/decronym/excel_functions_categorical#wiki_math_and_trigonometry)
 |
-[Statistical](/r/Excel/wiki/decronyms/excel_functions_categorical#wiki_statistical)
+[Statistical](/r/excel/wiki/decronym/excel_functions_categorical#wiki_statistical)
 |
-[Text](/r/Excel/wiki/decronyms/excel_functions_categorical#wiki_text)
+[Text](/r/excel/wiki/decronym/excel_functions_categorical#wiki_text)
 |
-[Web](/r/Excel/wiki/decronyms/excel_functions_categorical#wiki_web)
+[Web](/r/excel/wiki/decronym/excel_functions_categorical#wiki_web)
 |
 
 
@@ -364,33 +364,33 @@
 ### Financial
 ---
 
-[Add-in and Automation](/r/Excel/wiki/decronyms/excel_functions_categorical#wiki_add-in_and_automation)
+[Add-in and Automation](/r/excel/wiki/decronym/excel_functions_categorical#wiki_add-in_and_automation)
 |
-[Compatibility](/r/Excel/wiki/decronyms/excel_functions_categorical#wiki_compatibility)
+[Compatibility](/r/excel/wiki/decronym/excel_functions_categorical#wiki_compatibility)
 |
-[Cube](/r/Excel/wiki/decronyms/excel_functions_categorical#wiki_cube)
+[Cube](/r/excel/wiki/decronym/excel_functions_categorical#wiki_cube)
 |
-[Database](/r/Excel/wiki/decronyms/excel_functions_categorical#wiki_database)
+[Database](/r/excel/wiki/decronym/excel_functions_categorical#wiki_database)
 |
-[Date and time](/r/Excel/wiki/decronyms/excel_functions_categorical#wiki_date_and_time)
+[Date and time](/r/excel/wiki/decronym/excel_functions_categorical#wiki_date_and_time)
 |
-[Engineering](/r/Excel/wiki/decronyms/excel_functions_categorical#wiki_engineering)
+[Engineering](/r/excel/wiki/decronym/excel_functions_categorical#wiki_engineering)
 |
 **Financial**
 |
-[Information](/r/Excel/wiki/decronyms/excel_functions_categorical#wiki_information)
+[Information](/r/excel/wiki/decronym/excel_functions_categorical#wiki_information)
 |
-[Logical](/r/Excel/wiki/decronyms/excel_functions_categorical#wiki_logical)
+[Logical](/r/excel/wiki/decronym/excel_functions_categorical#wiki_logical)
 |
-[Lookup and reference](/r/Excel/wiki/decronyms/excel_functions_categorical#wiki_lookup_and_reference)
+[Lookup and reference](/r/excel/wiki/decronym/excel_functions_categorical#wiki_lookup_and_reference)
 |
-[Math and trigonometry](/r/Excel/wiki/decronyms/excel_functions_categorical#wiki_math_and_trigonometry)
+[Math and trigonometry](/r/excel/wiki/decronym/excel_functions_categorical#wiki_math_and_trigonometry)
 |
-[Statistical](/r/Excel/wiki/decronyms/excel_functions_categorical#wiki_statistical)
+[Statistical](/r/excel/wiki/decronym/excel_functions_categorical#wiki_statistical)
 |
-[Text](/r/Excel/wiki/decronyms/excel_functions_categorical#wiki_text)
+[Text](/r/excel/wiki/decronym/excel_functions_categorical#wiki_text)
 |
-[Web](/r/Excel/wiki/decronyms/excel_functions_categorical#wiki_web)
+[Web](/r/excel/wiki/decronym/excel_functions_categorical#wiki_web)
 |
 
 
@@ -456,33 +456,33 @@
 ### Information
 ---
 
-[Add-in and Automation](/r/Excel/wiki/decronyms/excel_functions_categorical#wiki_add-in_and_automation)
+[Add-in and Automation](/r/excel/wiki/decronym/excel_functions_categorical#wiki_add-in_and_automation)
 |
-[Compatibility](/r/Excel/wiki/decronyms/excel_functions_categorical#wiki_compatibility)
+[Compatibility](/r/excel/wiki/decronym/excel_functions_categorical#wiki_compatibility)
 |
-[Cube](/r/Excel/wiki/decronyms/excel_functions_categorical#wiki_cube)
+[Cube](/r/excel/wiki/decronym/excel_functions_categorical#wiki_cube)
 |
-[Database](/r/Excel/wiki/decronyms/excel_functions_categorical#wiki_database)
+[Database](/r/excel/wiki/decronym/excel_functions_categorical#wiki_database)
 |
-[Date and time](/r/Excel/wiki/decronyms/excel_functions_categorical#wiki_date_and_time)
+[Date and time](/r/excel/wiki/decronym/excel_functions_categorical#wiki_date_and_time)
 |
-[Engineering](/r/Excel/wiki/decronyms/excel_functions_categorical#wiki_engineering)
+[Engineering](/r/excel/wiki/decronym/excel_functions_categorical#wiki_engineering)
 |
-[Financial](/r/Excel/wiki/decronyms/excel_functions_categorical#wiki_financial)
+[Financial](/r/excel/wiki/decronym/excel_functions_categorical#wiki_financial)
 |
 **Information**
 |
-[Logical](/r/Excel/wiki/decronyms/excel_functions_categorical#wiki_logical)
+[Logical](/r/excel/wiki/decronym/excel_functions_categorical#wiki_logical)
 |
-[Lookup and reference](/r/Excel/wiki/decronyms/excel_functions_categorical#wiki_lookup_and_reference)
+[Lookup and reference](/r/excel/wiki/decronym/excel_functions_categorical#wiki_lookup_and_reference)
 |
-[Math and trigonometry](/r/Excel/wiki/decronyms/excel_functions_categorical#wiki_math_and_trigonometry)
+[Math and trigonometry](/r/excel/wiki/decronym/excel_functions_categorical#wiki_math_and_trigonometry)
 |
-[Statistical](/r/Excel/wiki/decronyms/excel_functions_categorical#wiki_statistical)
+[Statistical](/r/excel/wiki/decronym/excel_functions_categorical#wiki_statistical)
 |
-[Text](/r/Excel/wiki/decronyms/excel_functions_categorical#wiki_text)
+[Text](/r/excel/wiki/decronym/excel_functions_categorical#wiki_text)
 |
-[Web](/r/Excel/wiki/decronyms/excel_functions_categorical#wiki_web)
+[Web](/r/excel/wiki/decronym/excel_functions_categorical#wiki_web)
 |
 
 
@@ -513,33 +513,33 @@
 ### Logical
 ---
 
-[Add-in and Automation](/r/Excel/wiki/decronyms/excel_functions_categorical#wiki_add-in_and_automation)
+[Add-in and Automation](/r/excel/wiki/decronym/excel_functions_categorical#wiki_add-in_and_automation)
 |
-[Compatibility](/r/Excel/wiki/decronyms/excel_functions_categorical#wiki_compatibility)
+[Compatibility](/r/excel/wiki/decronym/excel_functions_categorical#wiki_compatibility)
 |
-[Cube](/r/Excel/wiki/decronyms/excel_functions_categorical#wiki_cube)
+[Cube](/r/excel/wiki/decronym/excel_functions_categorical#wiki_cube)
 |
-[Database](/r/Excel/wiki/decronyms/excel_functions_categorical#wiki_database)
+[Database](/r/excel/wiki/decronym/excel_functions_categorical#wiki_database)
 |
-[Date and time](/r/Excel/wiki/decronyms/excel_functions_categorical#wiki_date_and_time)
+[Date and time](/r/excel/wiki/decronym/excel_functions_categorical#wiki_date_and_time)
 |
-[Engineering](/r/Excel/wiki/decronyms/excel_functions_categorical#wiki_engineering)
+[Engineering](/r/excel/wiki/decronym/excel_functions_categorical#wiki_engineering)
 |
-[Financial](/r/Excel/wiki/decronyms/excel_functions_categorical#wiki_financial)
+[Financial](/r/excel/wiki/decronym/excel_functions_categorical#wiki_financial)
 |
-[Information](/r/Excel/wiki/decronyms/excel_functions_categorical#wiki_information)
+[Information](/r/excel/wiki/decronym/excel_functions_categorical#wiki_information)
 |
 **Logical**
 |
-[Lookup and reference](/r/Excel/wiki/decronyms/excel_functions_categorical#wiki_lookup_and_reference)
+[Lookup and reference](/r/excel/wiki/decronym/excel_functions_categorical#wiki_lookup_and_reference)
 |
-[Math and trigonometry](/r/Excel/wiki/decronyms/excel_functions_categorical#wiki_math_and_trigonometry)
+[Math and trigonometry](/r/excel/wiki/decronym/excel_functions_categorical#wiki_math_and_trigonometry)
 |
-[Statistical](/r/Excel/wiki/decronyms/excel_functions_categorical#wiki_statistical)
+[Statistical](/r/excel/wiki/decronym/excel_functions_categorical#wiki_statistical)
 |
-[Text](/r/Excel/wiki/decronyms/excel_functions_categorical#wiki_text)
+[Text](/r/excel/wiki/decronym/excel_functions_categorical#wiki_text)
 |
-[Web](/r/Excel/wiki/decronyms/excel_functions_categorical#wiki_web)
+[Web](/r/excel/wiki/decronym/excel_functions_categorical#wiki_web)
 |
 
 
@@ -561,33 +561,33 @@
 ### Lookup and reference
 ---
 
-[Add-in and Automation](/r/Excel/wiki/decronyms/excel_functions_categorical#wiki_add-in_and_automation)
+[Add-in and Automation](/r/excel/wiki/decronym/excel_functions_categorical#wiki_add-in_and_automation)
 |
-[Compatibility](/r/Excel/wiki/decronyms/excel_functions_categorical#wiki_compatibility)
+[Compatibility](/r/excel/wiki/decronym/excel_functions_categorical#wiki_compatibility)
 |
-[Cube](/r/Excel/wiki/decronyms/excel_functions_categorical#wiki_cube)
+[Cube](/r/excel/wiki/decronym/excel_functions_categorical#wiki_cube)
 |
-[Database](/r/Excel/wiki/decronyms/excel_functions_categorical#wiki_database)
+[Database](/r/excel/wiki/decronym/excel_functions_categorical#wiki_database)
 |
-[Date and time](/r/Excel/wiki/decronyms/excel_functions_categorical#wiki_date_and_time)
+[Date and time](/r/excel/wiki/decronym/excel_functions_categorical#wiki_date_and_time)
 |
-[Engineering](/r/Excel/wiki/decronyms/excel_functions_categorical#wiki_engineering)
+[Engineering](/r/excel/wiki/decronym/excel_functions_categorical#wiki_engineering)
 |
-[Financial](/r/Excel/wiki/decronyms/excel_functions_categorical#wiki_financial)
+[Financial](/r/excel/wiki/decronym/excel_functions_categorical#wiki_financial)
 |
-[Information](/r/Excel/wiki/decronyms/excel_functions_categorical#wiki_information)
+[Information](/r/excel/wiki/decronym/excel_functions_categorical#wiki_information)
 |
-[Logical](/r/Excel/wiki/decronyms/excel_functions_categorical#wiki_logical)
+[Logical](/r/excel/wiki/decronym/excel_functions_categorical#wiki_logical)
 |
 **Lookup and reference**
 |
-[Math and trigonometry](/r/Excel/wiki/decronyms/excel_functions_categorical#wiki_math_and_trigonometry)
+[Math and trigonometry](/r/excel/wiki/decronym/excel_functions_categorical#wiki_math_and_trigonometry)
 |
-[Statistical](/r/Excel/wiki/decronyms/excel_functions_categorical#wiki_statistical)
+[Statistical](/r/excel/wiki/decronym/excel_functions_categorical#wiki_statistical)
 |
-[Text](/r/Excel/wiki/decronyms/excel_functions_categorical#wiki_text)
+[Text](/r/excel/wiki/decronym/excel_functions_categorical#wiki_text)
 |
-[Web](/r/Excel/wiki/decronyms/excel_functions_categorical#wiki_web)
+[Web](/r/excel/wiki/decronym/excel_functions_categorical#wiki_web)
 |
 
 
@@ -623,33 +623,33 @@
 ### Math and trigonometry
 ---
 
-[Add-in and Automation](/r/Excel/wiki/decronyms/excel_functions_categorical#wiki_add-in_and_automation)
+[Add-in and Automation](/r/excel/wiki/decronym/excel_functions_categorical#wiki_add-in_and_automation)
 |
-[Compatibility](/r/Excel/wiki/decronyms/excel_functions_categorical#wiki_compatibility)
+[Compatibility](/r/excel/wiki/decronym/excel_functions_categorical#wiki_compatibility)
 |
-[Cube](/r/Excel/wiki/decronyms/excel_functions_categorical#wiki_cube)
+[Cube](/r/excel/wiki/decronym/excel_functions_categorical#wiki_cube)
 |
-[Database](/r/Excel/wiki/decronyms/excel_functions_categorical#wiki_database)
+[Database](/r/excel/wiki/decronym/excel_functions_categorical#wiki_database)
 |
-[Date and time](/r/Excel/wiki/decronyms/excel_functions_categorical#wiki_date_and_time)
+[Date and time](/r/excel/wiki/decronym/excel_functions_categorical#wiki_date_and_time)
 |
-[Engineering](/r/Excel/wiki/decronyms/excel_functions_categorical#wiki_engineering)
+[Engineering](/r/excel/wiki/decronym/excel_functions_categorical#wiki_engineering)
 |
-[Financial](/r/Excel/wiki/decronyms/excel_functions_categorical#wiki_financial)
+[Financial](/r/excel/wiki/decronym/excel_functions_categorical#wiki_financial)
 |
-[Information](/r/Excel/wiki/decronyms/excel_functions_categorical#wiki_information)
+[Information](/r/excel/wiki/decronym/excel_functions_categorical#wiki_information)
 |
-[Logical](/r/Excel/wiki/decronyms/excel_functions_categorical#wiki_logical)
+[Logical](/r/excel/wiki/decronym/excel_functions_categorical#wiki_logical)
 |
-[Lookup and reference](/r/Excel/wiki/decronyms/excel_functions_categorical#wiki_lookup_and_reference)
+[Lookup and reference](/r/excel/wiki/decronym/excel_functions_categorical#wiki_lookup_and_reference)
 |
 **Math and trigonometry**
 |
-[Statistical](/r/Excel/wiki/decronyms/excel_functions_categorical#wiki_statistical)
+[Statistical](/r/excel/wiki/decronym/excel_functions_categorical#wiki_statistical)
 |
-[Text](/r/Excel/wiki/decronyms/excel_functions_categorical#wiki_text)
+[Text](/r/excel/wiki/decronym/excel_functions_categorical#wiki_text)
 |
-[Web](/r/Excel/wiki/decronyms/excel_functions_categorical#wiki_web)
+[Web](/r/excel/wiki/decronym/excel_functions_categorical#wiki_web)
 |
 
 
@@ -740,33 +740,33 @@
 ### Statistical
 ---
 
-[Add-in and Automation](/r/Excel/wiki/decronyms/excel_functions_categorical#wiki_add-in_and_automation)
+[Add-in and Automation](/r/excel/wiki/decronym/excel_functions_categorical#wiki_add-in_and_automation)
 |
-[Compatibility](/r/Excel/wiki/decronyms/excel_functions_categorical#wiki_compatibility)
+[Compatibility](/r/excel/wiki/decronym/excel_functions_categorical#wiki_compatibility)
 |
-[Cube](/r/Excel/wiki/decronyms/excel_functions_categorical#wiki_cube)
+[Cube](/r/excel/wiki/decronym/excel_functions_categorical#wiki_cube)
 |
-[Database](/r/Excel/wiki/decronyms/excel_functions_categorical#wiki_database)
+[Database](/r/excel/wiki/decronym/excel_functions_categorical#wiki_database)
 |
-[Date and time](/r/Excel/wiki/decronyms/excel_functions_categorical#wiki_date_and_time)
+[Date and time](/r/excel/wiki/decronym/excel_functions_categorical#wiki_date_and_time)
 |
-[Engineering](/r/Excel/wiki/decronyms/excel_functions_categorical#wiki_engineering)
+[Engineering](/r/excel/wiki/decronym/excel_functions_categorical#wiki_engineering)
 |
-[Financial](/r/Excel/wiki/decronyms/excel_functions_categorical#wiki_financial)
+[Financial](/r/excel/wiki/decronym/excel_functions_categorical#wiki_financial)
 |
-[Information](/r/Excel/wiki/decronyms/excel_functions_categorical#wiki_information)
+[Information](/r/excel/wiki/decronym/excel_functions_categorical#wiki_information)
 |
-[Logical](/r/Excel/wiki/decronyms/excel_functions_categorical#wiki_logical)
+[Logical](/r/excel/wiki/decronym/excel_functions_categorical#wiki_logical)
 |
-[Lookup and reference](/r/Excel/wiki/decronyms/excel_functions_categorical#wiki_lookup_and_reference)
+[Lookup and reference](/r/excel/wiki/decronym/excel_functions_categorical#wiki_lookup_and_reference)
 |
-[Math and trigonometry](/r/Excel/wiki/decronyms/excel_functions_categorical#wiki_math_and_trigonometry)
+[Math and trigonometry](/r/excel/wiki/decronym/excel_functions_categorical#wiki_math_and_trigonometry)
 |
 **Statistical**
 |
-[Text](/r/Excel/wiki/decronyms/excel_functions_categorical#wiki_text)
+[Text](/r/excel/wiki/decronym/excel_functions_categorical#wiki_text)
 |
-[Web](/r/Excel/wiki/decronyms/excel_functions_categorical#wiki_web)
+[Web](/r/excel/wiki/decronym/excel_functions_categorical#wiki_web)
 |
 
 
@@ -889,33 +889,33 @@
 ### Text
 ---
 
-[Add-in and Automation](/r/Excel/wiki/decronyms/excel_functions_categorical#wiki_add-in_and_automation)
+[Add-in and Automation](/r/excel/wiki/decronym/excel_functions_categorical#wiki_add-in_and_automation)
 |
-[Compatibility](/r/Excel/wiki/decronyms/excel_functions_categorical#wiki_compatibility)
+[Compatibility](/r/excel/wiki/decronym/excel_functions_categorical#wiki_compatibility)
 |
-[Cube](/r/Excel/wiki/decronyms/excel_functions_categorical#wiki_cube)
+[Cube](/r/excel/wiki/decronym/excel_functions_categorical#wiki_cube)
 |
-[Database](/r/Excel/wiki/decronyms/excel_functions_categorical#wiki_database)
+[Database](/r/excel/wiki/decronym/excel_functions_categorical#wiki_database)
 |
-[Date and time](/r/Excel/wiki/decronyms/excel_functions_categorical#wiki_date_and_time)
+[Date and time](/r/excel/wiki/decronym/excel_functions_categorical#wiki_date_and_time)
 |
-[Engineering](/r/Excel/wiki/decronyms/excel_functions_categorical#wiki_engineering)
+[Engineering](/r/excel/wiki/decronym/excel_functions_categorical#wiki_engineering)
 |
-[Financial](/r/Excel/wiki/decronyms/excel_functions_categorical#wiki_financial)
+[Financial](/r/excel/wiki/decronym/excel_functions_categorical#wiki_financial)
 |
-[Information](/r/Excel/wiki/decronyms/excel_functions_categorical#wiki_information)
+[Information](/r/excel/wiki/decronym/excel_functions_categorical#wiki_information)
 |
-[Logical](/r/Excel/wiki/decronyms/excel_functions_categorical#wiki_logical)
+[Logical](/r/excel/wiki/decronym/excel_functions_categorical#wiki_logical)
 |
-[Lookup and reference](/r/Excel/wiki/decronyms/excel_functions_categorical#wiki_lookup_and_reference)
+[Lookup and reference](/r/excel/wiki/decronym/excel_functions_categorical#wiki_lookup_and_reference)
 |
-[Math and trigonometry](/r/Excel/wiki/decronyms/excel_functions_categorical#wiki_math_and_trigonometry)
+[Math and trigonometry](/r/excel/wiki/decronym/excel_functions_categorical#wiki_math_and_trigonometry)
 |
-[Statistical](/r/Excel/wiki/decronyms/excel_functions_categorical#wiki_statistical)
+[Statistical](/r/excel/wiki/decronym/excel_functions_categorical#wiki_statistical)
 |
 **Text**
 |
-[Web](/r/Excel/wiki/decronyms/excel_functions_categorical#wiki_web)
+[Web](/r/excel/wiki/decronym/excel_functions_categorical#wiki_web)
 |
 
 
@@ -966,31 +966,31 @@
 ### Web
 ---
 
-[Add-in and Automation](/r/Excel/wiki/decronyms/excel_functions_categorical#wiki_add-in_and_automation)
+[Add-in and Automation](/r/excel/wiki/decronym/excel_functions_categorical#wiki_add-in_and_automation)
 |
-[Compatibility](/r/Excel/wiki/decronyms/excel_functions_categorical#wiki_compatibility)
+[Compatibility](/r/excel/wiki/decronym/excel_functions_categorical#wiki_compatibility)
 |
-[Cube](/r/Excel/wiki/decronyms/excel_functions_categorical#wiki_cube)
+[Cube](/r/excel/wiki/decronym/excel_functions_categorical#wiki_cube)
 |
-[Database](/r/Excel/wiki/decronyms/excel_functions_categorical#wiki_database)
+[Database](/r/excel/wiki/decronym/excel_functions_categorical#wiki_database)
 |
-[Date and time](/r/Excel/wiki/decronyms/excel_functions_categorical#wiki_date_and_time)
+[Date and time](/r/excel/wiki/decronym/excel_functions_categorical#wiki_date_and_time)
 |
-[Engineering](/r/Excel/wiki/decronyms/excel_functions_categorical#wiki_engineering)
+[Engineering](/r/excel/wiki/decronym/excel_functions_categorical#wiki_engineering)
 |
-[Financial](/r/Excel/wiki/decronyms/excel_functions_categorical#wiki_financial)
+[Financial](/r/excel/wiki/decronym/excel_functions_categorical#wiki_financial)
 |
-[Information](/r/Excel/wiki/decronyms/excel_functions_categorical#wiki_information)
+[Information](/r/excel/wiki/decronym/excel_functions_categorical#wiki_information)
 |
-[Logical](/r/Excel/wiki/decronyms/excel_functions_categorical#wiki_logical)
+[Logical](/r/excel/wiki/decronym/excel_functions_categorical#wiki_logical)
 |
-[Lookup and reference](/r/Excel/wiki/decronyms/excel_functions_categorical#wiki_lookup_and_reference)
+[Lookup and reference](/r/excel/wiki/decronym/excel_functions_categorical#wiki_lookup_and_reference)
 |
-[Math and trigonometry](/r/Excel/wiki/decronyms/excel_functions_categorical#wiki_math_and_trigonometry)
+[Math and trigonometry](/r/excel/wiki/decronym/excel_functions_categorical#wiki_math_and_trigonometry)
 |
-[Statistical](/r/Excel/wiki/decronyms/excel_functions_categorical#wiki_statistical)
+[Statistical](/r/excel/wiki/decronym/excel_functions_categorical#wiki_statistical)
 |
-[Text](/r/Excel/wiki/decronyms/excel_functions_categorical#wiki_text)
+[Text](/r/excel/wiki/decronym/excel_functions_categorical#wiki_text)
 |
 **Web**
 |
