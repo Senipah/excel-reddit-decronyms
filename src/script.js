@@ -26,6 +26,11 @@ class FunctionDefinition {
       ? `${this.parentCategory}: ${desc}`
       : desc;
   }
+
+  get decronymName() {
+    const exceptions = ['N', 'T', 'TRUE', 'FALSE'];
+    return exceptions.includes(this.name) ? this.name + '(' : this.name;
+  }
 }
 
 function writeFile(outputFile, outputString) {
@@ -314,7 +319,7 @@ async function getGoogleSheetsFunctions() {
 // eslint-disable-next-line no-unused-vars
 function createDecronyms(data) {
   const decronyms = data.reduce((acc, cur) => {
-    const key = cur.name;
+    const key = cur.decronymName;
     const value = mdLink(cur.decronymDescription, cur.link);
     if (
       Object.prototype.hasOwnProperty.call(acc, key) &&

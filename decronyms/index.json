@@ -491,7 +491,7 @@
   "FACTDOUBLE": [
     "[Returns the double factorial of a number](https://support.microsoft.com/en-us/office/factdouble-function-e67697ac-d214-48eb-b7b7-cce2589ecac8)"
   ],
-  "FALSE": [
+  "FALSE(": [
     "[Returns the logical value FALSE](https://support.microsoft.com/en-us/office/false-function-2d58dfa5-9c03-4259-bf8f-f0ae14346904)"
   ],
   "F.DIST": [
@@ -929,7 +929,7 @@
   "MUNIT": [
     "[Returns the unit matrix or the specified dimension](https://support.microsoft.com/en-us/office/munit-function-c9fe916a-dc26-4105-997d-ba22799853a3)"
   ],
-  "N": [
+  "N(": [
     "[Returns a value converted to a number](https://support.microsoft.com/en-us/office/n-function-a624cad1-3635-4208-b54a-29733d1278c9)"
   ],
   "NA": [
@@ -1301,7 +1301,7 @@
   "SYD": [
     "[Returns the sum-of-years' digits depreciation of an asset for a specified period](https://support.microsoft.com/en-us/office/syd-function-069f8106-b60b-4ca2-98e0-2a0f206bdb27)"
   ],
-  "T": [
+  "T(": [
     "[Converts its arguments to text](https://support.microsoft.com/en-us/office/t-function-fb83aeec-45e7-4924-af95-53e073541228)"
   ],
   "TAN": [
@@ -1367,7 +1367,7 @@
   "TRIMMEAN": [
     "[Returns the mean of the interior of a data set](https://support.microsoft.com/en-us/office/trimmean-function-d90c9878-a119-4746-88fa-63d988f511d3)"
   ],
-  "TRUE": [
+  "TRUE(": [
     "[Returns the logical value TRUE](https://support.microsoft.com/en-us/office/true-function-7652c6e3-8987-48d0-97cd-ef223246b3fb)"
   ],
   "TRUNC": [
