@@ -5,6 +5,7 @@ const fs = require('fs');
 const table = require('markdown-table');
 const Papa = require('papaparse');
 const path = require('path');
+const JSON_PATH = path.join(process.cwd(), 'decronyms', 'index.json');
 
 class FunctionDefinition {
   constructor(parentCategory, category, name, description, link) {
@@ -253,14 +254,12 @@ async function getPowerQueryFunctions() {
   const categoryNodes = categoriesDocument.querySelectorAll(
     'main#main.content ul li a'
   );
-  const categories = Array.from(categoryNodes)
-    .map((e) => {
-      return {
-        category: e.innerHTML,
-        href: PQ_BASE + e.href,
-      };
-    })
-    .slice(1); // slice to remove header row
+  const categories = Array.from(categoryNodes).map((e) => {
+    return {
+      category: e.innerHTML,
+      href: PQ_BASE + e.href,
+    };
+  });
   const funcList = await Promise.all(categories.map((e) => getDOM(e.href)));
   const functionsByCategory = funcList.reduce((acc, cur, idx) => {
     const currentCategory = categories[idx].category;
@@ -318,7 +317,13 @@ async function getGoogleSheetsFunctions() {
 
 // eslint-disable-next-line no-unused-vars
 function createDecronyms(data) {
-  const decronyms = data.reduce((acc, cur) => {
+  console.log(`Found ${Object.keys(decronyms).length} decronyms`);
+  const outputString = JSON.stringify(decronyms, null, 2);
+  writeFile(JSON_PATH, outputString);
+}
+
+function dataToJSONFormat(data) {
+  return data.reduce((acc, cur) => {
     const key = cur.decronymName;
     const value = mdLink(cur.decronymDescription, cur.link);
     if (
@@ -331,10 +336,51 @@ function createDecronyms(data) {
     }
     return acc;
   }, {});
-  console.log(`Found ${Object.keys(decronyms).length} decronyms`);
-  const outputString = JSON.stringify(decronyms, null, 2);
-  const ouputPath = path.join(process.cwd(), 'decronyms', 'index.json');
-  writeFile(ouputPath, outputString);
+}
+
+async function createDiff(newJSON) {
+  const currentData = await fs.promises.readFile(JSON_PATH);
+  const currentJSON = JSON.parse(currentData);
+  const propsInXNotInY = (x, y) => {
+    const result = Object.keys(x).reduce((acc, cur) => {
+      if (!Object.prototype.hasOwnProperty.call(y, cur)) {
+        acc.push([cur, x[cur]]);
+      }
+      return acc;
+    }, []);
+    return result;
+  };
+  const addedData = propsInXNotInY(newJSON, currentJSON);
+  const removedData = propsInXNotInY(currentJSON, newJSON);
+  const headers = ['Name', 'Description'];
+  const timestamp = (() => {
+    const date = new Date();
+    const year = date.getFullYear();
+    const month = `${date.getMonth() + 1}`.padStart(2, '0');
+    const day = `${date.getDate()}`.padStart(2, '0');
+    return `${year}-${month}-${day}`;
+  })();
+  const diffReportElements = [`# Diff report ${timestamp}`];
+  diffReportElements.push(`## ${addedData.length} Additions`);
+  if (addedData.length) {
+    diffReportElements.push(table([headers, ...addedData]));
+  }
+  diffReportElements.push(`## ${removedData.length} Removals`);
+  if (removedData.length) {
+    diffReportElements.push(table([headers, ...removedData]));
+  }
+  const diffReportBody = diffReportElements.join('\n\n');
+  const filename = `diff_report_${timestamp}.md`;
+  const outputPath = path.join(
+    process.cwd(),
+    'wiki_pages',
+    'diff_reports',
+    filename
+  );
+  writeFile(outputPath, diffReportBody);
+  console.log(
+    `${removedData.length + addedData.length} changes since last run`
+  );
 }
 
 (async function main() {
@@ -345,7 +391,9 @@ function createDecronyms(data) {
   // const combined = [...customDefs, ...excelFuncs, ...pqFuncs, ...gsFuncs];
   const combined = [...customDefs, ...excelFuncs, ...pqFuncs];
   // const combined = [...customDefs, ...excelFuncs];
-  createDecronyms(combined);
-  createCSV(combined);
-  createWikiPages(combined);
+  // createCSV(combined);
+  // createWikiPages(combined);
+  const decronymsJSON = dataToJSONFormat(combined);
+  await createDiff(decronymsJSON);
+  // createDecronyms(decronymsJSON);
 })();
