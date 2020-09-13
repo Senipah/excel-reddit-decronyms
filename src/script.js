@@ -316,7 +316,7 @@ async function getGoogleSheetsFunctions() {
 }
 
 // eslint-disable-next-line no-unused-vars
-function createDecronyms(data) {
+function createDecronyms(decronyms) {
   console.log(`Found ${Object.keys(decronyms).length} decronyms`);
   const outputString = JSON.stringify(decronyms, null, 2);
   writeFile(JSON_PATH, outputString);
