@@ -392,8 +392,8 @@ async function createDiff(newJSON) {
   const combined = [...customDefs, ...excelFuncs, ...pqFuncs];
   // const combined = [...customDefs, ...excelFuncs];
   // createCSV(combined);
-  // createWikiPages(combined);
+  createWikiPages(combined);
   const decronymsJSON = dataToJSONFormat(combined);
   await createDiff(decronymsJSON);
-  // createDecronyms(decronymsJSON);
+  createDecronyms(decronymsJSON);
 })();
