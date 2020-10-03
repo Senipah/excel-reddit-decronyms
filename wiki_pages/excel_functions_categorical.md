@@ -5,6 +5,8 @@
 
 **Add-in and Automation**
 |
+[CUSTOM](/r/excel/wiki/decronym/excel_functions_categorical#wiki_custom)
+|
 [Compatibility](/r/excel/wiki/decronym/excel_functions_categorical#wiki_compatibility)
 |
 [Cube](/r/excel/wiki/decronym/excel_functions_categorical#wiki_cube)
@@ -40,10 +42,52 @@
 | [EUROCONVERT](https://support.microsoft.com/en-us/office/euroconvert-function-79c8fd67-c665-450c-bb6c-15fc92f8345c) | Converts a number to euros, converts a number from euros to a euro member currency, or converts a number from one euro member currency to another by using the euro as an intermediary (triangulation). |
 | [REGISTER.ID](https://support.microsoft.com/en-us/office/register-id-function-f8f0af0f-fd66-4704-a0f2-87b27b175b50) | Returns the register ID of the specified dynamic link library (DLL) or code resource that has been previously registered                                                                                |
 
+### CUSTOM
+---
+
+[Add-in and Automation](/r/excel/wiki/decronym/excel_functions_categorical#wiki_add-in_and_automation)
+|
+**CUSTOM**
+|
+[Compatibility](/r/excel/wiki/decronym/excel_functions_categorical#wiki_compatibility)
+|
+[Cube](/r/excel/wiki/decronym/excel_functions_categorical#wiki_cube)
+|
+[Database](/r/excel/wiki/decronym/excel_functions_categorical#wiki_database)
+|
+[Date and time](/r/excel/wiki/decronym/excel_functions_categorical#wiki_date_and_time)
+|
+[Engineering](/r/excel/wiki/decronym/excel_functions_categorical#wiki_engineering)
+|
+[Financial](/r/excel/wiki/decronym/excel_functions_categorical#wiki_financial)
+|
+[Information](/r/excel/wiki/decronym/excel_functions_categorical#wiki_information)
+|
+[Logical](/r/excel/wiki/decronym/excel_functions_categorical#wiki_logical)
+|
+[Lookup and reference](/r/excel/wiki/decronym/excel_functions_categorical#wiki_lookup_and_reference)
+|
+[Math and trigonometry](/r/excel/wiki/decronym/excel_functions_categorical#wiki_math_and_trigonometry)
+|
+[Statistical](/r/excel/wiki/decronym/excel_functions_categorical#wiki_statistical)
+|
+[Text](/r/excel/wiki/decronym/excel_functions_categorical#wiki_text)
+|
+[Web](/r/excel/wiki/decronym/excel_functions_categorical#wiki_web)
+|
+
+
+---
+| Function name                                                                                       | Type and description                                                                                                                                                                                                                                                                                           |
+| --------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [LET](https://support.microsoft.com/en-us/office/let-function-34842dd8-b92b-4d3f-b325-b8b8f9908999) | The LET function assigns names to calculation results. This allows storing intermediate calculations, values, or defining names inside a formula. These names only apply within the scope of the LET function. Similar to variables in programming, LET is accomplished through Excel’s native formula syntax. |
+
 ### Compatibility
 ---
 
 [Add-in and Automation](/r/excel/wiki/decronym/excel_functions_categorical#wiki_add-in_and_automation)
+|
+[CUSTOM](/r/excel/wiki/decronym/excel_functions_categorical#wiki_custom)
 |
 **Compatibility**
 |
@@ -120,6 +164,8 @@
 
 [Add-in and Automation](/r/excel/wiki/decronym/excel_functions_categorical#wiki_add-in_and_automation)
 |
+[CUSTOM](/r/excel/wiki/decronym/excel_functions_categorical#wiki_custom)
+|
 [Compatibility](/r/excel/wiki/decronym/excel_functions_categorical#wiki_compatibility)
 |
 **Cube**
@@ -163,6 +209,8 @@
 ---
 
 [Add-in and Automation](/r/excel/wiki/decronym/excel_functions_categorical#wiki_add-in_and_automation)
+|
+[CUSTOM](/r/excel/wiki/decronym/excel_functions_categorical#wiki_custom)
 |
 [Compatibility](/r/excel/wiki/decronym/excel_functions_categorical#wiki_compatibility)
 |
@@ -212,6 +260,8 @@
 ---
 
 [Add-in and Automation](/r/excel/wiki/decronym/excel_functions_categorical#wiki_add-in_and_automation)
+|
+[CUSTOM](/r/excel/wiki/decronym/excel_functions_categorical#wiki_custom)
 |
 [Compatibility](/r/excel/wiki/decronym/excel_functions_categorical#wiki_compatibility)
 |
@@ -274,6 +324,8 @@
 ---
 
 [Add-in and Automation](/r/excel/wiki/decronym/excel_functions_categorical#wiki_add-in_and_automation)
+|
+[CUSTOM](/r/excel/wiki/decronym/excel_functions_categorical#wiki_custom)
 |
 [Compatibility](/r/excel/wiki/decronym/excel_functions_categorical#wiki_compatibility)
 |
@@ -365,6 +417,8 @@
 ---
 
 [Add-in and Automation](/r/excel/wiki/decronym/excel_functions_categorical#wiki_add-in_and_automation)
+|
+[CUSTOM](/r/excel/wiki/decronym/excel_functions_categorical#wiki_custom)
 |
 [Compatibility](/r/excel/wiki/decronym/excel_functions_categorical#wiki_compatibility)
 |
@@ -458,6 +512,8 @@
 
 [Add-in and Automation](/r/excel/wiki/decronym/excel_functions_categorical#wiki_add-in_and_automation)
 |
+[CUSTOM](/r/excel/wiki/decronym/excel_functions_categorical#wiki_custom)
+|
 [Compatibility](/r/excel/wiki/decronym/excel_functions_categorical#wiki_compatibility)
 |
 [Cube](/r/excel/wiki/decronym/excel_functions_categorical#wiki_cube)
@@ -515,6 +571,8 @@
 
 [Add-in and Automation](/r/excel/wiki/decronym/excel_functions_categorical#wiki_add-in_and_automation)
 |
+[CUSTOM](/r/excel/wiki/decronym/excel_functions_categorical#wiki_custom)
+|
 [Compatibility](/r/excel/wiki/decronym/excel_functions_categorical#wiki_compatibility)
 |
 [Cube](/r/excel/wiki/decronym/excel_functions_categorical#wiki_cube)
@@ -562,6 +620,8 @@
 ---
 
 [Add-in and Automation](/r/excel/wiki/decronym/excel_functions_categorical#wiki_add-in_and_automation)
+|
+[CUSTOM](/r/excel/wiki/decronym/excel_functions_categorical#wiki_custom)
 |
 [Compatibility](/r/excel/wiki/decronym/excel_functions_categorical#wiki_compatibility)
 |
@@ -624,6 +684,8 @@
 ---
 
 [Add-in and Automation](/r/excel/wiki/decronym/excel_functions_categorical#wiki_add-in_and_automation)
+|
+[CUSTOM](/r/excel/wiki/decronym/excel_functions_categorical#wiki_custom)
 |
 [Compatibility](/r/excel/wiki/decronym/excel_functions_categorical#wiki_compatibility)
 |
@@ -741,6 +803,8 @@
 ---
 
 [Add-in and Automation](/r/excel/wiki/decronym/excel_functions_categorical#wiki_add-in_and_automation)
+|
+[CUSTOM](/r/excel/wiki/decronym/excel_functions_categorical#wiki_custom)
 |
 [Compatibility](/r/excel/wiki/decronym/excel_functions_categorical#wiki_compatibility)
 |
@@ -891,6 +955,8 @@
 
 [Add-in and Automation](/r/excel/wiki/decronym/excel_functions_categorical#wiki_add-in_and_automation)
 |
+[CUSTOM](/r/excel/wiki/decronym/excel_functions_categorical#wiki_custom)
+|
 [Compatibility](/r/excel/wiki/decronym/excel_functions_categorical#wiki_compatibility)
 |
 [Cube](/r/excel/wiki/decronym/excel_functions_categorical#wiki_cube)
@@ -967,6 +1033,8 @@
 ---
 
 [Add-in and Automation](/r/excel/wiki/decronym/excel_functions_categorical#wiki_add-in_and_automation)
+|
+[CUSTOM](/r/excel/wiki/decronym/excel_functions_categorical#wiki_custom)
 |
 [Compatibility](/r/excel/wiki/decronym/excel_functions_categorical#wiki_compatibility)
 |

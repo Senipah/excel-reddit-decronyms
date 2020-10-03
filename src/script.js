@@ -5,13 +5,20 @@ const fs = require('fs');
 const table = require('markdown-table');
 const Papa = require('papaparse');
 const path = require('path');
+const { debug } = require('console');
 const JSON_PATH = path.join(process.cwd(), 'decronyms', 'index.json');
 
 class FunctionDefinition {
   constructor(parentCategory, category, name, description, link) {
     const _missingDesc =
       'No Description Provided. Click here to go to the documentation page.';
+    const customExcelFunctions = ['LET'];
     this.parentCategory = parentCategory;
+    if (parentCategory === 'CUSTOM') {
+      if (customExcelFunctions.includes(name)) {
+        this.parentCategory = 'Excel Function';
+      }
+    }
     this.category = category;
     this.name = name;
     this.description = description || _missingDesc;
@@ -186,8 +193,16 @@ async function getCustomDefinitions() {
     header: true, // converts to array of obj with column headers as prop names
   });
   const csvData = parsedCSV.data;
-  const customDefinitions = csvData.map((e) =>
-    Object.assign(new FunctionDefinition(PARENT_CATEGORY, CATEGORY), e)
+  const customDefinitions = csvData.map(
+    (e) =>
+      new FunctionDefinition(
+        PARENT_CATEGORY,
+        CATEGORY,
+        e.name,
+        e.description,
+        e.link
+      )
+    // Object.assign(new FunctionDefinition(PARENT_CATEGORY, CATEGORY), e)
   );
   return customDefinitions;
 }
