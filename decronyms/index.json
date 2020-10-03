@@ -23,6 +23,9 @@
   "ARRAYFORMULA": [
     "[Array formulas are powerful formulas that enable you to perform complex calculations that often can't be done with standard worksheet functions. They are also referred to as \"Ctrl-Shift-Enter\" or \"CSE\" formulas, because you need to press Ctrl+Shift+Enter to enter them.](https://support.office.com/en-gb/article/Create-an-array-formula-e43e12e0-afc6-4a12-bc7f-48361075954d)"
   ],
+  "LET": [
+    "[The LET function assigns names to calculation results. This allows storing intermediate calculations, values, or defining names inside a formula. These names only apply within the scope of the LET function. Similar to variables in programming, LET is accomplished through Excels native formula syntax.](https://support.microsoft.com/en-us/office/let-function-34842dd8-b92b-4d3f-b325-b8b8f9908999)"
+  ],
   "ABS": [
     "[Returns the absolute value of a number](https://support.microsoft.com/en-us/office/abs-function-3420200f-5628-4e8c-99da-c99d7c87713c)"
   ],
@@ -1526,9 +1529,6 @@
   "Cdm.Contents": [
     "[Power Query M: This function is unavailable because it requires .NET 4.5.](https://docs.microsoft.com/en-us/powerquery-m/cdm-contents)"
   ],
-  "Cdpa.Database": [
-    "[Power Query M: Provides access to a CDPA database.](https://docs.microsoft.com/en-us/powerquery-m/cdpa-database)"
-  ],
   "Csv.Document": [
     "[Power Query M: Returns the contents of a CSV document as a table using the specified encoding.](https://docs.microsoft.com/en-us/powerquery-m/csv-document)"
   ],
@@ -2463,6 +2463,9 @@
   "List.Combine": [
     "[Power Query M: Merges a list of lists into single list.](https://docs.microsoft.com/en-us/powerquery-m/list-combine)"
   ],
+  "List.ConformToPageReader": [
+    "[Power Query M: This function is intended for internal use only.](https://docs.microsoft.com/en-us/powerquery-m/list-conformtopagereader)"
+  ],
   "List.RemoveRange": [
     "[Power Query M: Returns a list that removes count items starting at offset. The default count is 1.](https://docs.microsoft.com/en-us/powerquery-m/list-removerange)"
   ],
@@ -3215,6 +3218,9 @@
   ],
   "Table.CombineColumnsToRecord": [
     "[Power Query M: Combines the specified columns into a new record-valued column where each record has field names and values corresponding to the column names and values of the columns that were combined.](https://docs.microsoft.com/en-us/powerquery-m/table-combinecolumnstorecord)"
+  ],
+  "Table.ConformToPageReader": [
+    "[Power Query M: This function is intended for internal use only.](https://docs.microsoft.com/en-us/powerquery-m/table-conformtopagereader)"
   ],
   "Table.ExpandListColumn": [
     "[Power Query M: Given a column of lists in a table, create a copy of a row for each value in its list.](https://docs.microsoft.com/en-us/powerquery-m/table-expandlistcolumn)"
