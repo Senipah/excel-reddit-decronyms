@@ -5,8 +5,6 @@
 
 **Add-in and Automation**
 |
-[CUSTOM](/r/excel/wiki/decronym/excel_functions_categorical#wiki_custom)
-|
 [Compatibility](/r/excel/wiki/decronym/excel_functions_categorical#wiki_compatibility)
 |
 [Cube](/r/excel/wiki/decronym/excel_functions_categorical#wiki_cube)
@@ -42,52 +40,10 @@
 | [EUROCONVERT](https://support.microsoft.com/en-us/office/euroconvert-function-79c8fd67-c665-450c-bb6c-15fc92f8345c) | Converts a number to euros, converts a number from euros to a euro member currency, or converts a number from one euro member currency to another by using the euro as an intermediary (triangulation). |
 | [REGISTER.ID](https://support.microsoft.com/en-us/office/register-id-function-f8f0af0f-fd66-4704-a0f2-87b27b175b50) | Returns the register ID of the specified dynamic link library (DLL) or code resource that has been previously registered                                                                                |
 
-### CUSTOM
----
-
-[Add-in and Automation](/r/excel/wiki/decronym/excel_functions_categorical#wiki_add-in_and_automation)
-|
-**CUSTOM**
-|
-[Compatibility](/r/excel/wiki/decronym/excel_functions_categorical#wiki_compatibility)
-|
-[Cube](/r/excel/wiki/decronym/excel_functions_categorical#wiki_cube)
-|
-[Database](/r/excel/wiki/decronym/excel_functions_categorical#wiki_database)
-|
-[Date and time](/r/excel/wiki/decronym/excel_functions_categorical#wiki_date_and_time)
-|
-[Engineering](/r/excel/wiki/decronym/excel_functions_categorical#wiki_engineering)
-|
-[Financial](/r/excel/wiki/decronym/excel_functions_categorical#wiki_financial)
-|
-[Information](/r/excel/wiki/decronym/excel_functions_categorical#wiki_information)
-|
-[Logical](/r/excel/wiki/decronym/excel_functions_categorical#wiki_logical)
-|
-[Lookup and reference](/r/excel/wiki/decronym/excel_functions_categorical#wiki_lookup_and_reference)
-|
-[Math and trigonometry](/r/excel/wiki/decronym/excel_functions_categorical#wiki_math_and_trigonometry)
-|
-[Statistical](/r/excel/wiki/decronym/excel_functions_categorical#wiki_statistical)
-|
-[Text](/r/excel/wiki/decronym/excel_functions_categorical#wiki_text)
-|
-[Web](/r/excel/wiki/decronym/excel_functions_categorical#wiki_web)
-|
-
-
----
-| Function name                                                                                       | Type and description                                                                                                                                                                                                                                                                                           |
-| --------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [LET](https://support.microsoft.com/en-us/office/let-function-34842dd8-b92b-4d3f-b325-b8b8f9908999) | The LET function assigns names to calculation results. This allows storing intermediate calculations, values, or defining names inside a formula. These names only apply within the scope of the LET function. Similar to variables in programming, LET is accomplished through Excel’s native formula syntax. |
-
 ### Compatibility
 ---
 
 [Add-in and Automation](/r/excel/wiki/decronym/excel_functions_categorical#wiki_add-in_and_automation)
-|
-[CUSTOM](/r/excel/wiki/decronym/excel_functions_categorical#wiki_custom)
 |
 **Compatibility**
 |
@@ -164,8 +120,6 @@
 
 [Add-in and Automation](/r/excel/wiki/decronym/excel_functions_categorical#wiki_add-in_and_automation)
 |
-[CUSTOM](/r/excel/wiki/decronym/excel_functions_categorical#wiki_custom)
-|
 [Compatibility](/r/excel/wiki/decronym/excel_functions_categorical#wiki_compatibility)
 |
 **Cube**
@@ -209,8 +163,6 @@
 ---
 
 [Add-in and Automation](/r/excel/wiki/decronym/excel_functions_categorical#wiki_add-in_and_automation)
-|
-[CUSTOM](/r/excel/wiki/decronym/excel_functions_categorical#wiki_custom)
 |
 [Compatibility](/r/excel/wiki/decronym/excel_functions_categorical#wiki_compatibility)
 |
@@ -260,8 +212,6 @@
 ---
 
 [Add-in and Automation](/r/excel/wiki/decronym/excel_functions_categorical#wiki_add-in_and_automation)
-|
-[CUSTOM](/r/excel/wiki/decronym/excel_functions_categorical#wiki_custom)
 |
 [Compatibility](/r/excel/wiki/decronym/excel_functions_categorical#wiki_compatibility)
 |
@@ -324,8 +274,6 @@
 ---
 
 [Add-in and Automation](/r/excel/wiki/decronym/excel_functions_categorical#wiki_add-in_and_automation)
-|
-[CUSTOM](/r/excel/wiki/decronym/excel_functions_categorical#wiki_custom)
 |
 [Compatibility](/r/excel/wiki/decronym/excel_functions_categorical#wiki_compatibility)
 |
@@ -417,8 +365,6 @@
 ---
 
 [Add-in and Automation](/r/excel/wiki/decronym/excel_functions_categorical#wiki_add-in_and_automation)
-|
-[CUSTOM](/r/excel/wiki/decronym/excel_functions_categorical#wiki_custom)
 |
 [Compatibility](/r/excel/wiki/decronym/excel_functions_categorical#wiki_compatibility)
 |
@@ -512,8 +458,6 @@
 
 [Add-in and Automation](/r/excel/wiki/decronym/excel_functions_categorical#wiki_add-in_and_automation)
 |
-[CUSTOM](/r/excel/wiki/decronym/excel_functions_categorical#wiki_custom)
-|
 [Compatibility](/r/excel/wiki/decronym/excel_functions_categorical#wiki_compatibility)
 |
 [Cube](/r/excel/wiki/decronym/excel_functions_categorical#wiki_cube)
@@ -571,8 +515,6 @@
 
 [Add-in and Automation](/r/excel/wiki/decronym/excel_functions_categorical#wiki_add-in_and_automation)
 |
-[CUSTOM](/r/excel/wiki/decronym/excel_functions_categorical#wiki_custom)
-|
 [Compatibility](/r/excel/wiki/decronym/excel_functions_categorical#wiki_compatibility)
 |
 [Cube](/r/excel/wiki/decronym/excel_functions_categorical#wiki_cube)
@@ -620,8 +562,6 @@
 ---
 
 [Add-in and Automation](/r/excel/wiki/decronym/excel_functions_categorical#wiki_add-in_and_automation)
-|
-[CUSTOM](/r/excel/wiki/decronym/excel_functions_categorical#wiki_custom)
 |
 [Compatibility](/r/excel/wiki/decronym/excel_functions_categorical#wiki_compatibility)
 |
@@ -684,8 +624,6 @@
 ---
 
 [Add-in and Automation](/r/excel/wiki/decronym/excel_functions_categorical#wiki_add-in_and_automation)
-|
-[CUSTOM](/r/excel/wiki/decronym/excel_functions_categorical#wiki_custom)
 |
 [Compatibility](/r/excel/wiki/decronym/excel_functions_categorical#wiki_compatibility)
 |
@@ -803,8 +741,6 @@
 ---
 
 [Add-in and Automation](/r/excel/wiki/decronym/excel_functions_categorical#wiki_add-in_and_automation)
-|
-[CUSTOM](/r/excel/wiki/decronym/excel_functions_categorical#wiki_custom)
 |
 [Compatibility](/r/excel/wiki/decronym/excel_functions_categorical#wiki_compatibility)
 |
@@ -955,8 +891,6 @@
 
 [Add-in and Automation](/r/excel/wiki/decronym/excel_functions_categorical#wiki_add-in_and_automation)
 |
-[CUSTOM](/r/excel/wiki/decronym/excel_functions_categorical#wiki_custom)
-|
 [Compatibility](/r/excel/wiki/decronym/excel_functions_categorical#wiki_compatibility)
 |
 [Cube](/r/excel/wiki/decronym/excel_functions_categorical#wiki_cube)
@@ -986,55 +920,54 @@
 
 
 ---
-| Function name                                                                                                          | Type and description                                                                                                                                                                                                                        |
-| ---------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [ASC](https://support.microsoft.com/en-us/office/asc-function-0b6abf1c-c663-4004-a964-ebc00b723266)                    | Changes full-width (double-byte) English letters or katakana within a character string to half-width (single-byte) characters                                                                                                               |
-| [BAHTTEXT](https://support.microsoft.com/en-us/office/bahttext-function-5ba4d0b4-abd3-4325-8d22-7a92d59aab9c)          | Converts a number to text, using the ß (baht) currency format                                                                                                                                                                               |
-| [CHAR](https://support.microsoft.com/en-us/office/char-function-bbd249c8-b36e-4a91-8017-1c133f9b837a)                  | Returns the character specified by the code number                                                                                                                                                                                          |
-| [CLEAN](https://support.microsoft.com/en-us/office/clean-function-26f3d7c5-475f-4a9c-90e5-4b8ba987ba41)                | Removes all nonprintable characters from text                                                                                                                                                                                               |
-| [CODE](https://support.microsoft.com/en-us/office/code-function-c32b692b-2ed0-4a04-bdd9-75640144b928)                  | Returns a numeric code for the first character in a text string                                                                                                                                                                             |
-| [CONCAT](https://support.microsoft.com/en-us/office/concat-function-9b1a9a3f-94ff-41af-9736-694cbd6b4ca2)              | Combines the text from multiple ranges and/or strings, but it doesn't provide the delimiter or IgnoreEmpty arguments.                                                                                                                       |
-| [CONCATENATE](https://support.microsoft.com/en-us/office/concatenate-function-8f8ae884-2ca8-4f7a-b093-75d702bea31d)    | Joins several text items into one text item                                                                                                                                                                                                 |
-| [DBCS](https://support.microsoft.com/en-us/office/dbcs-function-a4025e73-63d2-4958-9423-21a24794c9e5)                  | Changes half-width (single-byte) English letters or katakana within a character string to full-width (double-byte) characters                                                                                                               |
-| [DOLLAR](https://support.microsoft.com/en-us/office/dollar-function-a6cd05d9-9740-4ad3-a469-8109d18ff611)              | Converts a number to text, using the $ (dollar) currency format                                                                                                                                                                             |
-| [EXACT](https://support.microsoft.com/en-us/office/exact-function-d3087698-fc15-4a15-9631-12575cf29926)                | Checks to see if two text values are identical                                                                                                                                                                                              |
-| [FIND](https://support.microsoft.com/en-us/office/find-findb-functions-c7912941-af2a-4bdf-a553-d0d89b0a0628)           | Finds one text value within another (case-sensitive)                                                                                                                                                                                        |
-| [FINDB](https://support.microsoft.com/en-us/office/find-findb-functions-c7912941-af2a-4bdf-a553-d0d89b0a0628)          | Finds one text value within another (case-sensitive)                                                                                                                                                                                        |
-| [FIXED](https://support.microsoft.com/en-us/office/fixed-function-ffd5723c-324c-45e9-8b96-e41be2a8274a)                | Formats a number as text with a fixed number of decimals                                                                                                                                                                                    |
-| [JIS](https://support.microsoft.com/en-us/office/jis-function-b72fb1a7-ba52-448a-b7d3-d2610868b7e2)                    | Changes half-width (single-byte) characters within a string to full-width (double-byte) characters                                                                                                                                          |
-| [LEFT](https://support.microsoft.com/en-us/office/left-leftb-functions-9203d2d2-7960-479b-84c6-1ea52b99640c)           | Returns the leftmost characters from a text value                                                                                                                                                                                           |
-| [LEFTB](https://support.microsoft.com/en-us/office/left-leftb-functions-9203d2d2-7960-479b-84c6-1ea52b99640c)          | Returns the leftmost characters from a text value                                                                                                                                                                                           |
-| [LEN](https://support.microsoft.com/en-us/office/len-lenb-functions-29236f94-cedc-429d-affd-b5e33d2c67cb)              | Returns the number of characters in a text string                                                                                                                                                                                           |
-| [LENB](https://support.microsoft.com/en-us/office/len-lenb-functions-29236f94-cedc-429d-affd-b5e33d2c67cb)             | Returns the number of characters in a text string                                                                                                                                                                                           |
-| [LOWER](https://support.microsoft.com/en-us/office/lower-function-3f21df02-a80c-44b2-afaf-81358f9fdeb4)                | Converts text to lowercase                                                                                                                                                                                                                  |
-| [MID](https://support.microsoft.com/en-us/office/mid-midb-functions-d5f9e25c-d7d6-472e-b568-4ecb12433028)              | Returns a specific number of characters from a text string starting at the position you specify                                                                                                                                             |
-| [MIDB](https://support.microsoft.com/en-us/office/mid-midb-functions-d5f9e25c-d7d6-472e-b568-4ecb12433028)             | Returns a specific number of characters from a text string starting at the position you specify                                                                                                                                             |
-| [NUMBERVALUE](https://support.microsoft.com/en-us/office/numbervalue-function-1b05c8cf-2bfa-4437-af70-596c7ea7d879)    | Converts text to number in a locale-independent manner                                                                                                                                                                                      |
-| [PHONETIC](https://support.microsoft.com/en-us/office/phonetic-function-9a329dac-0c0f-42f8-9a55-639086988554)          | Extracts the phonetic (furigana) characters from a text string                                                                                                                                                                              |
-| [PROPER](https://support.microsoft.com/en-us/office/proper-function-52a5a283-e8b2-49be-8506-b2887b889f94)              | Capitalizes the first letter in each word of a text value                                                                                                                                                                                   |
-| [REPLACE](https://support.microsoft.com/en-us/office/replace-replaceb-functions-8d799074-2425-4a8a-84bc-82472868878a)  | Replaces characters within text                                                                                                                                                                                                             |
-| [REPLACEB](https://support.microsoft.com/en-us/office/replace-replaceb-functions-8d799074-2425-4a8a-84bc-82472868878a) | Replaces characters within text                                                                                                                                                                                                             |
-| [REPT](https://support.microsoft.com/en-us/office/rept-function-04c4d778-e712-43b4-9c15-d656582bb061)                  | Repeats text a given number of times                                                                                                                                                                                                        |
-| [RIGHT](https://support.microsoft.com/en-us/office/right-rightb-functions-240267ee-9afa-4639-a02b-f19e1786cf2f)        | Returns the rightmost characters from a text value                                                                                                                                                                                          |
-| [RIGHTB](https://support.microsoft.com/en-us/office/right-rightb-functions-240267ee-9afa-4639-a02b-f19e1786cf2f)       | Returns the rightmost characters from a text value                                                                                                                                                                                          |
-| [SEARCH](https://support.microsoft.com/en-us/office/search-searchb-functions-9ab04538-0e55-4719-a72e-b6f54513b495)     | Finds one text value within another (not case-sensitive)                                                                                                                                                                                    |
-| [SEARCHB](https://support.microsoft.com/en-us/office/search-searchb-functions-9ab04538-0e55-4719-a72e-b6f54513b495)    | Finds one text value within another (not case-sensitive)                                                                                                                                                                                    |
-| [SUBSTITUTE](https://support.microsoft.com/en-us/office/substitute-function-6434944e-a904-4336-a9b0-1e58df3bc332)      | Substitutes new text for old text in a text string                                                                                                                                                                                          |
-| [T](https://support.microsoft.com/en-us/office/t-function-fb83aeec-45e7-4924-af95-53e073541228)                        | Converts its arguments to text                                                                                                                                                                                                              |
-| [TEXT](https://support.microsoft.com/en-us/office/text-function-20d5ac4d-7b94-49fd-bb38-93d29371225c)                  | Formats a number and converts it to text                                                                                                                                                                                                    |
-| [TEXTJOIN](https://support.microsoft.com/en-us/office/textjoin-function-357b449a-ec91-49d0-80c3-0e8fc845691c)          | Combines the text from multiple ranges and/or strings, and includes a delimiter you specify between each text value that will be combined. If the delimiter is an empty text string, this function will effectively concatenate the ranges. |
-| [TRIM](https://support.microsoft.com/en-us/office/trim-function-410388fa-c5df-49c6-b16c-9e5630b479f9)                  | Removes spaces from text                                                                                                                                                                                                                    |
-| [UNICHAR](https://support.microsoft.com/en-us/office/unichar-function-ffeb64f5-f131-44c6-b332-5cd72f0659b8)            | Returns the Unicode character that is references by the given numeric value                                                                                                                                                                 |
-| [UNICODE](https://support.microsoft.com/en-us/office/unicode-function-adb74aaa-a2a5-4dde-aff6-966e4e81f16f)            | Returns the number (code point) that corresponds to the first character of the text                                                                                                                                                         |
-| [UPPER](https://support.microsoft.com/en-us/office/upper-function-c11f29b3-d1a3-4537-8df6-04d0049963d6)                | Converts text to uppercase                                                                                                                                                                                                                  |
-| [VALUE](https://support.microsoft.com/en-us/office/value-function-257d0108-07dc-437d-ae1c-bc2d3953d8c2)                | Converts a text argument to a number                                                                                                                                                                                                        |
+| Function name                                                                                                          | Type and description                                                                                                                                                                                                                                                                                           |
+| ---------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [LET](https://support.microsoft.com/en-us/office/let-function-34842dd8-b92b-4d3f-b325-b8b8f9908999)                    | The LET function assigns names to calculation results. This allows storing intermediate calculations, values, or defining names inside a formula. These names only apply within the scope of the LET function. Similar to variables in programming, LET is accomplished through Excel’s native formula syntax. |
+| [ASC](https://support.microsoft.com/en-us/office/asc-function-0b6abf1c-c663-4004-a964-ebc00b723266)                    | Changes full-width (double-byte) English letters or katakana within a character string to half-width (single-byte) characters                                                                                                                                                                                  |
+| [BAHTTEXT](https://support.microsoft.com/en-us/office/bahttext-function-5ba4d0b4-abd3-4325-8d22-7a92d59aab9c)          | Converts a number to text, using the ß (baht) currency format                                                                                                                                                                                                                                                  |
+| [CHAR](https://support.microsoft.com/en-us/office/char-function-bbd249c8-b36e-4a91-8017-1c133f9b837a)                  | Returns the character specified by the code number                                                                                                                                                                                                                                                             |
+| [CLEAN](https://support.microsoft.com/en-us/office/clean-function-26f3d7c5-475f-4a9c-90e5-4b8ba987ba41)                | Removes all nonprintable characters from text                                                                                                                                                                                                                                                                  |
+| [CODE](https://support.microsoft.com/en-us/office/code-function-c32b692b-2ed0-4a04-bdd9-75640144b928)                  | Returns a numeric code for the first character in a text string                                                                                                                                                                                                                                                |
+| [CONCAT](https://support.microsoft.com/en-us/office/concat-function-9b1a9a3f-94ff-41af-9736-694cbd6b4ca2)              | Combines the text from multiple ranges and/or strings, but it doesn't provide the delimiter or IgnoreEmpty arguments.                                                                                                                                                                                          |
+| [CONCATENATE](https://support.microsoft.com/en-us/office/concatenate-function-8f8ae884-2ca8-4f7a-b093-75d702bea31d)    | Joins several text items into one text item                                                                                                                                                                                                                                                                    |
+| [DBCS](https://support.microsoft.com/en-us/office/dbcs-function-a4025e73-63d2-4958-9423-21a24794c9e5)                  | Changes half-width (single-byte) English letters or katakana within a character string to full-width (double-byte) characters                                                                                                                                                                                  |
+| [DOLLAR](https://support.microsoft.com/en-us/office/dollar-function-a6cd05d9-9740-4ad3-a469-8109d18ff611)              | Converts a number to text, using the $ (dollar) currency format                                                                                                                                                                                                                                                |
+| [EXACT](https://support.microsoft.com/en-us/office/exact-function-d3087698-fc15-4a15-9631-12575cf29926)                | Checks to see if two text values are identical                                                                                                                                                                                                                                                                 |
+| [FIND](https://support.microsoft.com/en-us/office/find-findb-functions-c7912941-af2a-4bdf-a553-d0d89b0a0628)           | Finds one text value within another (case-sensitive)                                                                                                                                                                                                                                                           |
+| [FINDB](https://support.microsoft.com/en-us/office/find-findb-functions-c7912941-af2a-4bdf-a553-d0d89b0a0628)          | Finds one text value within another (case-sensitive)                                                                                                                                                                                                                                                           |
+| [FIXED](https://support.microsoft.com/en-us/office/fixed-function-ffd5723c-324c-45e9-8b96-e41be2a8274a)                | Formats a number as text with a fixed number of decimals                                                                                                                                                                                                                                                       |
+| [JIS](https://support.microsoft.com/en-us/office/jis-function-b72fb1a7-ba52-448a-b7d3-d2610868b7e2)                    | Changes half-width (single-byte) characters within a string to full-width (double-byte) characters                                                                                                                                                                                                             |
+| [LEFT](https://support.microsoft.com/en-us/office/left-leftb-functions-9203d2d2-7960-479b-84c6-1ea52b99640c)           | Returns the leftmost characters from a text value                                                                                                                                                                                                                                                              |
+| [LEFTB](https://support.microsoft.com/en-us/office/left-leftb-functions-9203d2d2-7960-479b-84c6-1ea52b99640c)          | Returns the leftmost characters from a text value                                                                                                                                                                                                                                                              |
+| [LEN](https://support.microsoft.com/en-us/office/len-lenb-functions-29236f94-cedc-429d-affd-b5e33d2c67cb)              | Returns the number of characters in a text string                                                                                                                                                                                                                                                              |
+| [LENB](https://support.microsoft.com/en-us/office/len-lenb-functions-29236f94-cedc-429d-affd-b5e33d2c67cb)             | Returns the number of characters in a text string                                                                                                                                                                                                                                                              |
+| [LOWER](https://support.microsoft.com/en-us/office/lower-function-3f21df02-a80c-44b2-afaf-81358f9fdeb4)                | Converts text to lowercase                                                                                                                                                                                                                                                                                     |
+| [MID](https://support.microsoft.com/en-us/office/mid-midb-functions-d5f9e25c-d7d6-472e-b568-4ecb12433028)              | Returns a specific number of characters from a text string starting at the position you specify                                                                                                                                                                                                                |
+| [MIDB](https://support.microsoft.com/en-us/office/mid-midb-functions-d5f9e25c-d7d6-472e-b568-4ecb12433028)             | Returns a specific number of characters from a text string starting at the position you specify                                                                                                                                                                                                                |
+| [NUMBERVALUE](https://support.microsoft.com/en-us/office/numbervalue-function-1b05c8cf-2bfa-4437-af70-596c7ea7d879)    | Converts text to number in a locale-independent manner                                                                                                                                                                                                                                                         |
+| [PHONETIC](https://support.microsoft.com/en-us/office/phonetic-function-9a329dac-0c0f-42f8-9a55-639086988554)          | Extracts the phonetic (furigana) characters from a text string                                                                                                                                                                                                                                                 |
+| [PROPER](https://support.microsoft.com/en-us/office/proper-function-52a5a283-e8b2-49be-8506-b2887b889f94)              | Capitalizes the first letter in each word of a text value                                                                                                                                                                                                                                                      |
+| [REPLACE](https://support.microsoft.com/en-us/office/replace-replaceb-functions-8d799074-2425-4a8a-84bc-82472868878a)  | Replaces characters within text                                                                                                                                                                                                                                                                                |
+| [REPLACEB](https://support.microsoft.com/en-us/office/replace-replaceb-functions-8d799074-2425-4a8a-84bc-82472868878a) | Replaces characters within text                                                                                                                                                                                                                                                                                |
+| [REPT](https://support.microsoft.com/en-us/office/rept-function-04c4d778-e712-43b4-9c15-d656582bb061)                  | Repeats text a given number of times                                                                                                                                                                                                                                                                           |
+| [RIGHT](https://support.microsoft.com/en-us/office/right-rightb-functions-240267ee-9afa-4639-a02b-f19e1786cf2f)        | Returns the rightmost characters from a text value                                                                                                                                                                                                                                                             |
+| [RIGHTB](https://support.microsoft.com/en-us/office/right-rightb-functions-240267ee-9afa-4639-a02b-f19e1786cf2f)       | Returns the rightmost characters from a text value                                                                                                                                                                                                                                                             |
+| [SEARCH](https://support.microsoft.com/en-us/office/search-searchb-functions-9ab04538-0e55-4719-a72e-b6f54513b495)     | Finds one text value within another (not case-sensitive)                                                                                                                                                                                                                                                       |
+| [SEARCHB](https://support.microsoft.com/en-us/office/search-searchb-functions-9ab04538-0e55-4719-a72e-b6f54513b495)    | Finds one text value within another (not case-sensitive)                                                                                                                                                                                                                                                       |
+| [SUBSTITUTE](https://support.microsoft.com/en-us/office/substitute-function-6434944e-a904-4336-a9b0-1e58df3bc332)      | Substitutes new text for old text in a text string                                                                                                                                                                                                                                                             |
+| [T](https://support.microsoft.com/en-us/office/t-function-fb83aeec-45e7-4924-af95-53e073541228)                        | Converts its arguments to text                                                                                                                                                                                                                                                                                 |
+| [TEXT](https://support.microsoft.com/en-us/office/text-function-20d5ac4d-7b94-49fd-bb38-93d29371225c)                  | Formats a number and converts it to text                                                                                                                                                                                                                                                                       |
+| [TEXTJOIN](https://support.microsoft.com/en-us/office/textjoin-function-357b449a-ec91-49d0-80c3-0e8fc845691c)          | Combines the text from multiple ranges and/or strings, and includes a delimiter you specify between each text value that will be combined. If the delimiter is an empty text string, this function will effectively concatenate the ranges.                                                                    |
+| [TRIM](https://support.microsoft.com/en-us/office/trim-function-410388fa-c5df-49c6-b16c-9e5630b479f9)                  | Removes spaces from text                                                                                                                                                                                                                                                                                       |
+| [UNICHAR](https://support.microsoft.com/en-us/office/unichar-function-ffeb64f5-f131-44c6-b332-5cd72f0659b8)            | Returns the Unicode character that is references by the given numeric value                                                                                                                                                                                                                                    |
+| [UNICODE](https://support.microsoft.com/en-us/office/unicode-function-adb74aaa-a2a5-4dde-aff6-966e4e81f16f)            | Returns the number (code point) that corresponds to the first character of the text                                                                                                                                                                                                                            |
+| [UPPER](https://support.microsoft.com/en-us/office/upper-function-c11f29b3-d1a3-4537-8df6-04d0049963d6)                | Converts text to uppercase                                                                                                                                                                                                                                                                                     |
+| [VALUE](https://support.microsoft.com/en-us/office/value-function-257d0108-07dc-437d-ae1c-bc2d3953d8c2)                | Converts a text argument to a number                                                                                                                                                                                                                                                                           |
 
 ### Web
 ---
 
 [Add-in and Automation](/r/excel/wiki/decronym/excel_functions_categorical#wiki_add-in_and_automation)
-|
-[CUSTOM](/r/excel/wiki/decronym/excel_functions_categorical#wiki_custom)
 |
 [Compatibility](/r/excel/wiki/decronym/excel_functions_categorical#wiki_compatibility)
 |

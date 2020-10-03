@@ -5,21 +5,20 @@ const fs = require('fs');
 const table = require('markdown-table');
 const Papa = require('papaparse');
 const path = require('path');
-const { debug } = require('console');
 const JSON_PATH = path.join(process.cwd(), 'decronyms', 'index.json');
 
 class FunctionDefinition {
   constructor(parentCategory, category, name, description, link) {
     const _missingDesc =
       'No Description Provided. Click here to go to the documentation page.';
-    const customExcelFunctions = ['LET'];
     this.parentCategory = parentCategory;
+    this.category = category;
     if (parentCategory === 'CUSTOM') {
-      if (customExcelFunctions.includes(name)) {
+      if (name === 'LET') {
         this.parentCategory = 'Excel Function';
+        this.category = 'Text';
       }
     }
-    this.category = category;
     this.name = name;
     this.description = description || _missingDesc;
     this.link = link;
