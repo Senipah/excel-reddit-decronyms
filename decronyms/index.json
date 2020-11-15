@@ -24,7 +24,8 @@
     "[Array formulas are powerful formulas that enable you to perform complex calculations that often can't be done with standard worksheet functions. They are also referred to as \"Ctrl-Shift-Enter\" or \"CSE\" formulas, because you need to press Ctrl+Shift+Enter to enter them.](https://support.office.com/en-gb/article/Create-an-array-formula-e43e12e0-afc6-4a12-bc7f-48361075954d)"
   ],
   "LET": [
-    "[The LET function assigns names to calculation results. This allows storing intermediate calculations, values, or defining names inside a formula. These names only apply within the scope of the LET function. Similar to variables in programming, LET is accomplished through Excels native formula syntax.](https://support.microsoft.com/en-us/office/let-function-34842dd8-b92b-4d3f-b325-b8b8f9908999)"
+    "[The LET function assigns names to calculation results. This allows storing intermediate calculations, values, or defining names inside a formula. These names only apply within the scope of the LET function. Similar to variables in programming, LET is accomplished through Excels native formula syntax.](https://support.microsoft.com/en-us/office/let-function-34842dd8-b92b-4d3f-b325-b8b8f9908999)",
+    "[Assigns names to calculation results to allow storing intermediate calculations, values, or defining names inside a formula](https://support.microsoft.com/en-us/office/let-function-34842dd8-b92b-4d3f-b325-b8b8f9908999)"
   ],
   "ABS": [
     "[Returns the absolute value of a number](https://support.microsoft.com/en-us/office/abs-function-3420200f-5628-4e8c-99da-c99d7c87713c)"
@@ -67,6 +68,9 @@
   ],
   "AREAS": [
     "[Returns the number of areas in a reference](https://support.microsoft.com/en-us/office/areas-function-8392ba32-7a41-43b3-96b0-3695d2ec6152)"
+  ],
+  "ARRAYTOTEXT": [
+    "[Returns an array of text values from any specified range](https://support.microsoft.com/en-us/office/9cdcad46-2fa5-4c6b-ac92-14e7bc862b8b)"
   ],
   "ASC": [
     "[Changes full-width (double-byte) English letters or katakana within a character string to half-width (single-byte) characters](https://support.microsoft.com/en-us/office/asc-function-0b6abf1c-c663-4004-a964-ebc00b723266)"
@@ -1399,6 +1403,9 @@
   ],
   "VALUE": [
     "[Converts a text argument to a number](https://support.microsoft.com/en-us/office/value-function-257d0108-07dc-437d-ae1c-bc2d3953d8c2)"
+  ],
+  "VALUETOTEXT": [
+    "[Returns text from any specified value](https://support.microsoft.com/en-us/office/5fff61a2-301a-4ab2-9ffa-0a5242a08fea)"
   ],
   "VAR": [
     "[Estimates variance based on a sample](https://support.microsoft.com/en-us/office/var-function-1f2b7ab2-954d-4e17-ba2c-9e58b15a7da2)"
@@ -3597,6 +3604,9 @@
   "Uri.Parts": [
     "[Power Query M: Returns a record value with the fields set to the parts of a Uri text value.](https://docs.microsoft.com/en-us/powerquery-m/uri-parts)"
   ],
+  "Value.Alternate": [
+    "[Power Query M: Expresses alternate query plans.](https://docs.microsoft.com/en-us/powerquery-m/value-alternate)"
+  ],
   "Value.Compare": [
     "[Power Query M: Returns 1, 0, or -1 based on value1 being greater than, equal to, or less than the value2. An optional comparer function can be provided.](https://docs.microsoft.com/en-us/powerquery-m/value-compare)"
   ],
@@ -3671,5 +3681,14 @@
   ],
   "Value.ReplaceMetadata": [
     "[Power Query M: Replaces the metadata on a value with the new metadata record provided and returns the original value with the new metadata attached.](https://docs.microsoft.com/en-us/powerquery-m/value-replacemetadata)"
+  ],
+  "Graph.Nodes": [
+    "[Power Query M: This function is intended for internal use only.](https://docs.microsoft.com/en-us/powerquery-m/graph-nodes)"
+  ],
+  "Value.Lineage": [
+    "[Power Query M: This function is intended for internal use only.](https://docs.microsoft.com/en-us/powerquery-m/value-lineage)"
+  ],
+  "Value.Traits": [
+    "[Power Query M: This function is intended for internal use only.](https://docs.microsoft.com/en-us/powerquery-m/value-traits)"
   ]
 }
