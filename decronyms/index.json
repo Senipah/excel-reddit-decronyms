@@ -27,6 +27,9 @@
     "[The LET function assigns names to calculation results. This allows storing intermediate calculations, values, or defining names inside a formula. These names only apply within the scope of the LET function. Similar to variables in programming, LET is accomplished through Excels native formula syntax.](https://support.microsoft.com/en-us/office/let-function-34842dd8-b92b-4d3f-b325-b8b8f9908999)",
     "[Assigns names to calculation results to allow storing intermediate calculations, values, or defining names inside a formula](https://support.microsoft.com/en-us/office/let-function-34842dd8-b92b-4d3f-b325-b8b8f9908999)"
   ],
+  "LAMBDA": [
+    "[Use a LAMBDA function to create custom, reusable functions and call them by a friendly name.](https://support.microsoft.com/en-us/office/lambda-function-bd212d27-1cd1-4321-a34a-ccbf254b8b67)"
+  ],
   "ABS": [
     "[Returns the absolute value of a number](https://support.microsoft.com/en-us/office/abs-function-3420200f-5628-4e8c-99da-c99d7c87713c)"
   ],
@@ -1639,7 +1642,7 @@
     "[Power Query M: Returns a table containing the results of running the specified CSS selectors against the provided html.](https://docs.microsoft.com/en-us/powerquery-m/html-table)"
   ],
   "Identity.From": [
-    "[Power Query M: Creates an identity.](https://docs.microsoft.com/en-us/powerquery-m/identity.from)"
+    "[Power Query M: Creates an identity.](https://docs.microsoft.com/en-us/powerquery-m/identity-from)"
   ],
   "Identity.IsMemberOf": [
     "[Power Query M: Determines whether an identity is a member of an identity collection.](https://docs.microsoft.com/en-us/powerquery-m/identity-ismemberof)"
@@ -1902,6 +1905,9 @@
   ],
   "Binary.Length": [
     "[Power Query M: Returns the length of binary values.](https://docs.microsoft.com/en-us/powerquery-m/binary-length)"
+  ],
+  "Binary.Range": [
+    "[Power Query M: Returns a subset of the binary value beginning at an offset.](https://docs.microsoft.com/en-us/powerquery-m/binary-range)"
   ],
   "Binary.ToList": [
     "[Power Query M: Converts a binary value into a list of numbers](https://docs.microsoft.com/en-us/powerquery-m/binary-tolist)"

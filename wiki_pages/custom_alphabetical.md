@@ -11,6 +11,8 @@
 |
 [F](/r/excel/wiki/decronym/custom_alphabetical#wiki_f)
 |
+[L](/r/excel/wiki/decronym/custom_alphabetical#wiki_l)
+|
 
 
 ---
@@ -31,6 +33,8 @@
 |
 [F](/r/excel/wiki/decronym/custom_alphabetical#wiki_f)
 |
+[L](/r/excel/wiki/decronym/custom_alphabetical#wiki_l)
+|
 
 
 ---
@@ -48,6 +52,8 @@
 **E**
 |
 [F](/r/excel/wiki/decronym/custom_alphabetical#wiki_f)
+|
+[L](/r/excel/wiki/decronym/custom_alphabetical#wiki_l)
 |
 
 
@@ -67,6 +73,8 @@
 |
 **F**
 |
+[L](/r/excel/wiki/decronym/custom_alphabetical#wiki_l)
+|
 
 
 ---
@@ -75,4 +83,24 @@
 | [FUNCTION_LIST](https://support.office.com/en-us/article/Excel-functions-by-category-5f91f4e9-7b42-46d2-9bd1-63f26a86c0eb)      | Here is a list of Excel functions categorized by their functionality.                                                                                                                                                                     |
 | [FORECASTING](https://support.office.com/en-us/article/Forecasting-functions-897a2fe9-6595-4680-a0b0-93e0308d5f6e)              | Here is a list of Excel forecasting functions. forecasting functions can be used to predict future values based on historical data. These functions use advanced machine learning algorithms, such as Exponential Triple Smoothing (ETS). |
 | [FORMULA_OVERVIEW](https://support.office.com/en-us/article/Overview-of-formulas-in-Excel-ecfdc708-9162-49e8-b993-c311f47ca173) | Click here for an overview of formulas in Excel. Get started on how to create formulas and use built-in functions to perform calculations and solve problems.                                                                             |
+
+### L
+---
+
+[A](/r/excel/wiki/decronym/custom_alphabetical#wiki_a)
+|
+[C](/r/excel/wiki/decronym/custom_alphabetical#wiki_c)
+|
+[E](/r/excel/wiki/decronym/custom_alphabetical#wiki_e)
+|
+[F](/r/excel/wiki/decronym/custom_alphabetical#wiki_f)
+|
+**L**
+|
+
+
+---
+| Function name                                                                                             | Type and description                                                                         |
+| --------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------- |
+| [LAMBDA](https://support.microsoft.com/en-us/office/lambda-function-bd212d27-1cd1-4321-a34a-ccbf254b8b67) | Use a LAMBDA function to create custom, reusable functions and call them by a friendly name. |
 
