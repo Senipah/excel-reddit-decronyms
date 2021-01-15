@@ -14,7 +14,8 @@ class FunctionDefinition {
     this.parentCategory = parentCategory;
     this.category = category;
     if (parentCategory === 'CUSTOM') {
-      if (name === 'LET') {
+      const manualAdditions = ['LET', 'LAMBDA'];
+      if (manualAdditions.includes(name)) {
         this.parentCategory = 'Excel Function';
         this.category = 'Text';
       }
@@ -403,7 +404,7 @@ async function createDiff(newJSON) {
   const pqFuncs = await getPowerQueryFunctions();
   // const gsFuncs = await getGoogleSheetsFunctions();
   // const combined = [...customDefs, ...excelFuncs, ...pqFuncs, ...gsFuncs];
-  const combined = [...customDefs, ...excelFuncs, ...pqFuncs];
+  const combined = [...excelFuncs, ...pqFuncs, ...customDefs];
   // const combined = [...customDefs, ...excelFuncs];
   // createCSV(combined);
   createWikiPages(combined);
