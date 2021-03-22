@@ -250,7 +250,7 @@ async function getExcelFunctions() {
         .querySelector('img')
         ?.alt.replace(' button', '');
       if (availability) {
-        desc += '\n\nAvailable since: ' + availability;
+        desc += ' Available since: ' + availability;
       }
       if (linkText.includes(',')) {
         // linkText contains two or more entries, e.g "MID, MIDB".
