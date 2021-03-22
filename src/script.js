@@ -5,10 +5,18 @@ const fs = require('fs');
 const table = require('markdown-table');
 const Papa = require('papaparse');
 const path = require('path');
+const { Console } = require('console');
 const JSON_PATH = path.join(process.cwd(), 'decronyms', 'index.json');
 
 class FunctionDefinition {
-  constructor(parentCategory, category, name, description, link) {
+  constructor(
+    parentCategory,
+    category,
+    name,
+    description,
+    link,
+    versionDependent
+  ) {
     const _missingDesc =
       'No Description Provided. Click here to go to the documentation page.';
     this.parentCategory = parentCategory;
@@ -23,6 +31,11 @@ class FunctionDefinition {
     this.name = name;
     this.description = description || _missingDesc;
     this.link = link;
+    this.versionDependent = versionDependent || false;
+  }
+
+  get pattern() {
+    return this.name + '(';
   }
 
   get decronymDescription() {
@@ -232,7 +245,13 @@ async function getExcelFunctions() {
       const blurb = e.children[1]
         .querySelector('p')
         .textContent.replace('\n              ', '');
-      const [cat, desc] = blurb.split(/:\s+/, 2);
+      let [cat, desc] = blurb.split(/:\s+/, 2);
+      const availability = e.children[0]
+        .querySelector('img')
+        ?.alt.replace(' button', '');
+      if (availability) {
+        desc += '\n\nAvailable since: ' + availability;
+      }
       if (linkText.includes(',')) {
         // linkText contains two or more entries, e.g "MID, MIDB".
         // return a separate obj for each with same desc and link
@@ -243,7 +262,8 @@ async function getExcelFunctions() {
             cat,
             title,
             desc,
-            EX_BASE + href
+            EX_BASE + href,
+            availability !== undefined
           );
         });
       }
@@ -252,7 +272,8 @@ async function getExcelFunctions() {
         cat,
         linkText,
         desc,
-        EX_BASE + href
+        EX_BASE + href,
+        availability !== undefined
       );
     })
     .flat();
@@ -331,10 +352,10 @@ async function getGoogleSheetsFunctions() {
 }
 
 // eslint-disable-next-line no-unused-vars
-function createDecronyms(decronyms) {
+function createDecronyms(decronyms, outputPath) {
   console.log(`Found ${Object.keys(decronyms).length} decronyms`);
   const outputString = JSON.stringify(decronyms, null, 2);
-  writeFile(JSON_PATH, outputString);
+  writeFile(outputPath, outputString);
 }
 
 function dataToJSONFormat(data) {
@@ -398,6 +419,10 @@ async function createDiff(newJSON) {
   );
 }
 
+function getVersionDependent(defs) {
+  return defs.filter((e) => e.versionDependent === true);
+}
+
 (async function main() {
   const customDefs = await getCustomDefinitions();
   const excelFuncs = await getExcelFunctions();
@@ -409,6 +434,15 @@ async function createDiff(newJSON) {
   // createCSV(combined);
   createWikiPages(combined);
   const decronymsJSON = dataToJSONFormat(combined);
+  const versionDependentExcelFuncs = dataToJSONFormat(
+    getVersionDependent(excelFuncs)
+  );
+  const versionDependentPath = path.join(
+    process.cwd(),
+    'decronyms',
+    'versionDependent.json'
+  );
   await createDiff(decronymsJSON);
-  createDecronyms(decronymsJSON);
+  createDecronyms(decronymsJSON, JSON_PATH);
+  createDecronyms(versionDependentExcelFuncs, versionDependentPath);
 })();

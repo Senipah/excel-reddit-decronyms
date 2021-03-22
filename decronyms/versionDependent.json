@@ -1,0 +1,398 @@
+{
+  "ACOT": [
+    "[Returns the arccotangent of a number\n\nAvailable since: Excel 2013](https://support.microsoft.com/en-us/office/acot-function-dc7e5008-fe6b-402e-bdd6-2eea8383d905)"
+  ],
+  "ACOTH": [
+    "[Returns the hyperbolic arccotangent of a number\n\nAvailable since: Excel 2013](https://support.microsoft.com/en-us/office/acoth-function-cc49480f-f684-4171-9fc5-73e4e852300f)"
+  ],
+  "ARABIC": [
+    "[Converts a Roman number to Arabic, as a number\n\nAvailable since: Excel 2013](https://support.microsoft.com/en-us/office/arabic-function-9a8da418-c17b-4ef9-a657-9370a30a674f)"
+  ],
+  "ARRAYTOTEXT": [
+    "[Returns an array of text values from any specified range\n\nAvailable since: Office 365](https://support.microsoft.com/en-us/office/9cdcad46-2fa5-4c6b-ac92-14e7bc862b8b)"
+  ],
+  "AVERAGEIFS": [
+    "[Returns the average (arithmetic mean) of all cells that meet multiple criteria.\n\nAvailable since: 2019](https://support.microsoft.com/en-us/office/averageifs-function-48910c45-1fc0-4389-a028-f7c5c3001690)"
+  ],
+  "BETA.DIST": [
+    "[Returns the beta cumulative distribution function\n\nAvailable since: Excel 2010](https://support.microsoft.com/en-us/office/beta-dist-function-11188c9c-780a-42c7-ba43-9ecb5a878d31)"
+  ],
+  "BETA.INV": [
+    "[Returns the inverse of the cumulative distribution function for a specified beta distribution\n\nAvailable since: Excel 2010](https://support.microsoft.com/en-us/office/beta-inv-function-e84cb8aa-8df0-4cf6-9892-83a341d252eb)"
+  ],
+  "BINOM.DIST": [
+    "[Returns the individual term binomial distribution probability\n\nAvailable since: Excel 2010](https://support.microsoft.com/en-us/office/binom-dist-function-c5ae37b6-f39c-4be2-94c2-509a1480770c)"
+  ],
+  "BINOM.DIST.RANGE": [
+    "[Returns the probability of a trial result using a binomial distribution\n\nAvailable since: Excel 2013](https://support.microsoft.com/en-us/office/binom-dist-range-function-17331329-74c7-4053-bb4c-6653a7421595)"
+  ],
+  "BINOM.INV": [
+    "[Returns the smallest value for which the cumulative binomial distribution is less than or equal to a criterion value\n\nAvailable since: Excel 2010](https://support.microsoft.com/en-us/office/binom-inv-function-80a0370c-ada6-49b4-83e7-05a91ba77ac9)"
+  ],
+  "BITAND": [
+    "[Returns a 'Bitwise And' of two numbers\n\nAvailable since: Excel 2013](https://support.microsoft.com/en-us/office/bitand-function-8a2be3d7-91c3-4b48-9517-64548008563a)"
+  ],
+  "BITLSHIFT": [
+    "[Returns a value number shifted left by shift_amount bits\n\nAvailable since: Excel 2013](https://support.microsoft.com/en-us/office/bitlshift-function-c55bb27e-cacd-4c7c-b258-d80861a03c9c)"
+  ],
+  "BITOR": [
+    "[Returns a bitwise OR of 2 numbers\n\nAvailable since: Excel 2013](https://support.microsoft.com/en-us/office/bitor-function-f6ead5c8-5b98-4c9e-9053-8ad5234919b2)"
+  ],
+  "BITRSHIFT": [
+    "[Returns a value number shifted right by shift_amount bits\n\nAvailable since: Excel 2013](https://support.microsoft.com/en-us/office/bitrshift-function-274d6996-f42c-4743-abdb-4ff95351222c)"
+  ],
+  "BITXOR": [
+    "[Returns a bitwise 'Exclusive Or' of two numbers\n\nAvailable since: Excel 2013](https://support.microsoft.com/en-us/office/bitxor-function-c81306a1-03f9-4e89-85ac-b86c3cba10e4)"
+  ],
+  "CEILING.MATH": [
+    "[Rounds a number up, to the nearest integer or to the nearest multiple of significance\n\nAvailable since: Excel 2013](https://support.microsoft.com/en-us/office/ceiling-math-function-80f95d2f-b499-4eee-9f16-f795a8e306c8)"
+  ],
+  "CHISQ.DIST": [
+    "[Returns the cumulative beta probability density function\n\nAvailable since: Excel 2010](https://support.microsoft.com/en-us/office/chisq-dist-function-8486b05e-5c05-4942-a9ea-f6b341518732)"
+  ],
+  "CHISQ.DIST.RT": [
+    "[Returns the one-tailed probability of the chi-squared distribution\n\nAvailable since: Excel 2010](https://support.microsoft.com/en-us/office/chisq-dist-rt-function-dc4832e8-ed2b-49ae-8d7c-b28d5804c0f2)"
+  ],
+  "CHISQ.INV": [
+    "[Returns the cumulative beta probability density function\n\nAvailable since: Excel 2010](https://support.microsoft.com/en-us/office/chisq-inv-function-400db556-62b3-472d-80b3-254723e7092f)"
+  ],
+  "CHISQ.INV.RT": [
+    "[Returns the inverse of the one-tailed probability of the chi-squared distribution\n\nAvailable since: Excel 2010](https://support.microsoft.com/en-us/office/chisq-inv-rt-function-435b5ed8-98d5-4da6-823f-293e2cbc94fe)"
+  ],
+  "CHISQ.TEST": [
+    "[Returns the test for independence\n\nAvailable since: Excel 2010](https://support.microsoft.com/en-us/office/chisq-test-function-2e8a7861-b14a-4985-aa93-fb88de3f260f)"
+  ],
+  "COMBINA": [
+    "[Returns the number of combinations with repetitions for a given number of items\n\nAvailable since: Excel 2013](https://support.microsoft.com/en-us/office/combina-function-efb49eaa-4f4c-4cd2-8179-0ddfcf9d035d)"
+  ],
+  "CONCAT": [
+    "[Combines the text from multiple ranges and/or strings, but it doesn't provide the delimiter or IgnoreEmpty arguments.\n\nAvailable since: 2019](https://support.microsoft.com/en-us/office/concat-function-9b1a9a3f-94ff-41af-9736-694cbd6b4ca2)"
+  ],
+  "CONFIDENCE.NORM": [
+    "[Returns the confidence interval for a population mean\n\nAvailable since: Excel 2010](https://support.microsoft.com/en-us/office/confidence-norm-function-7cec58a6-85bb-488d-91c3-63828d4fbfd4)"
+  ],
+  "CONFIDENCE.T": [
+    "[Returns the confidence interval for a population mean, using a Student's t distribution\n\nAvailable since: Excel 2010](https://support.microsoft.com/en-us/office/confidence-t-function-e8eca395-6c3a-4ba9-9003-79ccc61d3c53)"
+  ],
+  "COT": [
+    "[Returns the hyperbolic cosine of a number\n\nAvailable since: Excel 2013](https://support.microsoft.com/en-us/office/cot-function-c446f34d-6fe4-40dc-84f8-cf59e5f5e31a)"
+  ],
+  "COTH": [
+    "[Returns the cotangent of an angle\n\nAvailable since: Excel 2013](https://support.microsoft.com/en-us/office/coth-function-2e0b4cb6-0ba0-403e-aed4-deaa71b49df5)"
+  ],
+  "COUNTIFS": [
+    "[Counts the number of cells within a range that meet multiple criteria\n\nAvailable since: 2019](https://support.microsoft.com/en-us/office/countifs-function-dda3dc6e-f74e-4aee-88bc-aa8c2a866842)"
+  ],
+  "COVARIANCE.P": [
+    "[Returns covariance, the average of the products of paired deviations\n\nAvailable since: Excel 2010](https://support.microsoft.com/en-us/office/covariance-p-function-6f0e1e6d-956d-4e4b-9943-cfef0bf9edfc)"
+  ],
+  "COVARIANCE.S": [
+    "[Returns the sample covariance, the average of the products deviations for each data point pair in two data sets\n\nAvailable since: Excel 2010](https://support.microsoft.com/en-us/office/covariance-s-function-0a539b74-7371-42aa-a18f-1f5320314977)"
+  ],
+  "CSC": [
+    "[Returns the cosecant of an angle\n\nAvailable since: Excel 2013](https://support.microsoft.com/en-us/office/csc-function-07379361-219a-4398-8675-07ddc4f135c1)"
+  ],
+  "CSCH": [
+    "[Returns the hyperbolic cosecant of an angle\n\nAvailable since: Excel 2013](https://support.microsoft.com/en-us/office/csch-function-f58f2c22-eb75-4dd6-84f4-a503527f8eeb)"
+  ],
+  "DAYS": [
+    "[Returns the number of days between two dates\n\nAvailable since: Excel 2013](https://support.microsoft.com/en-us/office/days-function-57740535-d549-4395-8728-0f07bff0b9df)"
+  ],
+  "DBCS": [
+    "[Changes half-width (single-byte) English letters or katakana within a character string to full-width (double-byte) characters\n\nAvailable since: Excel 2013](https://support.microsoft.com/en-us/office/dbcs-function-a4025e73-63d2-4958-9423-21a24794c9e5)"
+  ],
+  "DECIMAL": [
+    "[Converts a text representation of a number in a given base into a decimal number\n\nAvailable since: Excel 2013](https://support.microsoft.com/en-us/office/decimal-function-ee554665-6176-46ef-82de-0a283658da2e)"
+  ],
+  "ENCODEURL": [
+    "[Returns a URL-encoded string\n\nAvailable since: Excel 2013](https://support.microsoft.com/en-us/office/encodeurl-function-07c7fb90-7c60-4bff-8687-fac50fe33d0e)"
+  ],
+  "ERF.PRECISE": [
+    "[Returns the error function\n\nAvailable since: Excel 2010](https://support.microsoft.com/en-us/office/erf-precise-function-9a349593-705c-4278-9a98-e4122831a8e0)"
+  ],
+  "ERFC.PRECISE": [
+    "[Returns the complementary ERF function integrated between x and infinity\n\nAvailable since: Excel 2010](https://support.microsoft.com/en-us/office/erfc-precise-function-e90e6bab-f45e-45df-b2ac-cd2eb4d4a273)"
+  ],
+  "EXPON.DIST": [
+    "[Returns the exponential distribution\n\nAvailable since: Excel 2010](https://support.microsoft.com/en-us/office/expon-dist-function-4c12ae24-e563-4155-bf3e-8b78b6ae140e)"
+  ],
+  "F.DIST": [
+    "[Returns the F probability distribution\n\nAvailable since: Excel 2010](https://support.microsoft.com/en-us/office/f-dist-function-a887efdc-7c8e-46cb-a74a-f884cd29b25d)"
+  ],
+  "F.DIST.RT": [
+    "[Returns the F probability distribution\n\nAvailable since: Excel 2010](https://support.microsoft.com/en-us/office/f-dist-rt-function-d74cbb00-6017-4ac9-b7d7-6049badc0520)"
+  ],
+  "FILTER": [
+    "[Filters a range of data based on criteria you define\n\nAvailable since: Office 365](https://support.microsoft.com/en-us/office/filter-function-f4f7cb66-82eb-4767-8f7c-4877ad80c759)"
+  ],
+  "FILTERXML": [
+    "[Returns specific data from the XML content by using the specified XPath\n\nAvailable since: Excel 2013](https://support.microsoft.com/en-us/office/filterxml-function-4df72efc-11ec-4951-86f5-c1374812f5b7)"
+  ],
+  "F.INV": [
+    "[Returns the inverse of the F probability distribution\n\nAvailable since: Excel 2010](https://support.microsoft.com/en-us/office/f-inv-function-0dda0cf9-4ea0-42fd-8c3c-417a1ff30dbe)"
+  ],
+  "F.INV.RT": [
+    "[Returns the inverse of the F probability distribution\n\nAvailable since: Excel 2010](https://support.microsoft.com/en-us/office/f-inv-rt-function-d371aa8f-b0b1-40ef-9cc2-496f0693ac00)"
+  ],
+  "FLOOR.MATH": [
+    "[Rounds a number down, to the nearest integer or to the nearest multiple of significance\n\nAvailable since: Excel 2013](https://support.microsoft.com/en-us/office/floor-math-function-c302b599-fbdb-4177-ba19-2c2b1249a2f5)"
+  ],
+  "FORECAST.ETS": [
+    "[Returns a future value based on existing (historical) values by using the AAA version of the Exponential Smoothing (ETS) algorithm\n\nAvailable since: Excel 2016](https://support.microsoft.com/en-us/office/forecasting-functions-reference-897a2fe9-6595-4680-a0b0-93e0308d5f6e#_forecast.ets)"
+  ],
+  "FORECAST.ETS.CONFINT": [
+    "[Returns a confidence interval for the forecast value at the specified target date\n\nAvailable since: Excel 2016](https://support.microsoft.com/en-us/office/forecasting-functions-reference-897a2fe9-6595-4680-a0b0-93e0308d5f6e#_forecast.ets.confint)"
+  ],
+  "FORECAST.ETS.SEASONALITY": [
+    "[Returns the length of the repetitive pattern Excel detects for the specified time series\n\nAvailable since: Excel 2016](https://support.microsoft.com/en-us/office/forecasting-functions-reference-897a2fe9-6595-4680-a0b0-93e0308d5f6e#_forecast.ets.seasonality)"
+  ],
+  "FORECAST.ETS.STAT": [
+    "[Returns a statistical value as a result of time series forecasting\n\nAvailable since: Excel 2016](https://support.microsoft.com/en-us/office/forecasting-functions-reference-897a2fe9-6595-4680-a0b0-93e0308d5f6e#_forecast.ets.stat)"
+  ],
+  "FORECAST.LINEAR": [
+    "[Returns a future value based on existing values\n\nAvailable since: Excel 2016](https://support.microsoft.com/en-us/office/forecasting-functions-reference-897a2fe9-6595-4680-a0b0-93e0308d5f6e#_forecast.linear)"
+  ],
+  "FORMULATEXT": [
+    "[Returns the formula at the given reference as text\n\nAvailable since: Excel 2013](https://support.microsoft.com/en-us/office/formulatext-function-0a786771-54fd-4ae2-96ee-09cda35439c8)"
+  ],
+  "F.TEST": [
+    "[Returns the result of an F-test\n\nAvailable since: Excel 2010](https://support.microsoft.com/en-us/office/f-test-function-100a59e7-4108-46f8-8443-78ffacb6c0a7)"
+  ],
+  "GAMMA": [
+    "[Returns the Gamma function value\n\nAvailable since: Excel 2013](https://support.microsoft.com/en-us/office/gamma-function-ce1702b1-cf55-471d-8307-f83be0fc5297)"
+  ],
+  "GAMMA.DIST": [
+    "[Returns the gamma distribution\n\nAvailable since: Excel 2010](https://support.microsoft.com/en-us/office/gamma-dist-function-9b6f1538-d11c-4d5f-8966-21f6a2201def)"
+  ],
+  "GAMMA.INV": [
+    "[Returns the inverse of the gamma cumulative distribution\n\nAvailable since: Excel 2010](https://support.microsoft.com/en-us/office/gamma-inv-function-74991443-c2b0-4be5-aaab-1aa4d71fbb18)"
+  ],
+  "GAMMALN.PRECISE": [
+    "[Returns the natural logarithm of the gamma function, (x)\n\nAvailable since: Excel 2010](https://support.microsoft.com/en-us/office/gammaln-precise-function-5cdfe601-4e1e-4189-9d74-241ef1caa599)"
+  ],
+  "GAUSS": [
+    "[Returns 0.5 less than the standard normal cumulative distribution\n\nAvailable since: Excel 2013](https://support.microsoft.com/en-us/office/gauss-function-069f1b4e-7dee-4d6a-a71f-4b69044a6b33)"
+  ],
+  "IFNA": [
+    "[Returns the value you specify if the expression resolves to #N/A, otherwise returns the result of the expression\n\nAvailable since: Excel 2013](https://support.microsoft.com/en-us/office/ifna-function-6626c961-a569-42fc-a49d-79b4951fd461)"
+  ],
+  "IFS": [
+    "[Checks whether one or more conditions are met and returns a value that corresponds to the first TRUE condition.\n\nAvailable since: 2019](https://support.microsoft.com/en-us/office/ifs-function-36329a26-37b2-467c-972b-4a39bd951d45)"
+  ],
+  "IMCOSH": [
+    "[Returns the hyperbolic cosine of a complex number\n\nAvailable since: Excel 2013](https://support.microsoft.com/en-us/office/imcosh-function-053e4ddb-4122-458b-be9a-457c405e90ff)"
+  ],
+  "IMCOT": [
+    "[Returns the cotangent of a complex number\n\nAvailable since: Excel 2013](https://support.microsoft.com/en-us/office/imcot-function-dc6a3607-d26a-4d06-8b41-8931da36442c)"
+  ],
+  "IMCSC": [
+    "[Returns the cosecant of a complex number\n\nAvailable since: Excel 2013](https://support.microsoft.com/en-us/office/imcsc-function-9e158d8f-2ddf-46cd-9b1d-98e29904a323)"
+  ],
+  "IMCSCH": [
+    "[Returns the hyperbolic cosecant of a complex number\n\nAvailable since: Excel 2013](https://support.microsoft.com/en-us/office/imcsch-function-c0ae4f54-5f09-4fef-8da0-dc33ea2c5ca9)"
+  ],
+  "IMSEC": [
+    "[Returns the secant of a complex number\n\nAvailable since: Excel 2013](https://support.microsoft.com/en-us/office/imsec-function-6df11132-4411-4df4-a3dc-1f17372459e0)"
+  ],
+  "IMSECH": [
+    "[Returns the hyperbolic secant of a complex number\n\nAvailable since: Excel 2013](https://support.microsoft.com/en-us/office/imsech-function-f250304f-788b-4505-954e-eb01fa50903b)"
+  ],
+  "IMSINH": [
+    "[Returns the hyperbolic sine of a complex number\n\nAvailable since: Excel 2013](https://support.microsoft.com/en-us/office/imsinh-function-dfb9ec9e-8783-4985-8c42-b028e9e8da3d)"
+  ],
+  "IMTAN": [
+    "[Returns the tangent of a complex number\n\nAvailable since: Excel 2013](https://support.microsoft.com/en-us/office/imtan-function-8478f45d-610a-43cf-8544-9fc0b553a132)"
+  ],
+  "ISFORMULA": [
+    "[Returns TRUE if there is a reference to a cell that contains a formula\n\nAvailable since: Excel 2013](https://support.microsoft.com/en-us/office/isformula-function-e4d1355f-7121-4ef2-801e-3839bfd6b1e5)"
+  ],
+  "ISO.CEILING": [
+    "[Returns a number that is rounded up to the nearest integer or to the nearest multiple of significance\n\nAvailable since: Excel 2013](https://support.microsoft.com/en-us/office/iso-ceiling-function-e587bb73-6cc2-4113-b664-ff5b09859a83)"
+  ],
+  "ISOWEEKNUM": [
+    "[Returns the number of the ISO week number of the year for a given date\n\nAvailable since: Excel 2013](https://support.microsoft.com/en-us/office/isoweeknum-function-1c2d0afe-d25b-4ab1-8894-8d0520e90e0e)"
+  ],
+  "LET": [
+    "[Assigns names to calculation results to allow storing intermediate calculations, values, or defining names inside a formula\n\nAvailable since: Office 365](https://support.microsoft.com/en-us/office/let-function-34842dd8-b92b-4d3f-b325-b8b8f9908999)"
+  ],
+  "LOGNORM.DIST": [
+    "[Returns the cumulative lognormal distribution\n\nAvailable since: Excel 2010](https://support.microsoft.com/en-us/office/lognorm-dist-function-eb60d00b-48a9-4217-be2b-6074aee6b070)"
+  ],
+  "LOGNORM.INV": [
+    "[Returns the inverse of the lognormal cumulative distribution\n\nAvailable since: Excel 2010](https://support.microsoft.com/en-us/office/lognorm-inv-function-fe79751a-f1f2-4af8-a0a1-e151b2d4f600)"
+  ],
+  "MAXIFS": [
+    "[Returns the maximum value among cells specified by a given set of conditions or criteria\n\nAvailable since: 2019](https://support.microsoft.com/en-us/office/maxifs-function-dfd611e6-da2c-488a-919b-9b6376b28883)"
+  ],
+  "MINIFS": [
+    "[Returns the minimum value among cells specified by a given set of conditions or criteria.\n\nAvailable since: 2019](https://support.microsoft.com/en-us/office/minifs-function-6ca1ddaa-079b-4e74-80cc-72eef32e6599)"
+  ],
+  "MODE.MULT": [
+    "[Returns a vertical array of the most frequently occurring, or repetitive values in an array or range of data\n\nAvailable since: Excel 2010](https://support.microsoft.com/en-us/office/mode-mult-function-50fd9464-b2ba-4191-b57a-39446689ae8c)"
+  ],
+  "MODE.SNGL": [
+    "[Returns the most common value in a data set\n\nAvailable since: Excel 2010](https://support.microsoft.com/en-us/office/mode-sngl-function-f1267c16-66c6-4386-959f-8fba5f8bb7f8)"
+  ],
+  "MUNIT": [
+    "[Returns the unit matrix or the specified dimension\n\nAvailable since: Excel 2013](https://support.microsoft.com/en-us/office/munit-function-c9fe916a-dc26-4105-997d-ba22799853a3)"
+  ],
+  "NEGBINOM.DIST": [
+    "[Returns the negative binomial distribution\n\nAvailable since: Excel 2010](https://support.microsoft.com/en-us/office/negbinom-dist-function-c8239f89-c2d0-45bd-b6af-172e570f8599)"
+  ],
+  "NETWORKDAYS.INTL": [
+    "[Returns the number of whole workdays between two dates using parameters to indicate which and how many days are weekend days\n\nAvailable since: Excel 2010](https://support.microsoft.com/en-us/office/networkdays-intl-function-a9b26239-4f20-46a1-9ab8-4e925bfd5e28)"
+  ],
+  "NORM.DIST": [
+    "[Returns the normal cumulative distribution\n\nAvailable since: Excel 2010](https://support.microsoft.com/en-us/office/norm-dist-function-edb1cc14-a21c-4e53-839d-8082074c9f8d)"
+  ],
+  "NORM.INV": [
+    "[Returns the inverse of the normal cumulative distribution\n\nAvailable since: Excel 2010](https://support.microsoft.com/en-us/office/norm-inv-function-54b30935-fee7-493c-bedb-2278a9db7e13)"
+  ],
+  "NORM.S.DIST": [
+    "[Returns the standard normal cumulative distribution\n\nAvailable since: Excel 2010](https://support.microsoft.com/en-us/office/norm-s-dist-function-1e787282-3832-4520-a9ae-bd2a8d99ba88)"
+  ],
+  "NORM.S.INV": [
+    "[Returns the inverse of the standard normal cumulative distribution\n\nAvailable since: Excel 2010](https://support.microsoft.com/en-us/office/norm-s-inv-function-d6d556b4-ab7f-49cd-b526-5a20918452b1)"
+  ],
+  "NUMBERVALUE": [
+    "[Converts text to number in a locale-independent manner\n\nAvailable since: Excel 2013](https://support.microsoft.com/en-us/office/numbervalue-function-1b05c8cf-2bfa-4437-af70-596c7ea7d879)"
+  ],
+  "PDURATION": [
+    "[Returns the number of periods required by an investment to reach a specified value\n\nAvailable since: Excel 2013](https://support.microsoft.com/en-us/office/pduration-function-44f33460-5be5-4c90-b857-22308892adaf)"
+  ],
+  "PERCENTILE.EXC": [
+    "[Returns the k-th percentile of values in a range, where k is in the range 0..1, exclusive\n\nAvailable since: Excel 2010](https://support.microsoft.com/en-us/office/percentile-exc-function-bbaa7204-e9e1-4010-85bf-c31dc5dce4ba)"
+  ],
+  "PERCENTILE.INC": [
+    "[Returns the k-th percentile of values in a range\n\nAvailable since: Excel 2010](https://support.microsoft.com/en-us/office/percentile-inc-function-680f9539-45eb-410b-9a5e-c1355e5fe2ed)"
+  ],
+  "PERCENTRANK.EXC": [
+    "[Returns the rank of a value in a data set as a percentage (0..1, exclusive) of the data set\n\nAvailable since: Excel 2010](https://support.microsoft.com/en-us/office/percentrank-exc-function-d8afee96-b7e2-4a2f-8c01-8fcdedaa6314)"
+  ],
+  "PERCENTRANK.INC": [
+    "[Returns the percentage rank of a value in a data set\n\nAvailable since: Excel 2010](https://support.microsoft.com/en-us/office/percentrank-inc-function-149592c9-00c0-49ba-86c1-c1f45b80463a)"
+  ],
+  "PERMUTATIONA": [
+    "[Returns the number of permutations for a given number of objects (with repetitions) that can be selected from the total objects\n\nAvailable since: Excel 2013](https://support.microsoft.com/en-us/office/permutationa-function-6c7d7fdc-d657-44e6-aa19-2857b25cae4e)"
+  ],
+  "PHI": [
+    "[Returns the value of the density function for a standard normal distribution\n\nAvailable since: Excel 2013](https://support.microsoft.com/en-us/office/phi-function-23e49bc6-a8e8-402d-98d3-9ded87f6295c)"
+  ],
+  "POISSON.DIST": [
+    "[Returns the Poisson distribution\n\nAvailable since: Excel 2010](https://support.microsoft.com/en-us/office/poisson-dist-function-8fe148ff-39a2-46cb-abf3-7772695d9636)"
+  ],
+  "QUARTILE.EXC": [
+    "[Returns the quartile of the data set, based on percentile values from 0..1, exclusive\n\nAvailable since: Excel 2010](https://support.microsoft.com/en-us/office/quartile-exc-function-5a355b7a-840b-4a01-b0f1-f538c2864cad)"
+  ],
+  "QUARTILE.INC": [
+    "[Returns the quartile of a data set\n\nAvailable since: Excel 2010](https://support.microsoft.com/en-us/office/quartile-inc-function-1bbacc80-5075-42f1-aed6-47d735c4819d)"
+  ],
+  "RANDARRAY": [
+    "[Returns an array of random numbers between 0 and 1. However, you can specify the number of rows and columns to fill, minimum and maximum values, and whether to return whole numbers or decimal values.\n\nAvailable since: Office 365](https://support.microsoft.com/en-us/office/randarray-function-21261e55-3bec-4885-86a6-8b0a47fd4d33)"
+  ],
+  "RANK.AVG": [
+    "[Returns the rank of a number in a list of numbers\n\nAvailable since: Excel 2010](https://support.microsoft.com/en-us/office/rank-avg-function-bd406a6f-eb38-4d73-aa8e-6d1c3c72e83a)"
+  ],
+  "RANK.EQ": [
+    "[Returns the rank of a number in a list of numbers\n\nAvailable since: Excel 2010](https://support.microsoft.com/en-us/office/rank-eq-function-284858ce-8ef6-450e-b662-26245be04a40)"
+  ],
+  "RRI": [
+    "[Returns an equivalent interest rate for the growth of an investment\n\nAvailable since: Excel 2013](https://support.microsoft.com/en-us/office/rri-function-6f5822d8-7ef1-4233-944c-79e8172930f4)"
+  ],
+  "SEC": [
+    "[Returns the secant of an angle\n\nAvailable since: Excel 2013](https://support.microsoft.com/en-us/office/sec-function-ff224717-9c87-4170-9b58-d069ced6d5f7)"
+  ],
+  "SECH": [
+    "[Returns the hyperbolic secant of an angle\n\nAvailable since: Excel 2013](https://support.microsoft.com/en-us/office/sech-function-e05a789f-5ff7-4d7f-984a-5edb9b09556f)"
+  ],
+  "SEQUENCE": [
+    "[Generates a list of sequential numbers in an array, such as 1, 2, 3, 4\n\nAvailable since: Office 365](https://support.microsoft.com/en-us/office/sequence-function-57467a98-57e0-4817-9f14-2eb78519ca90)"
+  ],
+  "SHEET": [
+    "[Returns the sheet number of the referenced sheet\n\nAvailable since: Excel 2013](https://support.microsoft.com/en-us/office/sheet-function-44718b6f-8b87-47a1-a9d6-b701c06cff24)"
+  ],
+  "SHEETS": [
+    "[Returns the number of sheets in a reference\n\nAvailable since: Excel 2013](https://support.microsoft.com/en-us/office/sheets-function-770515eb-e1e8-45ce-8066-b557e5e4b80b)"
+  ],
+  "SKEW.P": [
+    "[Returns the skewness of a distribution based on a population\n\nAvailable since: Excel 2013](https://support.microsoft.com/en-us/office/skew-p-function-76530a5c-99b9-48a1-8392-26632d542fcb)"
+  ],
+  "SORT": [
+    "[Sorts the contents of a range or array\n\nAvailable since: Office 365](https://support.microsoft.com/en-us/office/sort-function-22f63bd0-ccc8-492f-953d-c20e8e44b86c)"
+  ],
+  "SORTBY": [
+    "[Sorts the contents of a range or array based on the values in a corresponding range or array\n\nAvailable since: Office 365](https://support.microsoft.com/en-us/office/sortby-function-cd2d7a62-1b93-435c-b561-d6a35134f28f)"
+  ],
+  "STDEV.P": [
+    "[Calculates standard deviation based on the entire population\n\nAvailable since: Excel 2010](https://support.microsoft.com/en-us/office/stdev-p-function-6e917c05-31a0-496f-ade7-4f4e7462f285)"
+  ],
+  "STDEV.S": [
+    "[Estimates standard deviation based on a sample\n\nAvailable since: Excel 2010](https://support.microsoft.com/en-us/office/stdev-s-function-7d69cf97-0c1f-4acf-be27-f3e83904cc23)"
+  ],
+  "SUMIFS": [
+    "[Adds the cells in a range that meet multiple criteria\n\nAvailable since: 2019](https://support.microsoft.com/en-us/office/sumifs-function-c9e748f5-7ea7-455d-9406-611cebce642b)"
+  ],
+  "SWITCH": [
+    "[Evaluates an expression against a list of values and returns the result corresponding to the first matching value. If there is no match, an optional default value may be returned.\n\nAvailable since: Excel 2016](https://support.microsoft.com/en-us/office/switch-function-47ab33c0-28ce-4530-8a45-d532ec4aa25e)"
+  ],
+  "T.DIST": [
+    "[Returns the Percentage Points (probability) for the Student t-distribution\n\nAvailable since: Excel 2010](https://support.microsoft.com/en-us/office/t-dist-function-4329459f-ae91-48c2-bba8-1ead1c6c21b2)"
+  ],
+  "T.DIST.2T": [
+    "[Returns the Percentage Points (probability) for the Student t-distribution\n\nAvailable since: Excel 2010](https://support.microsoft.com/en-us/office/t-dist-2t-function-198e9340-e360-4230-bd21-f52f22ff5c28)"
+  ],
+  "T.DIST.RT": [
+    "[Returns the Student's t-distribution\n\nAvailable since: Excel 2010](https://support.microsoft.com/en-us/office/t-dist-rt-function-20a30020-86f9-4b35-af1f-7ef6ae683eda)"
+  ],
+  "TEXTJOIN": [
+    "[Combines the text from multiple ranges and/or strings, and includes a delimiter you specify between each text value that will be combined. If the delimiter is an empty text string, this function will effectively concatenate the ranges.\n\nAvailable since: 2019](https://support.microsoft.com/en-us/office/textjoin-function-357b449a-ec91-49d0-80c3-0e8fc845691c)"
+  ],
+  "T.INV": [
+    "[Returns the t-value of the Student's t-distribution as a function of the probability and the degrees of freedom\n\nAvailable since: Excel 2010](https://support.microsoft.com/en-us/office/t-inv-function-2908272b-4e61-4942-9df9-a25fec9b0e2e)"
+  ],
+  "T.INV.2T": [
+    "[Returns the inverse of the Student's t-distribution\n\nAvailable since: Excel 2010](https://support.microsoft.com/en-us/office/t-inv-2t-function-ce72ea19-ec6c-4be7-bed2-b9baf2264f17)"
+  ],
+  "T.TEST": [
+    "[Returns the probability associated with a Student's t-test\n\nAvailable since: Excel 2010](https://support.microsoft.com/en-us/office/t-test-function-d4e08ec3-c545-485f-962e-276f7cbed055)"
+  ],
+  "UNICHAR": [
+    "[Returns the Unicode character that is references by the given numeric value\n\nAvailable since: Excel 2013](https://support.microsoft.com/en-us/office/unichar-function-ffeb64f5-f131-44c6-b332-5cd72f0659b8)"
+  ],
+  "UNICODE": [
+    "[Returns the number (code point) that corresponds to the first character of the text\n\nAvailable since: Excel 2013](https://support.microsoft.com/en-us/office/unicode-function-adb74aaa-a2a5-4dde-aff6-966e4e81f16f)"
+  ],
+  "UNIQUE": [
+    "[Returns a list of unique values in a list or range\n\nAvailable since: Office 365](https://support.microsoft.com/en-us/office/unique-function-c5ab87fd-30a3-4ce9-9d1a-40204fb85e1e)"
+  ],
+  "VALUETOTEXT": [
+    "[Returns text from any specified value\n\nAvailable since: Office 365](https://support.microsoft.com/en-us/office/5fff61a2-301a-4ab2-9ffa-0a5242a08fea)"
+  ],
+  "VAR.P": [
+    "[Calculates variance based on the entire population\n\nAvailable since: Excel 2010](https://support.microsoft.com/en-us/office/var-p-function-73d1285c-108c-4843-ba5d-a51f90656f3a)"
+  ],
+  "VAR.S": [
+    "[Estimates variance based on a sample\n\nAvailable since: Excel 2010](https://support.microsoft.com/en-us/office/var-s-function-913633de-136b-449d-813e-65a00b2b990b)"
+  ],
+  "WEBSERVICE": [
+    "[Returns data from a web service.\n\nAvailable since: Excel 2013](https://support.microsoft.com/en-us/office/webservice-function-0546a35a-ecc6-4739-aed7-c0b7ce1562c4)"
+  ],
+  "WEIBULL.DIST": [
+    "[Returns the Weibull distribution\n\nAvailable since: Excel 2010](https://support.microsoft.com/en-us/office/weibull-dist-function-4e783c39-9325-49be-bbc9-a83ef82b45db)"
+  ],
+  "WORKDAY.INTL": [
+    "[Returns the serial number of the date before or after a specified number of workdays using parameters to indicate which and how many days are weekend days\n\nAvailable since: Excel 2010](https://support.microsoft.com/en-us/office/workday-intl-function-a378391c-9ba7-4678-8a39-39611a9bf81d)"
+  ],
+  "XLOOKUP": [
+    "[Searches a range or an array, and returns an item corresponding to the first match it finds. If a match doesn't exist, then XLOOKUP can return the closest (approximate) match. \n\nAvailable since: Office 365](https://support.microsoft.com/en-us/office/xlookup-function-b7fd680e-6d10-43e6-84f9-88eae8bf5929)"
+  ],
+  "XMATCH": [
+    "[Returns the relative position of an item in an array or range of cells. \n\nAvailable since: Office 365](https://support.microsoft.com/en-us/office/xmatch-function-d966da31-7a6b-4a13-a1c6-5a33ed6a0312)"
+  ],
+  "XOR": [
+    "[Returns a logical exclusive OR of all arguments\n\nAvailable since: Excel 2013](https://support.microsoft.com/en-us/office/xor-function-1548d4c2-5e47-4f77-9a92-0533bba14f37)"
+  ],
+  "Z.TEST": [
+    "[Returns the one-tailed probability-value of a z-test\n\nAvailable since: Excel 2010](https://support.microsoft.com/en-us/office/z-test-function-d633d5a3-2031-4614-a016-92180ad82bee)"
+  ]
+}
