@@ -5,7 +5,6 @@ const fs = require('fs');
 const table = require('markdown-table');
 const Papa = require('papaparse');
 const path = require('path');
-const { Console } = require('console');
 const JSON_PATH = path.join(process.cwd(), 'decronyms', 'index.json');
 
 class FunctionDefinition {
@@ -250,7 +249,7 @@ async function getExcelFunctions() {
         .querySelector('img')
         ?.alt.replace(' button', '');
       if (availability) {
-        desc += ' **Available since**: ' + availability;
+        desc = ` **${availability}+**: ` + desc;
       }
       if (linkText.includes(',')) {
         // linkText contains two or more entries, e.g "MID, MIDB".
