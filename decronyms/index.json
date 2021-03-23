@@ -804,8 +804,7 @@
     "[Returns the number of characters in a text string](https://support.microsoft.com/en-us/office/len-lenb-functions-29236f94-cedc-429d-affd-b5e33d2c67cb)"
   ],
   "LET": [
-    "[*Office 365*+: Assigns names to calculation results to allow storing intermediate calculations, values, or defining names inside a formula](https://support.microsoft.com/en-us/office/let-function-34842dd8-b92b-4d3f-b325-b8b8f9908999)",
-    "[The LET function assigns names to calculation results. This allows storing intermediate calculations, values, or defining names inside a formula. These names only apply within the scope of the LET function. Similar to variables in programming, LET is accomplished through Excels native formula syntax.](https://support.microsoft.com/en-us/office/let-function-34842dd8-b92b-4d3f-b325-b8b8f9908999)"
+    "[*Office 365*+: Assigns names to calculation results to allow storing intermediate calculations, values, or defining names inside a formula](https://support.microsoft.com/en-us/office/let-function-34842dd8-b92b-4d3f-b325-b8b8f9908999)"
   ],
   "LINEST": [
     "[Returns the parameters of a linear trend](https://support.microsoft.com/en-us/office/linest-function-84d7d0d9-6e50-4101-977a-fa7abf772b6d)"
@@ -3710,6 +3709,6 @@
     "[Array formulas are powerful formulas that enable you to perform complex calculations that often can't be done with standard worksheet functions. They are also referred to as \"Ctrl-Shift-Enter\" or \"CSE\" formulas, because you need to press Ctrl+Shift+Enter to enter them.](https://support.office.com/en-gb/article/Create-an-array-formula-e43e12e0-afc6-4a12-bc7f-48361075954d)"
   ],
   "LAMBDA": [
-    "[Use a LAMBDA function to create custom, reusable functions and call them by a friendly name.](https://support.microsoft.com/en-us/office/lambda-function-bd212d27-1cd1-4321-a34a-ccbf254b8b67)"
+    "[*Office 365*+: Use a LAMBDA function to create custom, reusable functions and call them by a friendly name.](https://support.microsoft.com/en-us/office/lambda-function-bd212d27-1cd1-4321-a34a-ccbf254b8b67)"
   ]
 }

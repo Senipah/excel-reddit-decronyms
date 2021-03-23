@@ -394,5 +394,8 @@
   ],
   "Z.TEST": [
     "[*Excel 2010*+: Returns the one-tailed probability-value of a z-test](https://support.microsoft.com/en-us/office/z-test-function-d633d5a3-2031-4614-a016-92180ad82bee)"
+  ],
+  "LAMBDA": [
+    "[*Office 365*+: Use a LAMBDA function to create custom, reusable functions and call them by a friendly name.](https://support.microsoft.com/en-us/office/lambda-function-bd212d27-1cd1-4321-a34a-ccbf254b8b67)"
   ]
 }

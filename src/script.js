@@ -212,7 +212,8 @@ async function getCustomDefinitions() {
         CATEGORY,
         e.name,
         e.description,
-        e.link
+        e.link,
+        e.versionDependent === 'TRUE'
       )
     // Object.assign(new FunctionDefinition(PARENT_CATEGORY, CATEGORY), e)
   );
@@ -434,7 +435,7 @@ function getVersionDependent(defs) {
   createWikiPages(combined);
   const decronymsJSON = dataToJSONFormat(combined);
   const versionDependentExcelFuncs = dataToJSONFormat(
-    getVersionDependent(excelFuncs)
+    getVersionDependent(combined)
   );
   const versionDependentPath = path.join(
     process.cwd(),
