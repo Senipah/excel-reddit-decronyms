@@ -1,0 +1,21 @@
+# Diff report 2021-07-27
+
+## 9 Additions
+
+| Name                      | Description                                                                                                                                                                                                                                                                                                        |
+| ------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| Table.ApproximateRowCount | [Power Query M: Returns the approximate number of rows in the table.](https://docs.microsoft.com/en-us/powerquery-m/table-approximaterowcount)                                                                                                                                                                     |
+| Table.SplitAt             | [Power Query M: Returns a list containing the first count rows specified and the remaining rows.](https://docs.microsoft.com/en-us/powerquery-m/table-splitat)                                                                                                                                                     |
+| MAP                       | [*Office 365*+: Returns an array formed by mapping each value in the array(s) to a new value by applying a LAMBDA to create a new value.](https://support.microsoft.com/en-gb/office/map-function-48006093-f97c-47c1-bfcc-749263bb1f01?ui=en-US&rs=en-GB&ad=GB)                                                    |
+| REDUCE                    | [*Office 365*+: Reduces an array to an accumulated value by applying a LAMBDA to each value and returning the total value in the accumulator.](https://support.microsoft.com/en-gb/office/reduce-function-42e39910-b345-45f3-84b8-0642b568b7cb?ui=en-US&rs=en-GB&ad=GB)                                            |
+| SCAN                      | [*Office 365*+: Scans an array by applying a LAMBDA  to each value and returns an array that has each intermediate value.](https://support.microsoft.com/en-gb/office/scan-function-d58dfd11-9969-4439-b2dc-e7062724de29?ui=en-US&rs=en-GB&ad=GB)                                                                  |
+| MAKEARRAY                 | [*Office 365*+: Returns a calculated array of a specified row and column size, by applying a  LAMBDA](https://support.microsoft.com/en-gb/office/makearray-function-b80da5ad-b338-4149-a523-5b221da09097?ui=en-US&rs=en-GB&ad=GB)                                                                                  |
+| BYROW                     | [*Office 365*+: Applies a LAMBDA to each row and returns an array of the results. For example, if the original array is 3 columns by 2 rows, the returned array is 1 column by 2 rows.  ](https://support.microsoft.com/en-gb/office/byrow-function-2e04c677-78c8-4e6b-8c10-a4602f2602bb?ui=en-US&rs=en-GB&ad=GB)  |
+| BYCOL                     | [*Office 365*+: Applies a LAMBDA to each column and returns an array of the results. For example, if the original array is 3 columns by 2 rows, the returned array is 3 columns by 1 row.](https://support.microsoft.com/en-gb/office/bycol-function-58463999-7de5-49ce-8f38-b7f7a2192bfb?ui=en-US&rs=en-GB&ad=GB) |
+| ISOMITTED                 | [*Office 365*+: Checks whether the value in a LAMBDA is missing and returns TRUE or FALSE.](https://support.microsoft.com/en-gb/office/isomitted-function-831d6fbc-0f07-40c4-9c5b-9c73fd1d60c1?ui=en-US&rs=en-GB&ad=GB)                                                                                            |
+
+## 1 Removals
+
+| Name             | Description                                                                                                                               |
+| ---------------- | ----------------------------------------------------------------------------------------------------------------------------------------- |
+| Parquet.Document | [Power Query M: Returns the contents of the Parquet document as a table.](https://docs.microsoft.com/en-us/powerquery-m/parquet-document) |
