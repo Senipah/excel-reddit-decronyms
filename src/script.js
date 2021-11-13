@@ -233,7 +233,8 @@ async function getExcelFunctions() {
     '/en-us/office/excel-functions-alphabetical-b3944572-255d-4efb-bb96-c6d90033e188';
   const excelFuncsURL = EX_BASE + FUNC_URL_FRAGEMENT;
   const excelFuncsDocument = await getDOM(excelFuncsURL);
-  const dataTable = excelFuncsDocument.querySelector('#tblID0EBDAAA');
+  const dataTable = excelFuncsDocument.querySelector('.ocpArticleContent > .ocpIntroduction > table.banded');
+
   const rows = dataTable.querySelectorAll('tbody>tr');
   const rowArray = Array.from(rows);
   const excelFunctions = rowArray
