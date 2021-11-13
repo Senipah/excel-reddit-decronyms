@@ -9,7 +9,7 @@
     "[*Excel 2013*+: Converts a Roman number to Arabic, as a number](https://support.microsoft.com/en-us/office/arabic-function-9a8da418-c17b-4ef9-a657-9370a30a674f)"
   ],
   "ARRAYTOTEXT": [
-    "[*Office 365*+: Returns an array of text values from any specified range](https://support.microsoft.com/en-us/office/9cdcad46-2fa5-4c6b-ac92-14e7bc862b8b)"
+    "[*Office 365*+: Returns an array of text values from any specified range](https://support.microsoft.com/en-us/office/arraytotext-function-9cdcad46-2fa5-4c6b-ac92-14e7bc862b8b)"
   ],
   "BETA.DIST": [
     "[*Excel 2010*+: Returns the beta cumulative distribution function](https://support.microsoft.com/en-us/office/beta-dist-function-11188c9c-780a-42c7-ba43-9ecb5a878d31)"
@@ -132,19 +132,19 @@
     "[*Excel 2013*+: Rounds a number down, to the nearest integer or to the nearest multiple of significance](https://support.microsoft.com/en-us/office/floor-math-function-c302b599-fbdb-4177-ba19-2c2b1249a2f5)"
   ],
   "FORECAST.ETS": [
-    "[*Excel 2016*+: Returns a future value based on existing (historical) values by using the AAA version of the Exponential Smoothing (ETS) algorithm](https://support.microsoft.com/en-us/office/forecasting-functions-reference-897a2fe9-6595-4680-a0b0-93e0308d5f6e#_forecast.ets)"
+    "[*Excel 2016*+: Returns a future value based on existing (historical) values by using the AAA version of the Exponential Smoothing (ETS) algorithm](https://support.microsoft.com/en-us/office/forecasting-functions-reference-897a2fe9-6595-4680-a0b0-93e0308d5f6e#_FORECAST.ETS)"
   ],
   "FORECAST.ETS.CONFINT": [
-    "[*Excel 2016*+: Returns a confidence interval for the forecast value at the specified target date](https://support.microsoft.com/en-us/office/forecasting-functions-reference-897a2fe9-6595-4680-a0b0-93e0308d5f6e#_forecast.ets.confint)"
+    "[*Excel 2016*+: Returns a confidence interval for the forecast value at the specified target date](https://support.microsoft.com/en-us/office/forecasting-functions-reference-897a2fe9-6595-4680-a0b0-93e0308d5f6e#_FORECAST.ETS.CONFINT)"
   ],
   "FORECAST.ETS.SEASONALITY": [
-    "[*Excel 2016*+: Returns the length of the repetitive pattern Excel detects for the specified time series](https://support.microsoft.com/en-us/office/forecasting-functions-reference-897a2fe9-6595-4680-a0b0-93e0308d5f6e#_forecast.ets.seasonality)"
+    "[*Excel 2016*+: Returns the length of the repetitive pattern Excel detects for the specified time series](https://support.microsoft.com/en-us/office/forecasting-functions-reference-897a2fe9-6595-4680-a0b0-93e0308d5f6e#_FORECAST.ETS.SEASONALITY)"
   ],
   "FORECAST.ETS.STAT": [
-    "[*Excel 2016*+: Returns a statistical value as a result of time series forecasting](https://support.microsoft.com/en-us/office/forecasting-functions-reference-897a2fe9-6595-4680-a0b0-93e0308d5f6e#_forecast.ets.stat)"
+    "[*Excel 2016*+: Returns a statistical value as a result of time series forecasting](https://support.microsoft.com/en-us/office/forecasting-functions-reference-897a2fe9-6595-4680-a0b0-93e0308d5f6e#_FORECAST.ETS.STAT)"
   ],
   "FORECAST.LINEAR": [
-    "[*Excel 2016*+: Returns a future value based on existing values](https://support.microsoft.com/en-us/office/forecasting-functions-reference-897a2fe9-6595-4680-a0b0-93e0308d5f6e#_forecast.linear)"
+    "[*Excel 2016*+: Returns a future value based on existing values](https://support.microsoft.com/en-us/office/forecasting-functions-reference-897a2fe9-6595-4680-a0b0-93e0308d5f6e#_FORECAST.LINEAR)"
   ],
   "FORMULATEXT": [
     "[*Excel 2013*+: Returns the formula at the given reference as text](https://support.microsoft.com/en-us/office/formulatext-function-0a786771-54fd-4ae2-96ee-09cda35439c8)"
@@ -357,7 +357,7 @@
     "[*Office 365*+: Returns a list of unique values in a list or range](https://support.microsoft.com/en-us/office/unique-function-c5ab87fd-30a3-4ce9-9d1a-40204fb85e1e)"
   ],
   "VALUETOTEXT": [
-    "[*Office 365*+: Returns text from any specified value](https://support.microsoft.com/en-us/office/5fff61a2-301a-4ab2-9ffa-0a5242a08fea)"
+    "[*Office 365*+: Returns text from any specified value](https://support.microsoft.com/en-us/office/valuetotext-function-5fff61a2-301a-4ab2-9ffa-0a5242a08fea)"
   ],
   "VAR.P": [
     "[*Excel 2010*+: Calculates variance based on the entire population](https://support.microsoft.com/en-us/office/var-p-function-73d1285c-108c-4843-ba5d-a51f90656f3a)"

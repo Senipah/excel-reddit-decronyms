@@ -42,7 +42,7 @@
     "[Returns the number of areas in a reference](https://support.microsoft.com/en-us/office/areas-function-8392ba32-7a41-43b3-96b0-3695d2ec6152)"
   ],
   "ARRAYTOTEXT": [
-    "[*Office 365*+: Returns an array of text values from any specified range](https://support.microsoft.com/en-us/office/9cdcad46-2fa5-4c6b-ac92-14e7bc862b8b)"
+    "[*Office 365*+: Returns an array of text values from any specified range](https://support.microsoft.com/en-us/office/arraytotext-function-9cdcad46-2fa5-4c6b-ac92-14e7bc862b8b)"
   ],
   "ASC": [
     "[Changes full-width (double-byte) English letters or katakana within a character string to half-width (single-byte) characters](https://support.microsoft.com/en-us/office/asc-function-0b6abf1c-c663-4004-a964-ebc00b723266)"
@@ -525,19 +525,19 @@
     "[Returns a value along a linear trend](https://support.microsoft.com/en-us/office/forecast-and-forecast-linear-functions-50ca49c9-7b40-4892-94e4-7ad38bbeda99)"
   ],
   "FORECAST.ETS": [
-    "[*Excel 2016*+: Returns a future value based on existing (historical) values by using the AAA version of the Exponential Smoothing (ETS) algorithm](https://support.microsoft.com/en-us/office/forecasting-functions-reference-897a2fe9-6595-4680-a0b0-93e0308d5f6e#_forecast.ets)"
+    "[*Excel 2016*+: Returns a future value based on existing (historical) values by using the AAA version of the Exponential Smoothing (ETS) algorithm](https://support.microsoft.com/en-us/office/forecasting-functions-reference-897a2fe9-6595-4680-a0b0-93e0308d5f6e#_FORECAST.ETS)"
   ],
   "FORECAST.ETS.CONFINT": [
-    "[*Excel 2016*+: Returns a confidence interval for the forecast value at the specified target date](https://support.microsoft.com/en-us/office/forecasting-functions-reference-897a2fe9-6595-4680-a0b0-93e0308d5f6e#_forecast.ets.confint)"
+    "[*Excel 2016*+: Returns a confidence interval for the forecast value at the specified target date](https://support.microsoft.com/en-us/office/forecasting-functions-reference-897a2fe9-6595-4680-a0b0-93e0308d5f6e#_FORECAST.ETS.CONFINT)"
   ],
   "FORECAST.ETS.SEASONALITY": [
-    "[*Excel 2016*+: Returns the length of the repetitive pattern Excel detects for the specified time series](https://support.microsoft.com/en-us/office/forecasting-functions-reference-897a2fe9-6595-4680-a0b0-93e0308d5f6e#_forecast.ets.seasonality)"
+    "[*Excel 2016*+: Returns the length of the repetitive pattern Excel detects for the specified time series](https://support.microsoft.com/en-us/office/forecasting-functions-reference-897a2fe9-6595-4680-a0b0-93e0308d5f6e#_FORECAST.ETS.SEASONALITY)"
   ],
   "FORECAST.ETS.STAT": [
-    "[*Excel 2016*+: Returns a statistical value as a result of time series forecasting](https://support.microsoft.com/en-us/office/forecasting-functions-reference-897a2fe9-6595-4680-a0b0-93e0308d5f6e#_forecast.ets.stat)"
+    "[*Excel 2016*+: Returns a statistical value as a result of time series forecasting](https://support.microsoft.com/en-us/office/forecasting-functions-reference-897a2fe9-6595-4680-a0b0-93e0308d5f6e#_FORECAST.ETS.STAT)"
   ],
   "FORECAST.LINEAR": [
-    "[*Excel 2016*+: Returns a future value based on existing values](https://support.microsoft.com/en-us/office/forecasting-functions-reference-897a2fe9-6595-4680-a0b0-93e0308d5f6e#_forecast.linear)"
+    "[*Excel 2016*+: Returns a future value based on existing values](https://support.microsoft.com/en-us/office/forecasting-functions-reference-897a2fe9-6595-4680-a0b0-93e0308d5f6e#_FORECAST.LINEAR)"
   ],
   "FORMULATEXT": [
     "[*Excel 2013*+: Returns the formula at the given reference as text](https://support.microsoft.com/en-us/office/formulatext-function-0a786771-54fd-4ae2-96ee-09cda35439c8)"
@@ -1380,7 +1380,7 @@
     "[Converts a text argument to a number](https://support.microsoft.com/en-us/office/value-function-257d0108-07dc-437d-ae1c-bc2d3953d8c2)"
   ],
   "VALUETOTEXT": [
-    "[*Office 365*+: Returns text from any specified value](https://support.microsoft.com/en-us/office/5fff61a2-301a-4ab2-9ffa-0a5242a08fea)"
+    "[*Office 365*+: Returns text from any specified value](https://support.microsoft.com/en-us/office/valuetotext-function-5fff61a2-301a-4ab2-9ffa-0a5242a08fea)"
   ],
   "VAR": [
     "[Estimates variance based on a sample](https://support.microsoft.com/en-us/office/var-function-1f2b7ab2-954d-4e17-ba2c-9e58b15a7da2)"
@@ -1631,6 +1631,21 @@
   "Json.FromValue": [
     "[Power Query M: Produces a JSON representation of a given value value with a text encoding specified by encoding.](https://docs.microsoft.com/en-us/powerquery-m/json-fromvalue)",
     "[Power Query M: Produces a JSON representation of a given value.](https://docs.microsoft.com/en-us/powerquery-m/json-fromvalue)"
+  ],
+  "LimitClauseKind.AnsiSql2008": [
+    "[Power Query M: This SQL dialect supports an ANSI SQL-compatible LIMIT N ROWS specifier to limit the number of rows returned.](https://docs.microsoft.com/en-us/powerquery-m/limitclausekind-ansisql2008)"
+  ],
+  "LimitClauseKind.Limit": [
+    "[Power Query M: This SQL dialect supports a LIMIT specifier to limit the number of rows returned.](https://docs.microsoft.com/en-us/powerquery-m/limitclausekind-limit)"
+  ],
+  "LimitClauseKind.LimitOffset": [
+    "[Power Query M: This SQL dialect supports LIMIT and OFFSET specifiers to limit the number of rows returned.](https://docs.microsoft.com/en-us/powerquery-m/limitclausekind-limitoffset)"
+  ],
+  "LimitClauseKind.None": [
+    "[Power Query M: This SQL dialect does not support a limit clause.](https://docs.microsoft.com/en-us/powerquery-m/limitclausekind-none)"
+  ],
+  "LimitClauseKind.Top": [
+    "[Power Query M: This SQL dialect supports a TOP specifier to limit the number of rows returned.](https://docs.microsoft.com/en-us/powerquery-m/limitclausekind-top)"
   ],
   "MySQL.Database": [
     "[Power Query M: Returns a table with data relating to the tables in the specified MySQL Database.](https://docs.microsoft.com/en-us/powerquery-m/mysql-database)"
@@ -2285,6 +2300,9 @@
   ],
   "DateTimeZone.ZoneMinutes": [
     "[Power Query M: Returns a time zone minute value from a DateTime value.](https://docs.microsoft.com/en-us/powerquery-m/datetimezone-zoneminutes)"
+  ],
+  "TimeZone.Current": [
+    "[Power Query M: Returns the name of the current time zone for the application.](https://docs.microsoft.com/en-us/powerquery-m/timezone-current)"
   ],
   "#datetimezone": [
     "[Power Query M: Creates a datetimezone value from year, month, day, hour, minute, second, offset-hours, and offset-minutes.](https://docs.microsoft.com/en-us/powerquery-m/sharpdatetimezone)"
@@ -3157,10 +3175,10 @@
     "[Power Query M: An optional parameter in record and table functions indicating that missing fields should be included as null values.](https://docs.microsoft.com/en-us/powerquery-m/missingfield-usenull)"
   ],
   "GroupKind.Global": [
-    "[Power Query M: GroupKind.Global](https://docs.microsoft.com/en-us/powerquery-m/groupkind-global)"
+    "[Power Query M: A global group is formed from all rows in an input table with the same key value.](https://docs.microsoft.com/en-us/powerquery-m/groupkind-global)"
   ],
   "GroupKind.Local": [
-    "[Power Query M: GroupKind.Local](https://docs.microsoft.com/en-us/powerquery-m/groupkind-local)"
+    "[Power Query M: A local group is formed from a consecutive sequence of rows from an input table with the same key value.](https://docs.microsoft.com/en-us/powerquery-m/groupkind-local)"
   ],
   "ExtraValues.List": [
     "[Power Query M: If the splitter function returns more columns than the table expects, they should be collected into a list.](https://docs.microsoft.com/en-us/powerquery-m/extravalues-list)"
@@ -3172,25 +3190,25 @@
     "[Power Query M: If the splitter function returns more columns than the table expects, an error should be raised.](https://docs.microsoft.com/en-us/powerquery-m/extravalues-error)"
   ],
   "JoinAlgorithm.Dynamic": [
-    "[Power Query M: JoinAlgorithm.Dynamic](https://docs.microsoft.com/en-us/powerquery-m/joinalgorithm-dynamic)"
+    "[Power Query M: Automatically chooses a join algorithm based on inspecting the initial rows and metadata of both tables.](https://docs.microsoft.com/en-us/powerquery-m/joinalgorithm-dynamic)"
   ],
   "JoinAlgorithm.PairwiseHash": [
-    "[Power Query M: JoinAlgorithm.PairwiseHash](https://docs.microsoft.com/en-us/powerquery-m/joinalgorithm-pairwisehash)"
+    "[Power Query M: Buffers the rows of both the left and right tables until one of the tables is completely buffered, and then performs a LeftHash or RightHash, depending on which table was buffered completely. This algorithm is recommended only for small tables.](https://docs.microsoft.com/en-us/powerquery-m/joinalgorithm-pairwisehash)"
   ],
   "JoinAlgorithm.SortMerge": [
-    "[Power Query M: JoinAlgorithm.SortMerge](https://docs.microsoft.com/en-us/powerquery-m/joinalgorithm-sortmerge)"
+    "[Power Query M: Performs a streaming merge based on the assumption that both tables are sorted by their join keys. While efficient, it will return incorrect results if the tables aren't sorted as expected.](https://docs.microsoft.com/en-us/powerquery-m/joinalgorithm-sortmerge)"
   ],
   "JoinAlgorithm.LeftHash": [
-    "[Power Query M: JoinAlgorithm.LeftHash](https://docs.microsoft.com/en-us/powerquery-m/joinalgorithm-lefthash)"
+    "[Power Query M: Buffers the left rows into a lookup table and streams the right rows. For each right row, the matching left rows are found via the buffered lookup table. This algorithm is recommended when the left table is small and most of the rows from the right table are expected to match a left row.](https://docs.microsoft.com/en-us/powerquery-m/joinalgorithm-lefthash)"
   ],
   "JoinAlgorithm.RightHash": [
-    "[Power Query M: JoinAlgorithm.RightHash](https://docs.microsoft.com/en-us/powerquery-m/joinalgorithm-righthash)"
+    "[Power Query M: Buffers the right rows into a lookup table and streams the left rows. For each left row, the matching right rows are found via the buffered lookup table. This algorithm is recommended when the right table is small and most of the rows from the left table are expected to match a right row.](https://docs.microsoft.com/en-us/powerquery-m/joinalgorithm-righthash)"
   ],
   "JoinAlgorithm.LeftIndex": [
-    "[Power Query M: JoinAlgorithm.LeftIndex](https://docs.microsoft.com/en-us/powerquery-m/joinalgorithm-leftindex)"
+    "[Power Query M: In batches, uses the keys from the left table to do predicate-based queries against the right table. This algorithm is recommended when the right table is large, supports folding of Table.SelectRows, and contains few rows that are expected to match a left row.](https://docs.microsoft.com/en-us/powerquery-m/joinalgorithm-leftindex)"
   ],
   "JoinAlgorithm.RightIndex": [
-    "[Power Query M: JoinAlgorithm.RightIndex](https://docs.microsoft.com/en-us/powerquery-m/joinalgorithm-rightindex)"
+    "[Power Query M: In batches, uses the keys from the right table to do predicate-based queries against the left table. This algorithm is recommended when the left table is large, supports folding of Table.SelectRows, and contains few rows that are expected to match a right row.](https://docs.microsoft.com/en-us/powerquery-m/joinalgorithm-rightindex)"
   ],
   "JoinSide.Left": [
     "[Power Query M: Specifies the left table of a join.](https://docs.microsoft.com/en-us/powerquery-m/joinside-left)"
@@ -3241,7 +3259,7 @@
     "[Power Query M: Returns a table from the table specified where the value of the next cell is propagated to the null values cells above in the column specified.](https://docs.microsoft.com/en-us/powerquery-m/table-fillup)"
   ],
   "Table.FilterWithDataTable": [
-    "[Power Query M: No Description Provided. Click here to go to the documentation page.](https://docs.microsoft.com/en-us/powerquery-m/table-filterwithdatatable)"
+    "[Power Query M: This function is intended for internal use only.](https://docs.microsoft.com/en-us/powerquery-m/table-filterwithdatatable)"
   ],
   "Table.Group": [
     "[Power Query M: Groups table rows by the values of key columns for each row.](https://docs.microsoft.com/en-us/powerquery-m/table-group)"
@@ -3547,7 +3565,7 @@
     "[Power Query M: Returns a type returned by a function type.](https://docs.microsoft.com/en-us/powerquery-m/type-functionreturn)"
   ],
   "Type.Is": [
-    "[Power Query M: Type.Is](https://docs.microsoft.com/en-us/powerquery-m/type-is)"
+    "[Power Query M: Determines if a value of the first type is always compatible with the second type.](https://docs.microsoft.com/en-us/powerquery-m/type-is)"
   ],
   "Type.IsNullable": [
     "[Power Query M: Returns true if a type is a nullable type; otherwise, false.](https://docs.microsoft.com/en-us/powerquery-m/type-isnullable)"
@@ -3643,31 +3661,31 @@
     "[Power Query M: An optional parameter for the built-in arthimetic operators to specify decimal precision.](https://docs.microsoft.com/en-us/powerquery-m/precision-decimal)"
   ],
   "Value.As": [
-    "[Power Query M: Value.As is the function corresponding to the as operator in the formula language. The expression value as type asserts that the value of a value argument is compatible with type as per the is operator. If it is not compatible, an error is raised.](https://docs.microsoft.com/en-us/powerquery-m/value-as)"
+    "[Power Query M: Returns the value if it is compatible with the specified type.](https://docs.microsoft.com/en-us/powerquery-m/value-as)"
   ],
   "Value.Is": [
-    "[Power Query M: Value.Is is the function corresponding to the is operator in the formula language. The expression value is type returns true if the ascribed type of vlaue is compatible with type, and returns false if the ascribed type of value is incompatible with type.](https://docs.microsoft.com/en-us/powerquery-m/value-is)"
+    "[Power Query M: Determines whether a value is compatible with the specified type.](https://docs.microsoft.com/en-us/powerquery-m/value-is)"
   ],
   "Value.ReplaceType": [
     "[Power Query M: A value may be ascribed a type using Value.ReplaceType. Value.ReplaceType either returns a new value with the type ascribed or raises an error if the new type is incompatible with the values native primitive type. In particular, the function raises an error when an attempt is made to ascribe an abstract type, such as any. When replacing a the type of a record, the new type must have the same number of fields, and the new fields replace the old fields by ordinal position, not by name. Similarly, when replacing the type of a table, the new type must have the same number of columns, and the new columns replace the old columns by ordinal position.](https://docs.microsoft.com/en-us/powerquery-m/value-replacetype)"
   ],
   "DirectQueryCapabilities.From": [
-    "[Power Query M: DirectQueryCapabilities.From](https://docs.microsoft.com/en-us/powerquery-m/directquerycapabilities-from)"
+    "[Power Query M: This function is intended for internal use only.](https://docs.microsoft.com/en-us/powerquery-m/directquerycapabilities-from)"
   ],
   "Embedded.Value": [
     "[Power Query M: Accesses a value by name in an embedded mashup.](https://docs.microsoft.com/en-us/powerquery-m/embedded-value)"
   ],
   "Value.Firewall": [
-    "[Power Query M: Value.Firewall](https://docs.microsoft.com/en-us/powerquery-m/value-firewall)"
+    "[Power Query M: This function is intended for internal use only.](https://docs.microsoft.com/en-us/powerquery-m/value-firewall)"
   ],
   "Variable.Value": [
-    "[Power Query M: Variable.Value](https://docs.microsoft.com/en-us/powerquery-m/variable-value)"
+    "[Power Query M: This function is intended for internal use only.](https://docs.microsoft.com/en-us/powerquery-m/variable-value)"
   ],
   "SqlExpression.SchemaFrom": [
-    "[Power Query M: SqlExpression.SchemaFrom](https://docs.microsoft.com/en-us/powerquery-m/sqlexpression-schemafrom)"
+    "[Power Query M: This function is intended for internal use only.](https://docs.microsoft.com/en-us/powerquery-m/sqlexpression-schemafrom)"
   ],
   "SqlExpression.ToExpression": [
-    "[Power Query M: SqlExpression.ToExpression](https://docs.microsoft.com/en-us/powerquery-m/sqlexpression-toexpression)"
+    "[Power Query M: This function is intended for internal use only.](https://docs.microsoft.com/en-us/powerquery-m/sqlexpression-toexpression)"
   ],
   "Value.Metadata": [
     "[Power Query M: Returns a record containing the inputs metadata.](https://docs.microsoft.com/en-us/powerquery-m/value-metadata)"
