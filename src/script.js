@@ -289,7 +289,7 @@ async function getPowerQueryFunctions() {
   const categoriesURL = PQ_BASE + CATEGORIES_URL_FRAGMENT;
   const categoriesDocument = await getDOM(categoriesURL);
   const categoryNodes = categoriesDocument.querySelectorAll(
-    'main#main.content ul li a'
+    'main#main div.content ul li a'
   );
   const categories = Array.from(categoryNodes).map((e) => {
     return {
