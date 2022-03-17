@@ -9,9 +9,13 @@
 |
 [C](/r/excel/wiki/decronym/custom_alphabetical#wiki_c)
 |
+[D](/r/excel/wiki/decronym/custom_alphabetical#wiki_d)
+|
 [E](/r/excel/wiki/decronym/custom_alphabetical#wiki_e)
 |
 [F](/r/excel/wiki/decronym/custom_alphabetical#wiki_f)
+|
+[H](/r/excel/wiki/decronym/custom_alphabetical#wiki_h)
 |
 [I](/r/excel/wiki/decronym/custom_alphabetical#wiki_i)
 |
@@ -20,6 +24,12 @@
 [R](/r/excel/wiki/decronym/custom_alphabetical#wiki_r)
 |
 [S](/r/excel/wiki/decronym/custom_alphabetical#wiki_s)
+|
+[T](/r/excel/wiki/decronym/custom_alphabetical#wiki_t)
+|
+[V](/r/excel/wiki/decronym/custom_alphabetical#wiki_v)
+|
+[W](/r/excel/wiki/decronym/custom_alphabetical#wiki_w)
 |
 
 
@@ -39,9 +49,13 @@
 |
 [C](/r/excel/wiki/decronym/custom_alphabetical#wiki_c)
 |
+[D](/r/excel/wiki/decronym/custom_alphabetical#wiki_d)
+|
 [E](/r/excel/wiki/decronym/custom_alphabetical#wiki_e)
 |
 [F](/r/excel/wiki/decronym/custom_alphabetical#wiki_f)
+|
+[H](/r/excel/wiki/decronym/custom_alphabetical#wiki_h)
 |
 [I](/r/excel/wiki/decronym/custom_alphabetical#wiki_i)
 |
@@ -50,6 +64,12 @@
 [R](/r/excel/wiki/decronym/custom_alphabetical#wiki_r)
 |
 [S](/r/excel/wiki/decronym/custom_alphabetical#wiki_s)
+|
+[T](/r/excel/wiki/decronym/custom_alphabetical#wiki_t)
+|
+[V](/r/excel/wiki/decronym/custom_alphabetical#wiki_v)
+|
+[W](/r/excel/wiki/decronym/custom_alphabetical#wiki_w)
 |
 
 
@@ -68,9 +88,13 @@
 |
 **C**
 |
+[D](/r/excel/wiki/decronym/custom_alphabetical#wiki_d)
+|
 [E](/r/excel/wiki/decronym/custom_alphabetical#wiki_e)
 |
 [F](/r/excel/wiki/decronym/custom_alphabetical#wiki_f)
+|
+[H](/r/excel/wiki/decronym/custom_alphabetical#wiki_h)
 |
 [I](/r/excel/wiki/decronym/custom_alphabetical#wiki_i)
 |
@@ -80,12 +104,58 @@
 |
 [S](/r/excel/wiki/decronym/custom_alphabetical#wiki_s)
 |
+[T](/r/excel/wiki/decronym/custom_alphabetical#wiki_t)
+|
+[V](/r/excel/wiki/decronym/custom_alphabetical#wiki_v)
+|
+[W](/r/excel/wiki/decronym/custom_alphabetical#wiki_w)
+|
 
 
 ---
-| Function name                                                                                                | Type and description                                                                                                                                                                                                                                                          |
-| ------------------------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [CSE](https://support.office.com/en-gb/article/Create-an-array-formula-e43e12e0-afc6-4a12-bc7f-48361075954d) | Array formulas are powerful formulas that enable you to perform complex calculations that often can't be done with standard worksheet functions. They are also referred to as "Ctrl-Shift-Enter" or "CSE" formulas, because you need to press Ctrl+Shift+Enter to enter them. |
+| Function name                                                                                                      | Type and description                                                                                                                                                                                                                                                          |
+| ------------------------------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [CSE](https://support.office.com/en-gb/article/Create-an-array-formula-e43e12e0-afc6-4a12-bc7f-48361075954d)       | Array formulas are powerful formulas that enable you to perform complex calculations that often can't be done with standard worksheet functions. They are also referred to as "Ctrl-Shift-Enter" or "CSE" formulas, because you need to press Ctrl+Shift+Enter to enter them. |
+| [CHOOSEROWS ](https://support.microsoft.com/en-us/office/chooserows-function-51ace882-9bab-4a44-9625-7274ef7507a3) | Returns an array containing just the rows specified.                                                                                                                                                                                                                          |
+| [CHOOSECOLS ](https://support.microsoft.com/en-us/office/choosecols-function-bf117976-2722-4466-9b9a-1c01ed9aebff) | Returns the specified rows from an array.                                                                                                                                                                                                                                     |
+
+### D
+---
+
+[A](/r/excel/wiki/decronym/custom_alphabetical#wiki_a)
+|
+[B](/r/excel/wiki/decronym/custom_alphabetical#wiki_b)
+|
+[C](/r/excel/wiki/decronym/custom_alphabetical#wiki_c)
+|
+**D**
+|
+[E](/r/excel/wiki/decronym/custom_alphabetical#wiki_e)
+|
+[F](/r/excel/wiki/decronym/custom_alphabetical#wiki_f)
+|
+[H](/r/excel/wiki/decronym/custom_alphabetical#wiki_h)
+|
+[I](/r/excel/wiki/decronym/custom_alphabetical#wiki_i)
+|
+[M](/r/excel/wiki/decronym/custom_alphabetical#wiki_m)
+|
+[R](/r/excel/wiki/decronym/custom_alphabetical#wiki_r)
+|
+[S](/r/excel/wiki/decronym/custom_alphabetical#wiki_s)
+|
+[T](/r/excel/wiki/decronym/custom_alphabetical#wiki_t)
+|
+[V](/r/excel/wiki/decronym/custom_alphabetical#wiki_v)
+|
+[W](/r/excel/wiki/decronym/custom_alphabetical#wiki_w)
+|
+
+
+---
+| Function name                                                                                          | Type and description                                                                                                                                                        |
+| ------------------------------------------------------------------------------------------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [DROP ](https://support.microsoft.com/en-us/office/drop-function-1cb4e151-9e17-4838-abe5-9ba48d8c6a34) | Excludes a specified number of contiguous rows or columns from the start or end of an array. You might find this function useful to remove headers and footers in a report. |
 
 ### E
 ---
@@ -96,9 +166,13 @@
 |
 [C](/r/excel/wiki/decronym/custom_alphabetical#wiki_c)
 |
+[D](/r/excel/wiki/decronym/custom_alphabetical#wiki_d)
+|
 **E**
 |
 [F](/r/excel/wiki/decronym/custom_alphabetical#wiki_f)
+|
+[H](/r/excel/wiki/decronym/custom_alphabetical#wiki_h)
 |
 [I](/r/excel/wiki/decronym/custom_alphabetical#wiki_i)
 |
@@ -108,12 +182,19 @@
 |
 [S](/r/excel/wiki/decronym/custom_alphabetical#wiki_s)
 |
+[T](/r/excel/wiki/decronym/custom_alphabetical#wiki_t)
+|
+[V](/r/excel/wiki/decronym/custom_alphabetical#wiki_v)
+|
+[W](/r/excel/wiki/decronym/custom_alphabetical#wiki_w)
+|
 
 
 ---
 | Function name                                                                                                                                   | Type and description                                                                                                                                                                                              |
 | ----------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | [ERROR_CHECKING](https://support.office.com/en-us/article/Use-error-checking-to-detect-errors-in-formulas-4d4c160b-8d9a-45f1-bec7-75f4b90045f8) | Formulas can sometimes result in error values in addition to returning unintended results. Click here for some tools that you can use to find and investigate the causes of these errors and determine solutions. |
+| [EXPAND ](https://support.microsoft.com/en-us/office/expand-function-7433fba5-4ad1-41da-a904-d5d95808bc38)                                      | Expands or pads an array to specified row and column dimensions.                                                                                                                                                  |
 
 ### F
 ---
@@ -124,9 +205,13 @@
 |
 [C](/r/excel/wiki/decronym/custom_alphabetical#wiki_c)
 |
+[D](/r/excel/wiki/decronym/custom_alphabetical#wiki_d)
+|
 [E](/r/excel/wiki/decronym/custom_alphabetical#wiki_e)
 |
 **F**
+|
+[H](/r/excel/wiki/decronym/custom_alphabetical#wiki_h)
 |
 [I](/r/excel/wiki/decronym/custom_alphabetical#wiki_i)
 |
@@ -135,6 +220,12 @@
 [R](/r/excel/wiki/decronym/custom_alphabetical#wiki_r)
 |
 [S](/r/excel/wiki/decronym/custom_alphabetical#wiki_s)
+|
+[T](/r/excel/wiki/decronym/custom_alphabetical#wiki_t)
+|
+[V](/r/excel/wiki/decronym/custom_alphabetical#wiki_v)
+|
+[W](/r/excel/wiki/decronym/custom_alphabetical#wiki_w)
 |
 
 
@@ -145,6 +236,44 @@
 | [FORECASTING](https://support.office.com/en-us/article/Forecasting-functions-897a2fe9-6595-4680-a0b0-93e0308d5f6e)              | Here is a list of Excel forecasting functions. forecasting functions can be used to predict future values based on historical data. These functions use advanced machine learning algorithms, such as Exponential Triple Smoothing (ETS). |
 | [FORMULA_OVERVIEW](https://support.office.com/en-us/article/Overview-of-formulas-in-Excel-ecfdc708-9162-49e8-b993-c311f47ca173) | Click here for an overview of formulas in Excel. Get started on how to create formulas and use built-in functions to perform calculations and solve problems.                                                                             |
 
+### H
+---
+
+[A](/r/excel/wiki/decronym/custom_alphabetical#wiki_a)
+|
+[B](/r/excel/wiki/decronym/custom_alphabetical#wiki_b)
+|
+[C](/r/excel/wiki/decronym/custom_alphabetical#wiki_c)
+|
+[D](/r/excel/wiki/decronym/custom_alphabetical#wiki_d)
+|
+[E](/r/excel/wiki/decronym/custom_alphabetical#wiki_e)
+|
+[F](/r/excel/wiki/decronym/custom_alphabetical#wiki_f)
+|
+**H**
+|
+[I](/r/excel/wiki/decronym/custom_alphabetical#wiki_i)
+|
+[M](/r/excel/wiki/decronym/custom_alphabetical#wiki_m)
+|
+[R](/r/excel/wiki/decronym/custom_alphabetical#wiki_r)
+|
+[S](/r/excel/wiki/decronym/custom_alphabetical#wiki_s)
+|
+[T](/r/excel/wiki/decronym/custom_alphabetical#wiki_t)
+|
+[V](/r/excel/wiki/decronym/custom_alphabetical#wiki_v)
+|
+[W](/r/excel/wiki/decronym/custom_alphabetical#wiki_w)
+|
+
+
+---
+| Function name                                                                                              | Type and description                                                                                 |
+| ---------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------- |
+| [HSTACK ](https://support.microsoft.com/en-us/office/hstack-function-98c4ab76-10fe-4b4f-8d5f-af1c125fe8c2) | HSTACK returns the array formed by appending each of the array arguments in a column-wise fashion.   |
+
 ### I
 ---
 
@@ -154,9 +283,13 @@
 |
 [C](/r/excel/wiki/decronym/custom_alphabetical#wiki_c)
 |
+[D](/r/excel/wiki/decronym/custom_alphabetical#wiki_d)
+|
 [E](/r/excel/wiki/decronym/custom_alphabetical#wiki_e)
 |
 [F](/r/excel/wiki/decronym/custom_alphabetical#wiki_f)
+|
+[H](/r/excel/wiki/decronym/custom_alphabetical#wiki_h)
 |
 **I**
 |
@@ -165,6 +298,12 @@
 [R](/r/excel/wiki/decronym/custom_alphabetical#wiki_r)
 |
 [S](/r/excel/wiki/decronym/custom_alphabetical#wiki_s)
+|
+[T](/r/excel/wiki/decronym/custom_alphabetical#wiki_t)
+|
+[V](/r/excel/wiki/decronym/custom_alphabetical#wiki_v)
+|
+[W](/r/excel/wiki/decronym/custom_alphabetical#wiki_w)
 |
 
 
@@ -182,9 +321,13 @@
 |
 [C](/r/excel/wiki/decronym/custom_alphabetical#wiki_c)
 |
+[D](/r/excel/wiki/decronym/custom_alphabetical#wiki_d)
+|
 [E](/r/excel/wiki/decronym/custom_alphabetical#wiki_e)
 |
 [F](/r/excel/wiki/decronym/custom_alphabetical#wiki_f)
+|
+[H](/r/excel/wiki/decronym/custom_alphabetical#wiki_h)
 |
 [I](/r/excel/wiki/decronym/custom_alphabetical#wiki_i)
 |
@@ -193,6 +336,12 @@
 [R](/r/excel/wiki/decronym/custom_alphabetical#wiki_r)
 |
 [S](/r/excel/wiki/decronym/custom_alphabetical#wiki_s)
+|
+[T](/r/excel/wiki/decronym/custom_alphabetical#wiki_t)
+|
+[V](/r/excel/wiki/decronym/custom_alphabetical#wiki_v)
+|
+[W](/r/excel/wiki/decronym/custom_alphabetical#wiki_w)
 |
 
 
@@ -211,9 +360,13 @@
 |
 [C](/r/excel/wiki/decronym/custom_alphabetical#wiki_c)
 |
+[D](/r/excel/wiki/decronym/custom_alphabetical#wiki_d)
+|
 [E](/r/excel/wiki/decronym/custom_alphabetical#wiki_e)
 |
 [F](/r/excel/wiki/decronym/custom_alphabetical#wiki_f)
+|
+[H](/r/excel/wiki/decronym/custom_alphabetical#wiki_h)
 |
 [I](/r/excel/wiki/decronym/custom_alphabetical#wiki_i)
 |
@@ -222,6 +375,12 @@
 **R**
 |
 [S](/r/excel/wiki/decronym/custom_alphabetical#wiki_s)
+|
+[T](/r/excel/wiki/decronym/custom_alphabetical#wiki_t)
+|
+[V](/r/excel/wiki/decronym/custom_alphabetical#wiki_v)
+|
+[W](/r/excel/wiki/decronym/custom_alphabetical#wiki_w)
 |
 
 
@@ -239,9 +398,13 @@
 |
 [C](/r/excel/wiki/decronym/custom_alphabetical#wiki_c)
 |
+[D](/r/excel/wiki/decronym/custom_alphabetical#wiki_d)
+|
 [E](/r/excel/wiki/decronym/custom_alphabetical#wiki_e)
 |
 [F](/r/excel/wiki/decronym/custom_alphabetical#wiki_f)
+|
+[H](/r/excel/wiki/decronym/custom_alphabetical#wiki_h)
 |
 [I](/r/excel/wiki/decronym/custom_alphabetical#wiki_i)
 |
@@ -251,10 +414,136 @@
 |
 **S**
 |
+[T](/r/excel/wiki/decronym/custom_alphabetical#wiki_t)
+|
+[V](/r/excel/wiki/decronym/custom_alphabetical#wiki_v)
+|
+[W](/r/excel/wiki/decronym/custom_alphabetical#wiki_w)
+|
 
 
 ---
 | Function name                                                                                                                 | Type and description                                                                                                     |
 | ----------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------ |
 | [SCAN](https://support.microsoft.com/en-gb/office/scan-function-d58dfd11-9969-4439-b2dc-e7062724de29?ui=en-US&rs=en-GB&ad=GB) | *Office 365*+: Scans an array by applying a LAMBDA  to each value and returns an array that has each intermediate value. |
+
+### T
+---
+
+[A](/r/excel/wiki/decronym/custom_alphabetical#wiki_a)
+|
+[B](/r/excel/wiki/decronym/custom_alphabetical#wiki_b)
+|
+[C](/r/excel/wiki/decronym/custom_alphabetical#wiki_c)
+|
+[D](/r/excel/wiki/decronym/custom_alphabetical#wiki_d)
+|
+[E](/r/excel/wiki/decronym/custom_alphabetical#wiki_e)
+|
+[F](/r/excel/wiki/decronym/custom_alphabetical#wiki_f)
+|
+[H](/r/excel/wiki/decronym/custom_alphabetical#wiki_h)
+|
+[I](/r/excel/wiki/decronym/custom_alphabetical#wiki_i)
+|
+[M](/r/excel/wiki/decronym/custom_alphabetical#wiki_m)
+|
+[R](/r/excel/wiki/decronym/custom_alphabetical#wiki_r)
+|
+[S](/r/excel/wiki/decronym/custom_alphabetical#wiki_s)
+|
+**T**
+|
+[V](/r/excel/wiki/decronym/custom_alphabetical#wiki_v)
+|
+[W](/r/excel/wiki/decronym/custom_alphabetical#wiki_w)
+|
+
+
+---
+| Function name                                                                                                      | Type and description                                                                                                                       |
+| ------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------ |
+| [TEXTBEFORE ](https://support.microsoft.com/en-us/office/textbefore-function-d099c28a-dba8-448e-ac6c-f086d0fa1b29) | *Office 365*+: Returns a string of text that occurs before a given substring in that string. It is the opposite of the TEXTAFTER function. |
+| [TEXTAFTER ](https://support.microsoft.com/en-us/office/textafter-function-c8db2546-5b51-416a-9690-c7e6722e90b4)   | *Office 365*+: Returns a string of text that occurs after a substring in a string. It is the opposite of the TEXTBEFORE function.          |
+| [TEXTSPLIT ](https://support.microsoft.com/en-us/office/textsplit-function-b1ca414e-4c21-4ca0-b1b7-bdecace8a6e7)   | *Office 365*+: Splits text strings by using column and row delimiters.                                                                     |
+| [TOROW ](https://support.microsoft.com/en-us/office/torow-function-b90d0964-a7d9-44b7-816b-ffa5c2fe2289)           | Returns a row vector containing all the items in the source array.                                                                         |
+| [TOCOL ](https://support.microsoft.com/en-us/office/tocol-function-22839d9b-0b55-4fc1-b4e6-2761f8f122ed)           | Returns a column vector containing all the items in the source array.                                                                      |
+| [TAKE ](https://support.microsoft.com/en-us/office/take-function-25382ff1-5da1-4f78-ab43-f33bd2e4e003)             | Returns a specified number of contiguous rows or columns from the start or end of an array.                                                |
+
+### V
+---
+
+[A](/r/excel/wiki/decronym/custom_alphabetical#wiki_a)
+|
+[B](/r/excel/wiki/decronym/custom_alphabetical#wiki_b)
+|
+[C](/r/excel/wiki/decronym/custom_alphabetical#wiki_c)
+|
+[D](/r/excel/wiki/decronym/custom_alphabetical#wiki_d)
+|
+[E](/r/excel/wiki/decronym/custom_alphabetical#wiki_e)
+|
+[F](/r/excel/wiki/decronym/custom_alphabetical#wiki_f)
+|
+[H](/r/excel/wiki/decronym/custom_alphabetical#wiki_h)
+|
+[I](/r/excel/wiki/decronym/custom_alphabetical#wiki_i)
+|
+[M](/r/excel/wiki/decronym/custom_alphabetical#wiki_m)
+|
+[R](/r/excel/wiki/decronym/custom_alphabetical#wiki_r)
+|
+[S](/r/excel/wiki/decronym/custom_alphabetical#wiki_s)
+|
+[T](/r/excel/wiki/decronym/custom_alphabetical#wiki_t)
+|
+**V**
+|
+[W](/r/excel/wiki/decronym/custom_alphabetical#wiki_w)
+|
+
+
+---
+| Function name                                                                                              | Type and description                                           |
+| ---------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------- |
+| [VSTACK ](https://support.microsoft.com/en-us/office/vstack-function-a4b86897-be0f-48fc-adca-fcc10d795a9c) | Appends data to the first blank cell at the bottom of a range. |
+
+### W
+---
+
+[A](/r/excel/wiki/decronym/custom_alphabetical#wiki_a)
+|
+[B](/r/excel/wiki/decronym/custom_alphabetical#wiki_b)
+|
+[C](/r/excel/wiki/decronym/custom_alphabetical#wiki_c)
+|
+[D](/r/excel/wiki/decronym/custom_alphabetical#wiki_d)
+|
+[E](/r/excel/wiki/decronym/custom_alphabetical#wiki_e)
+|
+[F](/r/excel/wiki/decronym/custom_alphabetical#wiki_f)
+|
+[H](/r/excel/wiki/decronym/custom_alphabetical#wiki_h)
+|
+[I](/r/excel/wiki/decronym/custom_alphabetical#wiki_i)
+|
+[M](/r/excel/wiki/decronym/custom_alphabetical#wiki_m)
+|
+[R](/r/excel/wiki/decronym/custom_alphabetical#wiki_r)
+|
+[S](/r/excel/wiki/decronym/custom_alphabetical#wiki_s)
+|
+[T](/r/excel/wiki/decronym/custom_alphabetical#wiki_t)
+|
+[V](/r/excel/wiki/decronym/custom_alphabetical#wiki_v)
+|
+**W**
+|
+
+
+---
+| Function name                                                                                                  | Type and description                                                       |
+| -------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------- |
+| [WRAPROWS ](https://support.microsoft.com/en-us/office/wraprows-function-796825f3-975a-4cee-9c84-1bbddf60ade0) | Wraps the provided vector by rows after a specified number of elements.    |
+| [WRAPCOLS ](https://support.microsoft.com/en-us/office/wrapcols-function-d038b05a-57b7-4ee0-be94-ded0792511e2) | Wraps the provided vector by columns after a specified number of elements. |
 

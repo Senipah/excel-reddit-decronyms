@@ -1226,6 +1226,9 @@
   "STANDARDIZE": [
     "[Returns a normalized value](https://support.microsoft.com/en-us/office/standardize-function-81d66554-2d54-40ec-ba83-6437108ee775)"
   ],
+  "STOCKHISTORY": [
+    "[Retrieves historical data about a financial instrument](https://support.microsoft.com/en-us/office/stockhistory-function-1ac8b5b3-5f62-4d94-8ab8-7504ec7239a8)"
+  ],
   "STDEV": [
     "[Estimates standard deviation based on a sample](https://support.microsoft.com/en-us/office/stdev-function-51fecaaa-231e-4bbb-9230-33650a72c9b0)"
   ],
@@ -1508,6 +1511,12 @@
   "AzureStorage.Tables": [
     "[Power Query M: Returns a navigational table containing a row for each table found at the account URL from an Azure storage vault. Each row contains a link to the azure table.](https://docs.microsoft.com/en-us/powerquery-m/azurestorage-tables)"
   ],
+  "BufferMode.Delayed": [
+    "[Power Query M: The type of the value is computed immediately but its contents aren't buffered until data is needed, at which point the entire value is immediately buffered.](https://docs.microsoft.com/en-us/powerquery-m/buffermode-delayed)"
+  ],
+  "BufferMode.Eager": [
+    "[Power Query M: The entire value is immediately buffered in memory before continuing.](https://docs.microsoft.com/en-us/powerquery-m/buffermode-eager)"
+  ],
   "Cdm.Contents": [
     "[Power Query M: This function is unavailable because it requires .NET 4.5.](https://docs.microsoft.com/en-us/powerquery-m/cdm-contents)"
   ],
@@ -1542,7 +1551,7 @@
     "[Power Query M: Returns a table containing the set of available dimensions within the cube.](https://docs.microsoft.com/en-us/powerquery-m/cube-dimensions)"
   ],
   "Cube.DisplayFolders": [
-    "[Power Query M: Returns a nested tree of tables representing the display folder hierarchy of the objects (e.g. dimensions and measures) available for use in the cube.](https://docs.microsoft.com/en-us/powerquery-m/cube-displayfolders)"
+    "[Power Query M: Returns a nested tree of tables representing the display folder hierarchy of the objects (for example, dimensions and measures).](https://docs.microsoft.com/en-us/powerquery-m/cube-displayfolders)"
   ],
   "Cube.MeasureProperties": [
     "[Power Query M: Returns a table containing the set of available properties for measures that are expanded in the cube.](https://docs.microsoft.com/en-us/powerquery-m/cube-measureproperties)"
@@ -1563,7 +1572,7 @@
     "[Power Query M: Returns the key of property property.](https://docs.microsoft.com/en-us/powerquery-m/cube-propertykey)"
   ],
   "Cube.ReplaceDimensions": [
-    "[Power Query M: No Description Provided. Click here to go to the documentation page.](https://docs.microsoft.com/en-us/powerquery-m/cube-replacedimensions)"
+    "[Power Query M: Replaces the set of dimensions returned by Cube.Dimensions.](https://docs.microsoft.com/en-us/powerquery-m/cube-replacedimensions)"
   ],
   "Cube.Transform": [
     "[Power Query M: Applies the list cube functions, transforms, on the cube.](https://docs.microsoft.com/en-us/powerquery-m/cube-transform)"
@@ -1766,6 +1775,9 @@
   ],
   "Web.Contents": [
     "[Power Query M: Returns the contents downloaded from a web url as a binary value.](https://docs.microsoft.com/en-us/powerquery-m/web-contents)"
+  ],
+  "Web.Headers": [
+    "[Power Query M: Returns the HTTP headers downloaded from the url as a record value.](https://docs.microsoft.com/en-us/powerquery-m/web-headers)"
   ],
   "Web.Page": [
     "[Power Query M: Returns the contents of an HTML webpage as a table.](https://docs.microsoft.com/en-us/powerquery-m/web-page)"
@@ -2032,7 +2044,7 @@
     "[Power Query M: Returns a date value from a value.](https://docs.microsoft.com/en-us/powerquery-m/date-from)"
   ],
   "Date.FromText": [
-    "[Power Query M: Returns a Date value from a set of date formats and culture value.](https://docs.microsoft.com/en-us/powerquery-m/date-fromtext)"
+    "[Power Query M: Creates a Date from local, universal, and custom Date formats.](https://docs.microsoft.com/en-us/powerquery-m/date-fromtext)"
   ],
   "Date.IsInCurrentDay": [
     "[Power Query M: Indicates whether the given datetime value dateTime occurs during the current day, as determined by the current date and time on the system.](https://docs.microsoft.com/en-us/powerquery-m/date-isincurrentday)"
@@ -2194,7 +2206,7 @@
     "[Power Query M: Returns a DateTime value from the supplied number.](https://docs.microsoft.com/en-us/powerquery-m/datetime-fromfiletime)"
   ],
   "DateTime.FromText": [
-    "[Power Query M: Returns a DateTime value from a set of date formats and culture value.](https://docs.microsoft.com/en-us/powerquery-m/datetime-fromtext)"
+    "[Power Query M: Creates a datetime from local and universal datetime formats.](https://docs.microsoft.com/en-us/powerquery-m/datetime-fromtext)"
   ],
   "DateTime.IsInCurrentHour": [
     "[Power Query M: Indicates whether the given datetime value occurs during the current hour, as determined by the current date and time on the system.](https://docs.microsoft.com/en-us/powerquery-m/datetime-isincurrenthour)"
@@ -2269,7 +2281,7 @@
     "[Power Query M: Returns a DateTimeZone from a number value.](https://docs.microsoft.com/en-us/powerquery-m/datetimezone-fromfiletime)"
   ],
   "DateTimeZone.FromText": [
-    "[Power Query M: Returns a DateTimeZone value from a set of date formats and culture value.](https://docs.microsoft.com/en-us/powerquery-m/datetimezone-fromtext)"
+    "[Power Query M: Creates a datetimezone from local, universal, and custom datetimezone formats.](https://docs.microsoft.com/en-us/powerquery-m/datetimezone-fromtext)"
   ],
   "DateTimeZone.LocalNow": [
     "[Power Query M: Returns a DateTime value set to the current system date and time.](https://docs.microsoft.com/en-us/powerquery-m/datetimezone-localnow)"
@@ -2815,19 +2827,19 @@
     "[Power Query M: Returns the result of a bitwise XOR operation on the provided operands.](https://docs.microsoft.com/en-us/powerquery-m/number-bitwisexor)"
   ],
   "RoundingMode.AwayFromZero": [
-    "[Power Query M: RoundingMode.AwayFromZero](https://docs.microsoft.com/en-us/powerquery-m/roundingmode-awayfromzero)"
+    "[Power Query M: Round away from zero when there is a tie between the possible numbers to round to.](https://docs.microsoft.com/en-us/powerquery-m/roundingmode-awayfromzero)"
   ],
   "RoundingMode.Down": [
-    "[Power Query M: RoundingMode.Down](https://docs.microsoft.com/en-us/powerquery-m/roundingmode-down)"
+    "[Power Query M: Round down when there is a tie between the possible numbers to round to.](https://docs.microsoft.com/en-us/powerquery-m/roundingmode-down)"
   ],
   "RoundingMode.ToEven": [
-    "[Power Query M: RoundingMode.ToEven](https://docs.microsoft.com/en-us/powerquery-m/roundingmode-toeven)"
+    "[Power Query M: Round to the nearest even number when there is a tie between the possible numbers to round to.](https://docs.microsoft.com/en-us/powerquery-m/roundingmode-toeven)"
   ],
   "RoundingMode.TowardZero": [
-    "[Power Query M: RoundingMode.TowardZero](https://docs.microsoft.com/en-us/powerquery-m/roundingmode-towardzero)"
+    "[Power Query M: Round toward zero when there is a tie between the possible numbers to round to.](https://docs.microsoft.com/en-us/powerquery-m/roundingmode-towardzero)"
   ],
   "RoundingMode.Up": [
-    "[Power Query M: RoundingMode.Up](https://docs.microsoft.com/en-us/powerquery-m/roundingmode-up)"
+    "[Power Query M: Round up when there is a tie between the possible numbers to round to.](https://docs.microsoft.com/en-us/powerquery-m/roundingmode-up)"
   ],
   "Record.FieldCount": [
     "[Power Query M: Returns the number of fields in a record.](https://docs.microsoft.com/en-us/powerquery-m/record-fieldcount)"
@@ -3346,7 +3358,7 @@
     "[Power Query M: Buffers a table into memory, isolating it from external changes during evaluation.](https://docs.microsoft.com/en-us/powerquery-m/table-buffer)"
   ],
   "Text.InferNumberType": [
-    "[Power Query M: Infers granular number type (Int64.Type, Double.Type, etc.) of text using culture.](https://docs.microsoft.com/en-us/powerquery-m/text-infernumbertype)"
+    "[Power Query M: Infers the granular number type (Int64.Type, Double.Type, and so on) of a number encoded in text.](https://docs.microsoft.com/en-us/powerquery-m/text-infernumbertype)"
   ],
   "Text.Length": [
     "[Power Query M: Returns the number of characters in a text value.](https://docs.microsoft.com/en-us/powerquery-m/text-length)"
@@ -3517,7 +3529,7 @@
     "[Power Query M: Returns a time value from a value.](https://docs.microsoft.com/en-us/powerquery-m/time-from)"
   ],
   "Time.FromText": [
-    "[Power Query M: Returns a Time value from a set of date formats.](https://docs.microsoft.com/en-us/powerquery-m/time-fromtext)"
+    "[Power Query M: Creates a Time from local, universal, and custom Time formats.](https://docs.microsoft.com/en-us/powerquery-m/time-fromtext)"
   ],
   "Time.Hour": [
     "[Power Query M: Returns an hour value from a DateTime value.](https://docs.microsoft.com/en-us/powerquery-m/time-hour)"
@@ -3675,6 +3687,9 @@
   "Embedded.Value": [
     "[Power Query M: Accesses a value by name in an embedded mashup.](https://docs.microsoft.com/en-us/powerquery-m/embedded-value)"
   ],
+  "Excel.ShapeTable": [
+    "[Power Query M: This function is intended for internal use only.](https://docs.microsoft.com/en-us/powerquery-m/excel-shapetable)"
+  ],
   "Value.Firewall": [
     "[Power Query M: This function is intended for internal use only.](https://docs.microsoft.com/en-us/powerquery-m/value-firewall)"
   ],
@@ -3752,5 +3767,47 @@
   ],
   "ISOMITTED": [
     "[*Office 365*+: Checks whether the value in a LAMBDA is missing and returns TRUE or FALSE.](https://support.microsoft.com/en-gb/office/isomitted-function-831d6fbc-0f07-40c4-9c5b-9c73fd1d60c1?ui=en-US&rs=en-GB&ad=GB)"
+  ],
+  "TEXTBEFORE ": [
+    "[*Office 365*+: Returns a string of text that occurs before a given substring in that string. It is the opposite of the TEXTAFTER function.](https://support.microsoft.com/en-us/office/textbefore-function-d099c28a-dba8-448e-ac6c-f086d0fa1b29)"
+  ],
+  "TEXTAFTER ": [
+    "[*Office 365*+: Returns a string of text that occurs after a substring in a string. It is the opposite of the TEXTBEFORE function.](https://support.microsoft.com/en-us/office/textafter-function-c8db2546-5b51-416a-9690-c7e6722e90b4)"
+  ],
+  "TEXTSPLIT ": [
+    "[*Office 365*+: Splits text strings by using column and row delimiters.](https://support.microsoft.com/en-us/office/textsplit-function-b1ca414e-4c21-4ca0-b1b7-bdecace8a6e7)"
+  ],
+  "VSTACK ": [
+    "[Appends data to the first blank cell at the bottom of a range.](https://support.microsoft.com/en-us/office/vstack-function-a4b86897-be0f-48fc-adca-fcc10d795a9c)"
+  ],
+  "HSTACK ": [
+    "[HSTACK returns the array formed by appending each of the array arguments in a column-wise fashion.  ](https://support.microsoft.com/en-us/office/hstack-function-98c4ab76-10fe-4b4f-8d5f-af1c125fe8c2)"
+  ],
+  "TOROW ": [
+    "[Returns a row vector containing all the items in the source array. ](https://support.microsoft.com/en-us/office/torow-function-b90d0964-a7d9-44b7-816b-ffa5c2fe2289)"
+  ],
+  "TOCOL ": [
+    "[Returns a column vector containing all the items in the source array. ](https://support.microsoft.com/en-us/office/tocol-function-22839d9b-0b55-4fc1-b4e6-2761f8f122ed)"
+  ],
+  "WRAPROWS ": [
+    "[Wraps the provided vector by rows after a specified number of elements.](https://support.microsoft.com/en-us/office/wraprows-function-796825f3-975a-4cee-9c84-1bbddf60ade0)"
+  ],
+  "WRAPCOLS ": [
+    "[Wraps the provided vector by columns after a specified number of elements.](https://support.microsoft.com/en-us/office/wrapcols-function-d038b05a-57b7-4ee0-be94-ded0792511e2)"
+  ],
+  "TAKE ": [
+    "[Returns a specified number of contiguous rows or columns from the start or end of an array.](https://support.microsoft.com/en-us/office/take-function-25382ff1-5da1-4f78-ab43-f33bd2e4e003)"
+  ],
+  "DROP ": [
+    "[Excludes a specified number of contiguous rows or columns from the start or end of an array. You might find this function useful to remove headers and footers in a report.](https://support.microsoft.com/en-us/office/drop-function-1cb4e151-9e17-4838-abe5-9ba48d8c6a34)"
+  ],
+  "CHOOSEROWS ": [
+    "[Returns an array containing just the rows specified.](https://support.microsoft.com/en-us/office/chooserows-function-51ace882-9bab-4a44-9625-7274ef7507a3)"
+  ],
+  "CHOOSECOLS ": [
+    "[Returns the specified rows from an array.  ](https://support.microsoft.com/en-us/office/choosecols-function-bf117976-2722-4466-9b9a-1c01ed9aebff)"
+  ],
+  "EXPAND ": [
+    "[Expands or pads an array to specified row and column dimensions. ](https://support.microsoft.com/en-us/office/expand-function-7433fba5-4ad1-41da-a904-d5d95808bc38)"
   ]
 }
